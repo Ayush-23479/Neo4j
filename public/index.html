@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CorridorGuard AI — Cross-Border Sanctions Screening</title>
+  <style>
+    :root {
+      --bg: #0a0e17;
+      --bg-subtle: #111827;
+      --fg: #e8edf5;
+      --muted: #6b7c93;
+      --accent: #00d4aa;
+      --accent-dim: #00a080;
+      --warning: #fbbf24;
+      --error: #f87171;
+      --card: #1a2235;
+      --border: #2a3a52;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3 {
+      margin: 0.8em 0;
+      color: var(--fg);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover {
+      color: var(--accent-dim);
+      text-decoration: underline;
+    }
+
+    /* Header/Nav */
+    header {
+      background: var(--bg-subtle);
+      border-bottom: 1px solid var(--border);
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      padding: 1rem 2rem;
+    }
+
+    .nav-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 1.2rem;
+      font-weight: 600;
+      letter-spacing: -0.5px;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 1.5rem;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .nav-links a {
+      color: var(--muted);
+      transition: color 0.2s;
+    }
+    .nav-links a:hover {
+      color: var(--fg);
+    }
+
+    /* Main content */
+    main {
+      max-width: 1200px;
+      margin: 80px auto 0;
+      padding: 0 2rem;
+    }
+
+    .section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.5rem 2rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .section h2 {
+      margin-top: 0;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* Controls */
+    .controls {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-top: 1rem;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.6rem 1.2rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--bg-subtle);
+      color: var(--fg);
+      transition: all 0.2s;
+    }
+    .btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .btn:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+    .btn.primary {
+      background: var(--accent);
+      color: var(--bg);
+      border-color: var(--accent);
+    }
+    .btn.primary:hover {
+      background: var(--accent-dim);
+      border-color: var(--accent-dim);
+    }
+    .btn.warning {
+      background: var(--warning);
+      color: var(--bg);
+      border-color: var(--warning);
+    }
+    .btn.error {
+      background: var(--error);
+      color: var(--bg);
+      border-color: var(--error);
+    }
+
+    /* Forms */
+    .form-group {
+      margin-bottom: 1rem;
+    }
+    .form-group label {
+      display: block;
+      margin-bottom: 0.4rem;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+      width: 100%;
+      padding: 0.6rem;
+      border-radius: 4px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--fg);
+      font-size: 0.85rem;
+    }
+    .form-group input:focus,
+    .form-group select:focus,
+    .form-group textarea:focus {
+      outline: none;
+      border-color: var(--accent);
+    }
+
+    /* Result card */
+    #result-card {
+      margin-top: 1rem;
+      display: none;
+    }
+    .result-card {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1.5rem;
+      display: none;
+    }
+    .result-card.visible {
+      display: block;
+      animation: fadeIn 0.3s ease;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .verdict-auto {
+      color: var(--accent);
+      font-weight: 600;
+    }
+    .verdict-frozen {
+      color: var(--warning);
+      font-weight: 600;
+    }
+
+    /* Cypher playground */
+    #cypher-input {
+      width: 100%;
+      height: 200px;
+      margin-top: 0.5rem;
+      padding: 0.8rem;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--fg);
+      font-family: "Courier New", monospace;
+      font-size: 0.8rem;
+      border-radius: 4px;
+      resize: vertical;
+    }
+
+    /* Offline indicator */
+    .offline-mode {
+      position: fixed;
+      bottom: 2rem; left: 2rem; right: 2rem;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 0.8rem 1rem;
+      font-size: 0.8rem;
+      color: var(--muted);
+      display: none;
+    }
+    .offline-mode.active {
+      display: block;
+      border-color: var(--error);
+      color: var(--error);
+    }
+
+    @media (max-width: 600px) {
+      .nav-links {
+        display: none;
+      }
+      .controls {
+        justify-content: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="nav-container">
+    <div class="logo">CorridorGuard AI</div>
+    <ul class="nav-links">
+      <li><a href="/api/graph">Graph View</a></li>
+      <li><a href="/api/graph">Decisions</a></li>
+    </ul>
+  </div>
+</header>
+
+<main>
+  <section class="section" id="screen-section">
+    <h2>Screen Transaction</h2>
+
+    <div class="controls">
+      <select id="transaction-select" onchange="loadTransaction(this.value)">
+        <option value="">-- Select Demo Transaction --</option>
+        <option value="TXN-101">TXN-101 — John Doe (AUTO-CLEAR)</option>
+        <option value="TXN-204">TXN-204 — Jane Smith (FROZEN_HUMAN_REVIEW)</option>
+        <option value="TXN-309">TXN-309 — Alex Rivera (FROZEN_HUMAN_REVIEW)</option>
+        <option value="TXN-412">TXN-412 — Viktor Krol (FROZEN_HUMAN_REVIEW)</option>
+      </select>
+      <button class="btn primary" onclick="screenTransaction()">Screen Transaction</button>
+    </div>
+
+    <div id="result-card">
+      <div class="result-card" id="result-panel">
+        <h3>Screening Result</h3>
+        <div id="verdict-display"></div>
+        <div id="evidence-summary"></div>
+        <div id="risk-details"></div>
+        <button class="btn primary" onclick="approveRelease()">Approve & Release</button>
+        <button class="btn error" onclick="confirmBlockSAR()">Confirm Block & File SAR</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="cypher-section">
+    <h2>Cypher Playground</h2>
+    <textarea id="cypher-input" placeholder="MATCH (p:Payment)-[:SCREENED_AS]->(d:Decision) RETURN p.id, d.verdict, d.riskScore></textarea>
+    <div class="controls">
+      <button class="btn primary" onclick="runCypher()">Execute</button>
+      <span class="muted" id="cypher-status"></span>
+    </div>
+    <div id="cypher-result" style="margin-top: 1rem; max-height: 400px; overflow: auto; display: none; border-top: 1px solid var(--border); padding-top: 1rem;"></div>
+  </section>
+
+  <section class="section" id="history-section">
+    <h2>Decision History</h2>
+    <button class="btn" onclick="loadGraph()">Refresh Graph</button>
+    <div id="graph-placeholder">
+      <p>Loading graph...</p>
+    </div>
+  </section>
+</main>
+
+  <div class="offline-mode" id="offline-mode">
+    📡 Offline mode: Data stored locally in ./data/corridor_guard.rl. API endpoints require the running backend.
+  </div>
+</div>
+
+  <script>
+    // Check if we're running under the backend or just opened as file
+    const BASE_URL = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1" ? "/" : "";
+    let backendBase = "";
+
+    // Detect base URL from script tag src to configure backend
+    document.addEventListener("DOMContentLoaded", () => {
+      const scripts = document.getElementsByTagName("script");
+      const lastScript = scripts[scripts.length - 1];
+      const match = lastScript.src.match(/(^.*\/)(?:[^/]+)?\.js$/);
+      if (match) {
+        const base = match[1];
+        // If the script is served from the local file system (file://), we can't auto-detect port
+        if (window.location.protocol === "http:" || window.location.protocol === "https:") {
+          backendBase = base;
+        }
+      }
+      updateOfflineMode();
+    });
+
+    function updateOfflineMode() {
+      const offline = document.getElementById("offline-mode");
+      if (window.location.protocol === "file:") {
+        offline.classList.add("active");
+      } else {
+        offline.classList.remove("active");
+      }
+    }
+
+    // Load a demo transaction's predefined data
+    function loadTransaction(txnId) {
+      if (!txnId) return;
+      // Show basic info; the /api/screen call will fetch full data
+      console.log("Loading transaction:", txnId);
+    }
+
+    // Screen a transaction via the API
+    async function screenTransaction() {
+      const select = document.getElementById("transaction-select");
+      const txnId = select.value;
+      if (!txnId) {
+        alert("Please select a transaction first.");
+        return;
+      }
+
+      const btn = event.target || document.querySelector(".primary");
+      btn.disabled = true;
+      btn.textContent = "Screening…";
+
+      try {
+        const resp = await fetch("/api/screen", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ paymentId: txnId })
+        });
+        const data = await resp.json();
+
+        // Update UI
+        displayResult(data);
+      } catch (err) {
+        console.error("Screening error:", err);
+        alert("Failed to screen transaction. Make sure the backend is running.");
+      } finally {
+        btn.disabled = false;
+        btn.textContent = "Screen Transaction";
+      }
+    }
+
+    function displayResult(data) {
+      const panel = document.getElementById("result-panel");
+      const verdictDisplay = document.getElementById("verdict-display");
+      const evidenceSummary = document.getElementById("evidence-summary");
+      const riskDetails = document.getElementById("risk-details");
+      const resultCard = document.getElementById("result-card");
+
+      // Show verdict
+      const verdict = data.verdict || "UNKNOWN";
+      verdictDisplay.innerHTML = `
+        <strong>Verdict:</strong> <span class="verdict-${verdict.replace("_", "-").toLowerCase()}">${verdict}</span>
+      `;
+
+      // Build evidence summary
+      const evidence = data.evidencePath || {};
+      const riskScore = data.riskScore !== undefined ? data.riskScore : "N/A";
+      const fuzzyScore = data.fuzzyScore !== undefined ? data.fuzzyScore : "N/A";
+      const cibilScore = data.cibilScore !== undefined ? data.cibilScore : "N/A";
+
+      let upstreamHtml = "";
+      if (data.upstreamMules && data.upstreamMules > 0) {
+        upstreamHtml = `<p><strong>Upstream P2P accounts:</strong> ${data.upstreamMules}</p>`;
+      }
+
+      let hopHtml = "";
+      if (data.hops && data.hops > 0) {
+        hopHtml = `<p><strong>Hops to sanctioned targets:</strong> ${data.hops}</p>`;
+      }
+
+      evidenceSummary.innerHTML = `
+        <p><strong>Risk Score:</strong> ${riskScore} (0.00–1.00)</p>
+        <p><strong>Fuzzy/Lexical Score:</strong> ${fuzzyScore}</p>
+        <p><strong>CIBIL Score:</strong> ${cibilScore}</p>
+        ${upstreamHtml}
+        ${hopHtml}
+        <p><strong>Traversals:</strong> ${JSON.stringify(data.traversals || [])}</p>
+      `;
+
+      riskDetails.innerHTML = `
+        <p><strong>Frozen factors detected:</strong> ${data.stalledPaths && data.stalledPaths.length > 0 ? "Multiple hops, mule layering, fee skimming, missing pac.002 acknowledgment" : "Clean — no elevated risk factors"}</p>
+      `;
+
+      panel.classList.add("visible");
+      resultCard.classList.add("visible");
+    }
+
+    // Human: Approve & Release
+    async function approveRelease() {
+      const paymentId = document.querySelector("#transaction-select")?.value || "TXN-101";
+      await fetch(`/api/review/${paymentId}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ verdict: "APPROVED_RELEASED" })
+      });
+      alert("Transaction APPROVED & Released. Decision persisted to database.");
+      loadTransaction("TXN-101"); // reset
+      screenTransaction(); // re-screen to reflect new verdict
+    }
+
+    // Human: Confirm Block & File SAR
+    async function confirmBlockSAR() {
+      const paymentId = document.querySelector("#transaction-select")?.value || "TXN-204";
+      await fetch(`/api/review/${paymentId}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ verdict: "CONFIRMED_SAR_BLOCKED" })
+      });
+      alert("Transaction CONFIRMED BLOCKED & SAR filed. Decision persisted to database.");
+      loadTransaction("TXN-204"); // reset
+      screenTransaction(); // re-screen to reflect new verdict
+    }
+
+    // Run a Cypher playground query
+    async function runCypher() {
+      const textarea = document.getElementById("cypher-input");
+      const query = textarea.value.trim();
+      const status = document.getElementById("cypher-status");
+      const resultDiv = document.getElementById("cypher-result");
+
+      if (!query || !query.toUpperCase().startsWith("MATCH")) {
+        alert("Please enter a valid Cypher query starting with MATCH.");
+        return;
+      }
+
+      status.textContent = "Executing...";
+      status.style.color = "var(--accent)";
+      resultDiv.innerHTML = "";
+      resultDiv.className = "cypher-result"; // reset
+
+      try {
+        const resp = await fetch("/api/cypher", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ query })
+        });
+        const data = await resp.json();
+        status.textContent = "Executed " + data.records.length + " record(s)";
+        status.style.color = "var(--accent-dim)";
+
+        // Display results
+        if (data.records.length > 0) {
+          let table = "<table><tr>";
+          const cols = data.columns || [];
+          cols.forEach(c => table += `<th>${c}</th>`);
+          table += "</tr>";
+          data.records.forEach(row => {
+            table += "<tr>";
+            row.forEach(val => table += `<td>${val || ""}</td>`);
+            table += "</tr>";
+          });
+          table += "</table>";
+          resultDiv.innerHTML = table;
+        } else {
+          resultDiv.textContent = "No records returned.";
+        }
+        resultDiv.classList.add("visible");
+      } catch (err) {
+        console.error("Cypher error:", err);
+        status.textContent = "Error: " + err.message;
+        status.style.color = "var(--error)";
+        resultDiv.innerHTML = `<p style="color: var(--error);">Error executing query: ${err.message}</p>`;
+        resultDiv.classList.add("visible");
+      }
+    }
+
+    // Load graph data for the history section
+    async function loadGraph() {
+      const ph = document.getElementById("graph-placeholder");
+      ph.innerHTML = "Loading graph……";
+      try {
+        const resp = await fetch("/api/graph");
+        const data = await resp.json();
+        renderGraph(data);
+      } catch (err) {
+        ph.innerHTML = "Error loading graph. " + err.message;
+      }
+    }
+
+    function renderGraph(data) {
+      const container = document.getElementById("graph-placeholder");
+      const nodes = data.nodes || [];
+      const edges = data.edges || [];
+
+      if (nodes.length === 0 && edges.length === 0) {
+        container.innerHTML = "<p>No graph data found.</p>";
+        return;
+      }
+
+      // Simple force-directed layout placeholder
+      const svgNS = "http://www.w3.org/2000/svg";
+      const width = container.clientWidth || 800;
+      const height = 600;
+      const svg = document.createElementNS(svgNS, "svg");
+      svg.setAttribute("width", width);
+      svg.setAttribute("height", height);
+      svg.style.background = "var(--bg)";
+      svg.style.display = "block";
+      container.innerHTML = "";
+      container.appendChild(svg);
+
+      // Draw edges first
+      const edgeGroups = {};
+      edges.forEach(edge => {
+        const key = edge.type || "unknown";
+        if (!edgeGroups[key]) edgeGroups[key] = [];
+        edgeGroups[key].push(edge);
+      });
+
+      const nodeIds = new Set();
+      nodes.forEach(n => n.labels?.forEach(l => nodeIds.add(n.id)));
+
+      // Simple concentric or straight-line drawing not implemented fully
+      // Just show counts
+      svg.innerHTML = `
+        <text x="20" y="30" fill="var(--muted)" font-size="12">Graph: ${nodes.length} nodes, ${edges.length} edges</text>
+        <rect x="20" y="40" width="300" height="200" fill="var(--bg-subtle)" rx="4" stroke="var(--border)"/>
+        <text x="30" y="60" fill="var(--fg)" font-size="12">Nodes: ${nodes.length}</text>
+        <text x="30" y="75" fill="var(--fg)" font-size="12">Edges: ${edges.length}</text>
+        <button class="btn primary" onclick="loadGraph()">Refresh</text>
+      `;
+    }
+
+    // Initialize on load
+    updateOfflineMode();
+    // Populate transaction selectors from available data on first load
+    (async () => {
+      try {
+        const resp = await fetch("/api/graph");
+        const data = await resp.json();
+        const select = document.getElementById("transaction-select");
+        // We'll just rely on hardcoded options; the server will have the demo data
+      } catch (e) {
+        // Not running under backend yet
+      }
+    })();
+  </script>
+</body>
+</html>
