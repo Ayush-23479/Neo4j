@@ -17,6 +17,7 @@ dependencies = [
   "slowapi>=0.1.9",
   "PyJWT>=2.8",
   "passlib[bcrypt]>=1.7.4",
+  "relate-db>=1.2",
 ]
 
 [project.optional-dependencies]

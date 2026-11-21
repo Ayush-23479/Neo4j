@@ -8,3 +8,6 @@ node_modules/
 dist/
 *.egg-info/
 .DS_Store
+
+# Task 2 probe store
+data/probe.rl*

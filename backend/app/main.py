@@ -1,3 +1,5 @@
+import os
+
 from fastapi import FastAPI
 
 app = FastAPI(
@@ -10,3 +12,9 @@ app = FastAPI(
 @app.get("/health")
 def health() -> dict[str, str]:
     return {"status": "ok"}
+
+
+if os.getenv("DEMO_MODE") == "probe":  # Task 2 only: temporary probe routes
+    from app.graph.probe_api import router as probe_router
+
+    app.include_router(probe_router)
