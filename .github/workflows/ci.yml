@@ -17,7 +17,7 @@ jobs:
       - run: pip install -e ".[dev]"
       - run: ruff check .
       - run: pytest
-      - run: bandit -r app
+      - run: bandit -r app -ll
       - run: pip-audit
 
   frontend:
