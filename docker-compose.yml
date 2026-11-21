@@ -1,0 +1,29 @@
+services:
+  backend:
+    build: ./backend
+    env_file: .env
+    expose:
+      - "8000"          # internal only, not published to the host
+    volumes:
+      - ./data:/app/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request as u; u.urlopen('http://localhost:8000/health')"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  frontend:
+    build: ./frontend
+    depends_on:
+      - backend
+    ports:
+      - "3000:8080"     # the only published port
+
+  # Placeholder. Task 2 decides if Relate runs embedded (no service) or as a server.
+  # Start it only with:  docker compose --profile server up
+  graph:
+    image: alpine:3.20
+    command: ["sleep", "infinity"]
+    profiles: ["server"]
+    expose:
+      - "7687"
