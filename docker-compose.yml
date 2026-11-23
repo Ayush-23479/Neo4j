@@ -19,11 +19,12 @@ services:
     ports:
       - "3000:8080"     # the only published port
 
-  # Placeholder. Task 2 decides if Relate runs embedded (no service) or as a server.
-  # Start it only with:  docker compose --profile server up
+  # Relate graph service — embedded mode; RELATE_PATH points to the mounted volume
   graph:
     image: alpine:3.20
     command: ["sleep", "infinity"]
     profiles: ["server"]
     expose:
       - "7687"
+    environment:
+      - RELATE_PATH=/app/data/graph
