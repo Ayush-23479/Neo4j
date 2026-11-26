@@ -8,7 +8,7 @@ from pathlib import Path
 import relate
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "backend"))
-from app.graph.schema import apply_schema
+from app.graph.schema import read_statements
 
 ROOT = Path(__file__).resolve().parents[1]
 SEED_DIR = ROOT / "data" / "seed"
@@ -58,7 +58,8 @@ def load_relationships(conn, rels: list[dict]) -> None:
 
 def load_seed(conn) -> dict[str, int]:
     """Write every seed file into the open connection. Returns node counts by label."""
-    apply_schema(conn)
+    for statement in read_statements():
+        conn.execute(statement)
     load_nodes(conn, "Party:Person", "id", [dict_clean(p) for p in read("parties")])
     load_nodes(conn, "Party:Company", "id", [dict_clean(p) for p in read("companies")])
     load_nodes(conn, "SanctionedEntity", "id", [dict_clean(p) for p in read("sanctioned")])

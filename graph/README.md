@@ -17,6 +17,7 @@ One Relate store file (`RELATE_PATH`, default `./data/graph.rl`). Schema: `graph
 | BankMessage | `msgId` | type (pacs.008 / pacs.002 / camt.053), ts, status, uetr, endToEndId, amount, currency, arrivalSeq, xml |
 | LedgerEntry | `entryId` | uetr, endToEndId, amount, currency, ts, side (DEBIT/CREDIT), ingestCount |
 | Decision, Finding, AuditEvent | `id` | written by later tasks |
+| Idempotency | `key` | resultJson, payloadHash, createdAt (first result per Idempotency-Key, Task 6) |
 | Bank, Fee | | created by lineage tasks |
 
 `Party:Person` and `Party:Company` share one `id` space, so one Party constraint covers both.
@@ -29,6 +30,10 @@ Hop relationships (the three-hop screening walk may follow only these):
 Not hops (never followed by the screening walk): `SAME_AS_CANDIDATE`, `SCREENED_AS`,
 `CORRELATES_WITH`, `SENT_THROUGH`, `NEXT_HOP`, `SETTLED_AS`, `CHARGED`, `FLAGGED_BY`, `EVIDENCE`,
 `HAS_ACCOUNT`.
+
+Ingestion (Task 6) links every LedgerEntry and BankMessage to its Payment by UETR with
+`CORRELATES_WITH`. If the Payment has not arrived yet, a stub `Payment {stub: true}` is created and
+filled in later (`stub` becomes false), so out-of-order messages are never rejected.
 
 The loader writes OWNS, DIRECTOR_OF, REGISTERED_AT, SHARES_PHONE, HAS_ACCOUNT and SENT_FUNDS_TO
 (payer to payee, one per payment). Lineage links (CORRELATES_WITH, SENT_THROUGH, SETTLED_AS ...)
