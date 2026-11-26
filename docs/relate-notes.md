@@ -38,3 +38,12 @@ Only things that were tested or read from official pages. Update the "Your Docke
 |---|---|
 | `relate-db` installs in the backend image | |
 | POST /probe/write then `docker compose restart backend` then GET /probe/read | |
+
+
+## Task 5 decisions
+
+- `GraphClient` (backend/app/graph/client.py) is the only code that talks to Relate. One worker thread opens, uses and closes the connection.
+- Every query is a named file in `graph/queries/` run with `$parameters` only. Raw query text from routes is impossible.
+- Row limit comes from `fetchmany(limit)`. The timeout frees the caller, but Relate cannot cancel a running query, so it may finish in the background.
+- Run uvicorn with ONE worker (one process per file).
+- Task 6: every record MERGEs on its unique key; `ingestCount` counts repeats; a message that arrives before its payment creates a stub Payment (`stub: true`) that the real payment fills in.

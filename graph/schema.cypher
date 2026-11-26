@@ -17,3 +17,4 @@ CREATE CONSTRAINT bank_account_id_unique IF NOT EXISTS FOR (n:BankAccount) REQUI
 CREATE CONSTRAINT decision_id_unique IF NOT EXISTS FOR (n:Decision) REQUIRE n.id IS UNIQUE
 CREATE CONSTRAINT finding_id_unique IF NOT EXISTS FOR (n:Finding) REQUIRE n.id IS UNIQUE
 CREATE CONSTRAINT audit_event_id_unique IF NOT EXISTS FOR (n:AuditEvent) REQUIRE n.id IS UNIQUE
+CREATE CONSTRAINT idempotency_key_unique IF NOT EXISTS FOR (n:Idempotency) REQUIRE n.key IS UNIQUE

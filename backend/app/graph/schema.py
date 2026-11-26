@@ -1,13 +1,9 @@
-"""Task 3: apply the graph schema (unique constraints) from graph/schema.cypher.
-
-The schema file has one idempotent statement per line, so calling apply_schema on every
-start is safe. Errors are NOT swallowed: if a statement fails, startup fails loudly.
-Task 5 moves this call into GraphClient so that one thread owns the connection.
-"""
-
 import os
 from pathlib import Path
-from typing import Any
+from typing import TYPE_CHECKING
+
+if TYPE_CHECKING:
+    from app.graph.client import GraphClient
 
 
 def schema_path() -> Path:
@@ -38,9 +34,8 @@ def read_statements(path: Path | None = None) -> list[str]:
     return statements
 
 
-def apply_schema(conn: Any, path: Path | None = None) -> int:
-    """Run every schema statement on an open Relate connection. Returns how many ran."""
+async def apply_schema(client: "GraphClient", path: Path | None = None) -> int:
+    """Run every schema statement through the GraphClient. Returns how many ran."""
     statements = read_statements(path)
-    for statement in statements:
-        conn.execute(statement)
+    await client.run_schema(statements)
     return len(statements)
