@@ -1,0 +1,92 @@
+[
+  {
+    "country": "RU",
+    "dobYear": 1962,
+    "id": "SANC-001",
+    "kind": "person",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "John Doe"
+  },
+  {
+    "country": "BY",
+    "id": "SANC-002",
+    "kind": "company",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Orlin Freight Group"
+  },
+  {
+    "country": "IR",
+    "id": "SANC-003",
+    "kind": "company",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Kestrel Metals JSC"
+  },
+  {
+    "country": "BY",
+    "dobYear": 1954,
+    "id": "SANC-004",
+    "kind": "person",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Oskar Brennvik"
+  },
+  {
+    "country": "IR",
+    "dobYear": 1955,
+    "id": "SANC-005",
+    "kind": "person",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Lazar Dominik"
+  },
+  {
+    "country": "BY",
+    "dobYear": 1956,
+    "id": "SANC-006",
+    "kind": "person",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Mirela Quade"
+  },
+  {
+    "country": "IR",
+    "id": "SANC-007",
+    "kind": "company",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Halden Maritime Co"
+  },
+  {
+    "country": "IR",
+    "id": "SANC-008",
+    "kind": "company",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Brightwater Exports"
+  },
+  {
+    "country": "IR",
+    "dobYear": 1959,
+    "id": "SANC-009",
+    "kind": "person",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Irina Salvatore"
+  },
+  {
+    "country": "SY",
+    "id": "SANC-010",
+    "kind": "company",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Qadir Stone Holdings"
+  },
+  {
+    "country": "RU",
+    "dobYear": 1961,
+    "id": "SANC-011",
+    "kind": "person",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Perrin Valk"
+  },
+  {
+    "country": "SY",
+    "id": "SANC-012",
+    "kind": "company",
+    "listName": "SYNTHETIC-WATCHLIST-1",
+    "name": "Zenova Shipping Ltd"
+  }
+]

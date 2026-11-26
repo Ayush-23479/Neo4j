@@ -1,0 +1,7652 @@
+[
+  {
+    "amount": 3655.19,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0001",
+    "entryId": "L-000001",
+    "side": "DEBIT",
+    "ts": "2026-11-01T17:44:29Z",
+    "uetr": "ecb4678c-1612-4aa6-be96-39ba0ed2ec9d"
+  },
+  {
+    "amount": 3582.09,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0001",
+    "entryId": "L-000002",
+    "side": "CREDIT",
+    "ts": "2026-11-01T17:47:29Z",
+    "uetr": "ecb4678c-1612-4aa6-be96-39ba0ed2ec9d"
+  },
+  {
+    "amount": 3069.24,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0002",
+    "entryId": "L-000003",
+    "side": "DEBIT",
+    "ts": "2026-11-02T12:14:59Z",
+    "uetr": "a8761e85-bddf-403a-aa84-30f84f2da233"
+  },
+  {
+    "amount": 3007.86,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0002",
+    "entryId": "L-000004",
+    "side": "CREDIT",
+    "ts": "2026-11-02T12:17:59Z",
+    "uetr": "a8761e85-bddf-403a-aa84-30f84f2da233"
+  },
+  {
+    "amount": 83.07,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0003",
+    "entryId": "L-000005",
+    "side": "DEBIT",
+    "ts": "2026-10-17T07:11:40Z",
+    "uetr": "7f14eafa-29f0-4f7c-82e7-df89b3957a98"
+  },
+  {
+    "amount": 81.41,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0003",
+    "entryId": "L-000006",
+    "side": "CREDIT",
+    "ts": "2026-10-17T07:14:40Z",
+    "uetr": "7f14eafa-29f0-4f7c-82e7-df89b3957a98"
+  },
+  {
+    "amount": 3919.28,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0004",
+    "entryId": "L-000007",
+    "side": "DEBIT",
+    "ts": "2026-11-05T14:38:29Z",
+    "uetr": "207e863f-5f32-45d8-aabe-1585425e0259"
+  },
+  {
+    "amount": 3840.89,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0004",
+    "entryId": "L-000008",
+    "side": "CREDIT",
+    "ts": "2026-11-05T14:41:29Z",
+    "uetr": "207e863f-5f32-45d8-aabe-1585425e0259"
+  },
+  {
+    "amount": 3670.02,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0005",
+    "entryId": "L-000009",
+    "side": "DEBIT",
+    "ts": "2026-10-24T13:09:59Z",
+    "uetr": "55c34853-0783-443c-a65f-ad87c57c7498"
+  },
+  {
+    "amount": 3596.62,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0005",
+    "entryId": "L-000010",
+    "side": "CREDIT",
+    "ts": "2026-10-24T13:12:59Z",
+    "uetr": "55c34853-0783-443c-a65f-ad87c57c7498"
+  },
+  {
+    "amount": 2628.79,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0006",
+    "entryId": "L-000011",
+    "side": "DEBIT",
+    "ts": "2026-10-24T16:54:49Z",
+    "uetr": "a0a5fde6-939f-41a2-b99c-ea5cb65ad0f1"
+  },
+  {
+    "amount": 2576.21,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0006",
+    "entryId": "L-000012",
+    "side": "CREDIT",
+    "ts": "2026-10-24T16:57:49Z",
+    "uetr": "a0a5fde6-939f-41a2-b99c-ea5cb65ad0f1"
+  },
+  {
+    "amount": 2563.69,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0007",
+    "entryId": "L-000013",
+    "side": "DEBIT",
+    "ts": "2026-11-02T14:22:37Z",
+    "uetr": "2ab8bd33-911f-430b-9bff-00b07fe670f3"
+  },
+  {
+    "amount": 2512.42,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0007",
+    "entryId": "L-000014",
+    "side": "CREDIT",
+    "ts": "2026-11-02T14:25:37Z",
+    "uetr": "2ab8bd33-911f-430b-9bff-00b07fe670f3"
+  },
+  {
+    "amount": 3871.18,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0008",
+    "entryId": "L-000015",
+    "side": "DEBIT",
+    "ts": "2026-10-23T21:15:54Z",
+    "uetr": "3a78b64a-1d86-40cb-b908-00f3ac93281a"
+  },
+  {
+    "amount": 3793.76,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0008",
+    "entryId": "L-000016",
+    "side": "CREDIT",
+    "ts": "2026-10-23T21:18:54Z",
+    "uetr": "3a78b64a-1d86-40cb-b908-00f3ac93281a"
+  },
+  {
+    "amount": 239.31,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0009",
+    "entryId": "L-000017",
+    "side": "DEBIT",
+    "ts": "2026-10-11T15:01:33Z",
+    "uetr": "5d2d904f-78c5-4073-8bc5-72073e9aec86"
+  },
+  {
+    "amount": 234.52,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0009",
+    "entryId": "L-000018",
+    "side": "CREDIT",
+    "ts": "2026-10-11T15:04:33Z",
+    "uetr": "5d2d904f-78c5-4073-8bc5-72073e9aec86"
+  },
+  {
+    "amount": 4657.18,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0010",
+    "entryId": "L-000019",
+    "side": "DEBIT",
+    "ts": "2026-10-20T04:32:16Z",
+    "uetr": "b6ca1127-e9f8-4970-8d98-f9e28d888beb"
+  },
+  {
+    "amount": 4564.04,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0010",
+    "entryId": "L-000020",
+    "side": "CREDIT",
+    "ts": "2026-10-20T04:35:16Z",
+    "uetr": "b6ca1127-e9f8-4970-8d98-f9e28d888beb"
+  },
+  {
+    "amount": 1138.09,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0011",
+    "entryId": "L-000021",
+    "side": "DEBIT",
+    "ts": "2026-10-31T20:38:02Z",
+    "uetr": "51e744e4-b864-4a08-aa75-752d6a8fcacb"
+  },
+  {
+    "amount": 1115.33,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0011",
+    "entryId": "L-000022",
+    "side": "CREDIT",
+    "ts": "2026-10-31T20:41:02Z",
+    "uetr": "51e744e4-b864-4a08-aa75-752d6a8fcacb"
+  },
+  {
+    "amount": 2866.25,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0012",
+    "entryId": "L-000023",
+    "side": "DEBIT",
+    "ts": "2026-10-15T06:46:42Z",
+    "uetr": "0d7bec04-e6e5-4b32-ac5f-12ef8085c147"
+  },
+  {
+    "amount": 2808.92,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0012",
+    "entryId": "L-000024",
+    "side": "CREDIT",
+    "ts": "2026-10-15T06:49:42Z",
+    "uetr": "0d7bec04-e6e5-4b32-ac5f-12ef8085c147"
+  },
+  {
+    "amount": 4907.44,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0013",
+    "entryId": "L-000025",
+    "side": "DEBIT",
+    "ts": "2026-11-05T12:57:13Z",
+    "uetr": "ddb449dc-7710-4966-a082-7f7611a529b4"
+  },
+  {
+    "amount": 4809.29,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0013",
+    "entryId": "L-000026",
+    "side": "CREDIT",
+    "ts": "2026-11-05T13:00:13Z",
+    "uetr": "ddb449dc-7710-4966-a082-7f7611a529b4"
+  },
+  {
+    "amount": 1649.96,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0014",
+    "entryId": "L-000027",
+    "side": "DEBIT",
+    "ts": "2026-10-26T14:01:20Z",
+    "uetr": "335f2f59-5e71-4fca-820a-449774ed5145"
+  },
+  {
+    "amount": 1616.96,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0014",
+    "entryId": "L-000028",
+    "side": "CREDIT",
+    "ts": "2026-10-26T14:04:20Z",
+    "uetr": "335f2f59-5e71-4fca-820a-449774ed5145"
+  },
+  {
+    "amount": 3703.09,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0015",
+    "entryId": "L-000029",
+    "side": "DEBIT",
+    "ts": "2026-10-26T06:06:48Z",
+    "uetr": "f8cbab4c-9779-4e84-9e47-2e2276c3e642"
+  },
+  {
+    "amount": 3629.03,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0015",
+    "entryId": "L-000030",
+    "side": "CREDIT",
+    "ts": "2026-10-26T06:09:48Z",
+    "uetr": "f8cbab4c-9779-4e84-9e47-2e2276c3e642"
+  },
+  {
+    "amount": 993.2,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0016",
+    "entryId": "L-000031",
+    "side": "DEBIT",
+    "ts": "2026-11-18T04:00:21Z",
+    "uetr": "268b84b6-3ec0-4285-8bc4-ec0ec2aef674"
+  },
+  {
+    "amount": 973.34,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0016",
+    "entryId": "L-000032",
+    "side": "CREDIT",
+    "ts": "2026-11-18T04:03:21Z",
+    "uetr": "268b84b6-3ec0-4285-8bc4-ec0ec2aef674"
+  },
+  {
+    "amount": 1180.33,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0017",
+    "entryId": "L-000033",
+    "side": "DEBIT",
+    "ts": "2026-10-12T15:53:26Z",
+    "uetr": "e09016b6-b186-45a8-96ee-526ba2cd1590"
+  },
+  {
+    "amount": 1156.72,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0017",
+    "entryId": "L-000034",
+    "side": "CREDIT",
+    "ts": "2026-10-12T15:56:26Z",
+    "uetr": "e09016b6-b186-45a8-96ee-526ba2cd1590"
+  },
+  {
+    "amount": 3799.47,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0018",
+    "entryId": "L-000035",
+    "side": "DEBIT",
+    "ts": "2026-10-11T13:44:12Z",
+    "uetr": "4eb9047d-ba2a-43d9-bcf2-fc3bd95874c2"
+  },
+  {
+    "amount": 3723.48,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0018",
+    "entryId": "L-000036",
+    "side": "CREDIT",
+    "ts": "2026-10-11T13:47:12Z",
+    "uetr": "4eb9047d-ba2a-43d9-bcf2-fc3bd95874c2"
+  },
+  {
+    "amount": 4915.92,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0019",
+    "entryId": "L-000037",
+    "side": "DEBIT",
+    "ts": "2026-11-06T05:18:43Z",
+    "uetr": "f8f9a45d-0f55-4896-b610-396b7df59abf"
+  },
+  {
+    "amount": 4817.6,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0019",
+    "entryId": "L-000038",
+    "side": "CREDIT",
+    "ts": "2026-11-06T05:21:43Z",
+    "uetr": "f8f9a45d-0f55-4896-b610-396b7df59abf"
+  },
+  {
+    "amount": 483.27,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0020",
+    "entryId": "L-000039",
+    "side": "DEBIT",
+    "ts": "2026-10-25T02:03:12Z",
+    "uetr": "69be173a-850e-40ad-9872-f72ee5b4a1ae"
+  },
+  {
+    "amount": 473.6,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0020",
+    "entryId": "L-000040",
+    "side": "CREDIT",
+    "ts": "2026-10-25T02:06:12Z",
+    "uetr": "69be173a-850e-40ad-9872-f72ee5b4a1ae"
+  },
+  {
+    "amount": 4873.28,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0021",
+    "entryId": "L-000041",
+    "side": "DEBIT",
+    "ts": "2026-11-02T18:10:32Z",
+    "uetr": "222df6a4-8163-46ce-9877-bc0694ad6252"
+  },
+  {
+    "amount": 4775.81,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0021",
+    "entryId": "L-000042",
+    "side": "CREDIT",
+    "ts": "2026-11-02T18:13:32Z",
+    "uetr": "222df6a4-8163-46ce-9877-bc0694ad6252"
+  },
+  {
+    "amount": 392.66,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0022",
+    "entryId": "L-000043",
+    "side": "DEBIT",
+    "ts": "2026-10-30T15:29:09Z",
+    "uetr": "f6d70248-a995-4cc3-af5b-09a60ff1c51f"
+  },
+  {
+    "amount": 384.81,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0022",
+    "entryId": "L-000044",
+    "side": "CREDIT",
+    "ts": "2026-10-30T15:32:09Z",
+    "uetr": "f6d70248-a995-4cc3-af5b-09a60ff1c51f"
+  },
+  {
+    "amount": 1319.73,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0023",
+    "entryId": "L-000045",
+    "side": "DEBIT",
+    "ts": "2026-10-25T15:51:37Z",
+    "uetr": "b362c0d2-6498-4bde-8d02-54dbed1115d7"
+  },
+  {
+    "amount": 1293.34,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0023",
+    "entryId": "L-000046",
+    "side": "CREDIT",
+    "ts": "2026-10-25T15:54:37Z",
+    "uetr": "b362c0d2-6498-4bde-8d02-54dbed1115d7"
+  },
+  {
+    "amount": 1603.93,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0024",
+    "entryId": "L-000047",
+    "side": "DEBIT",
+    "ts": "2026-10-27T08:08:38Z",
+    "uetr": "33e4f986-f18c-4cdc-931e-b7233bcdf203"
+  },
+  {
+    "amount": 1571.85,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0024",
+    "entryId": "L-000048",
+    "side": "CREDIT",
+    "ts": "2026-10-27T08:11:38Z",
+    "uetr": "33e4f986-f18c-4cdc-931e-b7233bcdf203"
+  },
+  {
+    "amount": 2931.85,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0025",
+    "entryId": "L-000049",
+    "side": "DEBIT",
+    "ts": "2026-11-17T21:19:09Z",
+    "uetr": "774f6354-7316-4e64-aa14-7a961b0c62eb"
+  },
+  {
+    "amount": 2873.21,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0025",
+    "entryId": "L-000050",
+    "side": "CREDIT",
+    "ts": "2026-11-17T21:22:09Z",
+    "uetr": "774f6354-7316-4e64-aa14-7a961b0c62eb"
+  },
+  {
+    "amount": 2688.9,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0026",
+    "entryId": "L-000051",
+    "side": "DEBIT",
+    "ts": "2026-10-17T08:42:06Z",
+    "uetr": "43d78f2b-769d-41e3-8eed-412473b0d676"
+  },
+  {
+    "amount": 2635.12,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0026",
+    "entryId": "L-000052",
+    "side": "CREDIT",
+    "ts": "2026-10-17T08:45:06Z",
+    "uetr": "43d78f2b-769d-41e3-8eed-412473b0d676"
+  },
+  {
+    "amount": 804.92,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0027",
+    "entryId": "L-000053",
+    "side": "DEBIT",
+    "ts": "2026-10-15T21:22:52Z",
+    "uetr": "b266986c-b467-48bd-938e-13e44de1087b"
+  },
+  {
+    "amount": 788.82,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0027",
+    "entryId": "L-000054",
+    "side": "CREDIT",
+    "ts": "2026-10-15T21:25:52Z",
+    "uetr": "b266986c-b467-48bd-938e-13e44de1087b"
+  },
+  {
+    "amount": 4182.91,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0028",
+    "entryId": "L-000055",
+    "side": "DEBIT",
+    "ts": "2026-10-21T22:33:02Z",
+    "uetr": "3f8b4433-b60e-495c-9759-ba9625f88c74"
+  },
+  {
+    "amount": 4099.25,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0028",
+    "entryId": "L-000056",
+    "side": "CREDIT",
+    "ts": "2026-10-21T22:36:02Z",
+    "uetr": "3f8b4433-b60e-495c-9759-ba9625f88c74"
+  },
+  {
+    "amount": 263.77,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0029",
+    "entryId": "L-000057",
+    "side": "DEBIT",
+    "ts": "2026-11-05T10:15:25Z",
+    "uetr": "2c82989f-fd9c-4bb0-91f1-6485429a4a7c"
+  },
+  {
+    "amount": 258.49,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0029",
+    "entryId": "L-000058",
+    "side": "CREDIT",
+    "ts": "2026-11-05T10:18:25Z",
+    "uetr": "2c82989f-fd9c-4bb0-91f1-6485429a4a7c"
+  },
+  {
+    "amount": 2788.65,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0030",
+    "entryId": "L-000059",
+    "side": "DEBIT",
+    "ts": "2026-11-02T10:53:09Z",
+    "uetr": "1a16998c-7648-476e-983f-ea703ff6579e"
+  },
+  {
+    "amount": 2732.88,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0030",
+    "entryId": "L-000060",
+    "side": "CREDIT",
+    "ts": "2026-11-02T10:56:09Z",
+    "uetr": "1a16998c-7648-476e-983f-ea703ff6579e"
+  },
+  {
+    "amount": 624.84,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0031",
+    "entryId": "L-000061",
+    "side": "DEBIT",
+    "ts": "2026-10-18T06:54:14Z",
+    "uetr": "38e7e019-fb89-46c8-87ec-fe71d49347fc"
+  },
+  {
+    "amount": 612.34,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0031",
+    "entryId": "L-000062",
+    "side": "CREDIT",
+    "ts": "2026-10-18T06:57:14Z",
+    "uetr": "38e7e019-fb89-46c8-87ec-fe71d49347fc"
+  },
+  {
+    "amount": 1873.75,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0032",
+    "entryId": "L-000063",
+    "side": "DEBIT",
+    "ts": "2026-10-30T22:44:41Z",
+    "uetr": "95132c22-1583-4b99-a50a-13dcf004e897"
+  },
+  {
+    "amount": 1836.27,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0032",
+    "entryId": "L-000064",
+    "side": "CREDIT",
+    "ts": "2026-10-30T22:47:41Z",
+    "uetr": "95132c22-1583-4b99-a50a-13dcf004e897"
+  },
+  {
+    "amount": 128.56,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0033",
+    "entryId": "L-000065",
+    "side": "DEBIT",
+    "ts": "2026-10-15T03:23:59Z",
+    "uetr": "7184b713-a55f-45b7-a709-fba6329fc417"
+  },
+  {
+    "amount": 125.99,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0033",
+    "entryId": "L-000066",
+    "side": "CREDIT",
+    "ts": "2026-10-15T03:26:59Z",
+    "uetr": "7184b713-a55f-45b7-a709-fba6329fc417"
+  },
+  {
+    "amount": 4527.29,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0034",
+    "entryId": "L-000067",
+    "side": "DEBIT",
+    "ts": "2026-10-15T23:11:46Z",
+    "uetr": "7603c36c-f139-4e3c-8aee-25571f5df912"
+  },
+  {
+    "amount": 4436.74,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0034",
+    "entryId": "L-000068",
+    "side": "CREDIT",
+    "ts": "2026-10-15T23:14:46Z",
+    "uetr": "7603c36c-f139-4e3c-8aee-25571f5df912"
+  },
+  {
+    "amount": 2177.12,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0035",
+    "entryId": "L-000069",
+    "side": "DEBIT",
+    "ts": "2026-11-08T08:39:24Z",
+    "uetr": "61fa8e7a-078c-46ce-bf02-23bc651ea252"
+  },
+  {
+    "amount": 2133.58,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0035",
+    "entryId": "L-000070",
+    "side": "CREDIT",
+    "ts": "2026-11-08T08:42:24Z",
+    "uetr": "61fa8e7a-078c-46ce-bf02-23bc651ea252"
+  },
+  {
+    "amount": 1782.64,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0036",
+    "entryId": "L-000071",
+    "side": "DEBIT",
+    "ts": "2026-10-19T21:22:05Z",
+    "uetr": "e2280fe3-722d-4e13-87a4-8c4246653497"
+  },
+  {
+    "amount": 1746.99,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0036",
+    "entryId": "L-000072",
+    "side": "CREDIT",
+    "ts": "2026-10-19T21:25:05Z",
+    "uetr": "e2280fe3-722d-4e13-87a4-8c4246653497"
+  },
+  {
+    "amount": 3103.5,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0037",
+    "entryId": "L-000073",
+    "side": "DEBIT",
+    "ts": "2026-11-10T07:31:09Z",
+    "uetr": "69785221-7fb7-4c57-8b8c-031fa5b40983"
+  },
+  {
+    "amount": 3041.43,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0037",
+    "entryId": "L-000074",
+    "side": "CREDIT",
+    "ts": "2026-11-10T07:34:09Z",
+    "uetr": "69785221-7fb7-4c57-8b8c-031fa5b40983"
+  },
+  {
+    "amount": 323.68,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0038",
+    "entryId": "L-000075",
+    "side": "DEBIT",
+    "ts": "2026-11-03T18:08:41Z",
+    "uetr": "330faaa3-6b52-493c-a321-e64e620d4a1f"
+  },
+  {
+    "amount": 317.21,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0038",
+    "entryId": "L-000076",
+    "side": "CREDIT",
+    "ts": "2026-11-03T18:11:41Z",
+    "uetr": "330faaa3-6b52-493c-a321-e64e620d4a1f"
+  },
+  {
+    "amount": 1260.76,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0039",
+    "entryId": "L-000077",
+    "side": "DEBIT",
+    "ts": "2026-11-06T00:39:04Z",
+    "uetr": "61eb64e6-fd49-4e20-84ff-eab2cb7b0b3a"
+  },
+  {
+    "amount": 1235.54,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0039",
+    "entryId": "L-000078",
+    "side": "CREDIT",
+    "ts": "2026-11-06T00:42:04Z",
+    "uetr": "61eb64e6-fd49-4e20-84ff-eab2cb7b0b3a"
+  },
+  {
+    "amount": 2408.83,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0040",
+    "entryId": "L-000079",
+    "side": "DEBIT",
+    "ts": "2026-10-28T22:25:45Z",
+    "uetr": "809cd839-90ce-42e8-a9a5-336858129eb2"
+  },
+  {
+    "amount": 2360.65,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0040",
+    "entryId": "L-000080",
+    "side": "CREDIT",
+    "ts": "2026-10-28T22:28:45Z",
+    "uetr": "809cd839-90ce-42e8-a9a5-336858129eb2"
+  },
+  {
+    "amount": 915.48,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0041",
+    "entryId": "L-000081",
+    "side": "DEBIT",
+    "ts": "2026-10-24T15:06:49Z",
+    "uetr": "e550d736-0780-4e71-b811-b51998dc9e0b"
+  },
+  {
+    "amount": 897.17,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0041",
+    "entryId": "L-000082",
+    "side": "CREDIT",
+    "ts": "2026-10-24T15:09:49Z",
+    "uetr": "e550d736-0780-4e71-b811-b51998dc9e0b"
+  },
+  {
+    "amount": 311.78,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0042",
+    "entryId": "L-000083",
+    "side": "DEBIT",
+    "ts": "2026-10-25T03:20:37Z",
+    "uetr": "95804c2a-c44f-44b8-9b80-b8d18788dfed"
+  },
+  {
+    "amount": 305.54,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0042",
+    "entryId": "L-000084",
+    "side": "CREDIT",
+    "ts": "2026-10-25T03:23:37Z",
+    "uetr": "95804c2a-c44f-44b8-9b80-b8d18788dfed"
+  },
+  {
+    "amount": 1254.33,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0043",
+    "entryId": "L-000085",
+    "side": "DEBIT",
+    "ts": "2026-10-16T08:41:53Z",
+    "uetr": "ca8e858c-d0f8-4063-889f-e107443b1d0f"
+  },
+  {
+    "amount": 1229.24,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0043",
+    "entryId": "L-000086",
+    "side": "CREDIT",
+    "ts": "2026-10-16T08:44:53Z",
+    "uetr": "ca8e858c-d0f8-4063-889f-e107443b1d0f"
+  },
+  {
+    "amount": 4982.03,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0044",
+    "entryId": "L-000087",
+    "side": "DEBIT",
+    "ts": "2026-11-17T14:12:56Z",
+    "uetr": "cc21cbdb-fb8f-48c4-98b4-8ead93608edf"
+  },
+  {
+    "amount": 4882.39,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0044",
+    "entryId": "L-000088",
+    "side": "CREDIT",
+    "ts": "2026-11-17T14:15:56Z",
+    "uetr": "cc21cbdb-fb8f-48c4-98b4-8ead93608edf"
+  },
+  {
+    "amount": 896.98,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0045",
+    "entryId": "L-000089",
+    "side": "DEBIT",
+    "ts": "2026-10-19T22:25:21Z",
+    "uetr": "b297a782-bcf4-44aa-8e63-cb1a5168bbf2"
+  },
+  {
+    "amount": 879.04,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0045",
+    "entryId": "L-000090",
+    "side": "CREDIT",
+    "ts": "2026-10-19T22:28:21Z",
+    "uetr": "b297a782-bcf4-44aa-8e63-cb1a5168bbf2"
+  },
+  {
+    "amount": 3523.2,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0046",
+    "entryId": "L-000091",
+    "side": "DEBIT",
+    "ts": "2026-10-12T20:53:46Z",
+    "uetr": "2460d0d2-9048-43c1-9151-9998f2933585"
+  },
+  {
+    "amount": 3452.74,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0046",
+    "entryId": "L-000092",
+    "side": "CREDIT",
+    "ts": "2026-10-12T20:56:46Z",
+    "uetr": "2460d0d2-9048-43c1-9151-9998f2933585"
+  },
+  {
+    "amount": 2719.78,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0047",
+    "entryId": "L-000093",
+    "side": "DEBIT",
+    "ts": "2026-11-04T09:31:08Z",
+    "uetr": "0e61065f-171b-4b80-89b7-fdf77d8d3ddd"
+  },
+  {
+    "amount": 2665.38,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0047",
+    "entryId": "L-000094",
+    "side": "CREDIT",
+    "ts": "2026-11-04T09:34:08Z",
+    "uetr": "0e61065f-171b-4b80-89b7-fdf77d8d3ddd"
+  },
+  {
+    "amount": 119.24,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0048",
+    "entryId": "L-000095",
+    "side": "DEBIT",
+    "ts": "2026-10-22T02:57:51Z",
+    "uetr": "9d37efb6-eafb-4e90-94ec-84ce002ccb25"
+  },
+  {
+    "amount": 116.86,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0048",
+    "entryId": "L-000096",
+    "side": "CREDIT",
+    "ts": "2026-10-22T03:00:51Z",
+    "uetr": "9d37efb6-eafb-4e90-94ec-84ce002ccb25"
+  },
+  {
+    "amount": 1716.98,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0049",
+    "entryId": "L-000097",
+    "side": "DEBIT",
+    "ts": "2026-10-17T20:03:52Z",
+    "uetr": "de4379cb-d823-4076-8d6b-b03beb3537a0"
+  },
+  {
+    "amount": 1682.64,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0049",
+    "entryId": "L-000098",
+    "side": "CREDIT",
+    "ts": "2026-10-17T20:06:52Z",
+    "uetr": "de4379cb-d823-4076-8d6b-b03beb3537a0"
+  },
+  {
+    "amount": 755.61,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0050",
+    "entryId": "L-000099",
+    "side": "DEBIT",
+    "ts": "2026-10-12T13:33:49Z",
+    "uetr": "1c654aa2-c63c-421d-a443-5958eacf33a9"
+  },
+  {
+    "amount": 740.5,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0050",
+    "entryId": "L-000100",
+    "side": "CREDIT",
+    "ts": "2026-10-12T13:36:49Z",
+    "uetr": "1c654aa2-c63c-421d-a443-5958eacf33a9"
+  },
+  {
+    "amount": 4803.58,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0051",
+    "entryId": "L-000101",
+    "side": "DEBIT",
+    "ts": "2026-10-29T05:09:38Z",
+    "uetr": "6545c030-a981-4a54-b121-e129b45c9a54"
+  },
+  {
+    "amount": 4707.51,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0051",
+    "entryId": "L-000102",
+    "side": "CREDIT",
+    "ts": "2026-10-29T05:12:38Z",
+    "uetr": "6545c030-a981-4a54-b121-e129b45c9a54"
+  },
+  {
+    "amount": 1522.79,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0052",
+    "entryId": "L-000103",
+    "side": "DEBIT",
+    "ts": "2026-10-27T20:09:19Z",
+    "uetr": "f2dd9456-bb7b-4c05-a852-2ca2f9d2014a"
+  },
+  {
+    "amount": 1492.33,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0052",
+    "entryId": "L-000104",
+    "side": "CREDIT",
+    "ts": "2026-10-27T20:12:19Z",
+    "uetr": "f2dd9456-bb7b-4c05-a852-2ca2f9d2014a"
+  },
+  {
+    "amount": 4804.1,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0053",
+    "entryId": "L-000105",
+    "side": "DEBIT",
+    "ts": "2026-11-11T12:49:55Z",
+    "uetr": "f7ff88d4-b509-408a-ac98-8bca51397c06"
+  },
+  {
+    "amount": 4708.02,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0053",
+    "entryId": "L-000106",
+    "side": "CREDIT",
+    "ts": "2026-11-11T12:52:55Z",
+    "uetr": "f7ff88d4-b509-408a-ac98-8bca51397c06"
+  },
+  {
+    "amount": 3939.22,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0054",
+    "entryId": "L-000107",
+    "side": "DEBIT",
+    "ts": "2026-11-10T07:03:22Z",
+    "uetr": "2ce3d822-d080-42b8-96c5-6fe7aa604892"
+  },
+  {
+    "amount": 3860.44,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0054",
+    "entryId": "L-000108",
+    "side": "CREDIT",
+    "ts": "2026-11-10T07:06:22Z",
+    "uetr": "2ce3d822-d080-42b8-96c5-6fe7aa604892"
+  },
+  {
+    "amount": 3448.72,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0055",
+    "entryId": "L-000109",
+    "side": "DEBIT",
+    "ts": "2026-11-16T03:11:58Z",
+    "uetr": "f2e3c6f0-0075-43d5-ba94-aa662d7e4a45"
+  },
+  {
+    "amount": 3379.75,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0055",
+    "entryId": "L-000110",
+    "side": "CREDIT",
+    "ts": "2026-11-16T03:14:58Z",
+    "uetr": "f2e3c6f0-0075-43d5-ba94-aa662d7e4a45"
+  },
+  {
+    "amount": 4256.77,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0056",
+    "entryId": "L-000111",
+    "side": "DEBIT",
+    "ts": "2026-10-30T12:16:55Z",
+    "uetr": "5176a9d1-9a36-44d6-ae9c-e8ff084a3c4b"
+  },
+  {
+    "amount": 4171.63,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0056",
+    "entryId": "L-000112",
+    "side": "CREDIT",
+    "ts": "2026-10-30T12:19:55Z",
+    "uetr": "5176a9d1-9a36-44d6-ae9c-e8ff084a3c4b"
+  },
+  {
+    "amount": 3205.44,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0057",
+    "entryId": "L-000113",
+    "side": "DEBIT",
+    "ts": "2026-10-22T05:23:41Z",
+    "uetr": "54c7743b-2401-442a-bf05-fbf5efcac577"
+  },
+  {
+    "amount": 3141.33,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0057",
+    "entryId": "L-000114",
+    "side": "CREDIT",
+    "ts": "2026-10-22T05:26:41Z",
+    "uetr": "54c7743b-2401-442a-bf05-fbf5efcac577"
+  },
+  {
+    "amount": 1747.11,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0058",
+    "entryId": "L-000115",
+    "side": "DEBIT",
+    "ts": "2026-10-23T01:19:07Z",
+    "uetr": "f68c62e6-e2a4-4909-a2dd-22d52afaab7b"
+  },
+  {
+    "amount": 1712.17,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0058",
+    "entryId": "L-000116",
+    "side": "CREDIT",
+    "ts": "2026-10-23T01:22:07Z",
+    "uetr": "f68c62e6-e2a4-4909-a2dd-22d52afaab7b"
+  },
+  {
+    "amount": 3356.72,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0059",
+    "entryId": "L-000117",
+    "side": "DEBIT",
+    "ts": "2026-11-14T22:02:18Z",
+    "uetr": "02ead2df-7256-46e3-95f3-ad50e2fbb984"
+  },
+  {
+    "amount": 3289.59,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0059",
+    "entryId": "L-000118",
+    "side": "CREDIT",
+    "ts": "2026-11-14T22:05:18Z",
+    "uetr": "02ead2df-7256-46e3-95f3-ad50e2fbb984"
+  },
+  {
+    "amount": 3472.02,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0060",
+    "entryId": "L-000119",
+    "side": "DEBIT",
+    "ts": "2026-10-23T14:46:10Z",
+    "uetr": "b86d066b-1ba8-47c6-897a-24ad41b455b8"
+  },
+  {
+    "amount": 3402.58,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0060",
+    "entryId": "L-000120",
+    "side": "CREDIT",
+    "ts": "2026-10-23T14:49:10Z",
+    "uetr": "b86d066b-1ba8-47c6-897a-24ad41b455b8"
+  },
+  {
+    "amount": 2202.34,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0061",
+    "entryId": "L-000121",
+    "side": "DEBIT",
+    "ts": "2026-10-30T05:40:57Z",
+    "uetr": "69fd28e6-e271-4ff9-aa95-27f6f8170ebf"
+  },
+  {
+    "amount": 2158.29,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0061",
+    "entryId": "L-000122",
+    "side": "CREDIT",
+    "ts": "2026-10-30T05:43:57Z",
+    "uetr": "69fd28e6-e271-4ff9-aa95-27f6f8170ebf"
+  },
+  {
+    "amount": 1769.13,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0062",
+    "entryId": "L-000123",
+    "side": "DEBIT",
+    "ts": "2026-10-29T21:15:55Z",
+    "uetr": "c9ea356a-7abf-4ebf-942c-b1ae19f738cb"
+  },
+  {
+    "amount": 1733.75,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0062",
+    "entryId": "L-000124",
+    "side": "CREDIT",
+    "ts": "2026-10-29T21:18:55Z",
+    "uetr": "c9ea356a-7abf-4ebf-942c-b1ae19f738cb"
+  },
+  {
+    "amount": 3796.05,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0063",
+    "entryId": "L-000125",
+    "side": "DEBIT",
+    "ts": "2026-11-12T02:28:04Z",
+    "uetr": "cc9803de-12de-4e5a-b387-928a29a3db6d"
+  },
+  {
+    "amount": 3720.13,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0063",
+    "entryId": "L-000126",
+    "side": "CREDIT",
+    "ts": "2026-11-12T02:31:04Z",
+    "uetr": "cc9803de-12de-4e5a-b387-928a29a3db6d"
+  },
+  {
+    "amount": 119.99,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0064",
+    "entryId": "L-000127",
+    "side": "DEBIT",
+    "ts": "2026-10-25T19:37:36Z",
+    "uetr": "5780be17-12fe-4c2b-9acf-42c5f3a02120"
+  },
+  {
+    "amount": 117.59,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0064",
+    "entryId": "L-000128",
+    "side": "CREDIT",
+    "ts": "2026-10-25T19:40:36Z",
+    "uetr": "5780be17-12fe-4c2b-9acf-42c5f3a02120"
+  },
+  {
+    "amount": 821.3,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0065",
+    "entryId": "L-000129",
+    "side": "DEBIT",
+    "ts": "2026-10-29T17:28:24Z",
+    "uetr": "fa60ede1-e5eb-472d-b11c-0ac58c0b393a"
+  },
+  {
+    "amount": 804.87,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0065",
+    "entryId": "L-000130",
+    "side": "CREDIT",
+    "ts": "2026-10-29T17:31:24Z",
+    "uetr": "fa60ede1-e5eb-472d-b11c-0ac58c0b393a"
+  },
+  {
+    "amount": 4926.67,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0066",
+    "entryId": "L-000131",
+    "side": "DEBIT",
+    "ts": "2026-11-09T08:07:44Z",
+    "uetr": "f143e545-6e6b-44b9-87ef-2ba8b45a6ab3"
+  },
+  {
+    "amount": 4828.14,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0066",
+    "entryId": "L-000132",
+    "side": "CREDIT",
+    "ts": "2026-11-09T08:10:44Z",
+    "uetr": "f143e545-6e6b-44b9-87ef-2ba8b45a6ab3"
+  },
+  {
+    "amount": 4450.97,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0067",
+    "entryId": "L-000133",
+    "side": "DEBIT",
+    "ts": "2026-11-09T23:36:34Z",
+    "uetr": "349ef4a9-54c2-4d5c-99ec-08290db5d441"
+  },
+  {
+    "amount": 4361.95,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0067",
+    "entryId": "L-000134",
+    "side": "CREDIT",
+    "ts": "2026-11-09T23:39:34Z",
+    "uetr": "349ef4a9-54c2-4d5c-99ec-08290db5d441"
+  },
+  {
+    "amount": 2779.48,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0068",
+    "entryId": "L-000135",
+    "side": "DEBIT",
+    "ts": "2026-11-14T08:19:34Z",
+    "uetr": "4811e562-a91c-4192-83e8-644b8a45a905"
+  },
+  {
+    "amount": 2723.89,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0068",
+    "entryId": "L-000136",
+    "side": "CREDIT",
+    "ts": "2026-11-14T08:22:34Z",
+    "uetr": "4811e562-a91c-4192-83e8-644b8a45a905"
+  },
+  {
+    "amount": 267.18,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0069",
+    "entryId": "L-000137",
+    "side": "DEBIT",
+    "ts": "2026-10-16T03:47:00Z",
+    "uetr": "2751ab86-7dae-4949-9700-b4618cb6b0ba"
+  },
+  {
+    "amount": 261.84,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0069",
+    "entryId": "L-000138",
+    "side": "CREDIT",
+    "ts": "2026-10-16T03:50:00Z",
+    "uetr": "2751ab86-7dae-4949-9700-b4618cb6b0ba"
+  },
+  {
+    "amount": 2149.48,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0070",
+    "entryId": "L-000139",
+    "side": "DEBIT",
+    "ts": "2026-10-11T16:28:43Z",
+    "uetr": "99a7b99b-a005-45e1-a97a-2846d2eaef18"
+  },
+  {
+    "amount": 2106.49,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0070",
+    "entryId": "L-000140",
+    "side": "CREDIT",
+    "ts": "2026-10-11T16:31:43Z",
+    "uetr": "99a7b99b-a005-45e1-a97a-2846d2eaef18"
+  },
+  {
+    "amount": 148.16,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0071",
+    "entryId": "L-000141",
+    "side": "DEBIT",
+    "ts": "2026-10-16T05:01:52Z",
+    "uetr": "14f9c394-fa20-4403-8ab4-27e3a3607681"
+  },
+  {
+    "amount": 145.2,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0071",
+    "entryId": "L-000142",
+    "side": "CREDIT",
+    "ts": "2026-10-16T05:04:52Z",
+    "uetr": "14f9c394-fa20-4403-8ab4-27e3a3607681"
+  },
+  {
+    "amount": 1555.6,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0072",
+    "entryId": "L-000143",
+    "side": "DEBIT",
+    "ts": "2026-10-17T02:36:39Z",
+    "uetr": "a939ebd1-e516-40d4-bd35-72cc788fd0cd"
+  },
+  {
+    "amount": 1524.49,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0072",
+    "entryId": "L-000144",
+    "side": "CREDIT",
+    "ts": "2026-10-17T02:39:39Z",
+    "uetr": "a939ebd1-e516-40d4-bd35-72cc788fd0cd"
+  },
+  {
+    "amount": 2729.75,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0073",
+    "entryId": "L-000145",
+    "side": "DEBIT",
+    "ts": "2026-11-11T15:51:42Z",
+    "uetr": "5e911b91-61a6-4444-a2af-a6295efb336e"
+  },
+  {
+    "amount": 2675.16,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0073",
+    "entryId": "L-000146",
+    "side": "CREDIT",
+    "ts": "2026-11-11T15:54:42Z",
+    "uetr": "5e911b91-61a6-4444-a2af-a6295efb336e"
+  },
+  {
+    "amount": 1331.21,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0074",
+    "entryId": "L-000147",
+    "side": "DEBIT",
+    "ts": "2026-10-13T16:00:56Z",
+    "uetr": "44c07a9a-d64a-4b1f-b9eb-038a436e3c49"
+  },
+  {
+    "amount": 1304.59,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0074",
+    "entryId": "L-000148",
+    "side": "CREDIT",
+    "ts": "2026-10-13T16:03:56Z",
+    "uetr": "44c07a9a-d64a-4b1f-b9eb-038a436e3c49"
+  },
+  {
+    "amount": 3766.13,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0075",
+    "entryId": "L-000149",
+    "side": "DEBIT",
+    "ts": "2026-10-18T20:06:47Z",
+    "uetr": "5802b640-ab0b-4cc5-95f0-ea1918c180d2"
+  },
+  {
+    "amount": 3690.81,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0075",
+    "entryId": "L-000150",
+    "side": "CREDIT",
+    "ts": "2026-10-18T20:09:47Z",
+    "uetr": "5802b640-ab0b-4cc5-95f0-ea1918c180d2"
+  },
+  {
+    "amount": 4854.11,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0076",
+    "entryId": "L-000151",
+    "side": "DEBIT",
+    "ts": "2026-10-31T14:21:45Z",
+    "uetr": "d73e7bb9-0f9c-417b-8db8-dadf3a3e46b0"
+  },
+  {
+    "amount": 4757.03,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0076",
+    "entryId": "L-000152",
+    "side": "CREDIT",
+    "ts": "2026-10-31T14:24:45Z",
+    "uetr": "d73e7bb9-0f9c-417b-8db8-dadf3a3e46b0"
+  },
+  {
+    "amount": 2104.79,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0077",
+    "entryId": "L-000153",
+    "side": "DEBIT",
+    "ts": "2026-11-05T20:53:08Z",
+    "uetr": "798e175f-efb5-4207-9dec-c40bafe3af13"
+  },
+  {
+    "amount": 2062.69,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0077",
+    "entryId": "L-000154",
+    "side": "CREDIT",
+    "ts": "2026-11-05T20:56:08Z",
+    "uetr": "798e175f-efb5-4207-9dec-c40bafe3af13"
+  },
+  {
+    "amount": 2391.79,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0078",
+    "entryId": "L-000155",
+    "side": "DEBIT",
+    "ts": "2026-10-22T22:34:34Z",
+    "uetr": "b6dcbd05-da9b-4cc1-a71c-681a6511e61a"
+  },
+  {
+    "amount": 2343.95,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0078",
+    "entryId": "L-000156",
+    "side": "CREDIT",
+    "ts": "2026-10-22T22:37:34Z",
+    "uetr": "b6dcbd05-da9b-4cc1-a71c-681a6511e61a"
+  },
+  {
+    "amount": 4504.27,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0079",
+    "entryId": "L-000157",
+    "side": "DEBIT",
+    "ts": "2026-11-08T05:33:10Z",
+    "uetr": "25bf213d-9eca-481b-bb95-d0fcad72ed05"
+  },
+  {
+    "amount": 4414.18,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0079",
+    "entryId": "L-000158",
+    "side": "CREDIT",
+    "ts": "2026-11-08T05:36:10Z",
+    "uetr": "25bf213d-9eca-481b-bb95-d0fcad72ed05"
+  },
+  {
+    "amount": 880.94,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0080",
+    "entryId": "L-000159",
+    "side": "DEBIT",
+    "ts": "2026-11-02T07:12:09Z",
+    "uetr": "31567f2a-cef7-4829-b63e-6ef4f8dfcc3a"
+  },
+  {
+    "amount": 863.32,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0080",
+    "entryId": "L-000160",
+    "side": "CREDIT",
+    "ts": "2026-11-02T07:15:09Z",
+    "uetr": "31567f2a-cef7-4829-b63e-6ef4f8dfcc3a"
+  },
+  {
+    "amount": 410.28,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0081",
+    "entryId": "L-000161",
+    "side": "DEBIT",
+    "ts": "2026-11-01T01:18:03Z",
+    "uetr": "d2938e6e-ff4d-4930-b3b0-fb536f75ee8a"
+  },
+  {
+    "amount": 402.07,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0081",
+    "entryId": "L-000162",
+    "side": "CREDIT",
+    "ts": "2026-11-01T01:21:03Z",
+    "uetr": "d2938e6e-ff4d-4930-b3b0-fb536f75ee8a"
+  },
+  {
+    "amount": 1304.27,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0082",
+    "entryId": "L-000163",
+    "side": "DEBIT",
+    "ts": "2026-11-09T09:18:50Z",
+    "uetr": "16476e3f-1127-4207-8eae-1325ea074d80"
+  },
+  {
+    "amount": 1278.18,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0082",
+    "entryId": "L-000164",
+    "side": "CREDIT",
+    "ts": "2026-11-09T09:21:50Z",
+    "uetr": "16476e3f-1127-4207-8eae-1325ea074d80"
+  },
+  {
+    "amount": 2769.23,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0083",
+    "entryId": "L-000165",
+    "side": "DEBIT",
+    "ts": "2026-10-30T18:59:07Z",
+    "uetr": "df9b7c1f-eacb-4f6d-b549-c9f9850a48d4"
+  },
+  {
+    "amount": 2713.85,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0083",
+    "entryId": "L-000166",
+    "side": "CREDIT",
+    "ts": "2026-10-30T19:02:07Z",
+    "uetr": "df9b7c1f-eacb-4f6d-b549-c9f9850a48d4"
+  },
+  {
+    "amount": 3122.83,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0084",
+    "entryId": "L-000167",
+    "side": "DEBIT",
+    "ts": "2026-11-14T12:04:21Z",
+    "uetr": "6a18e5af-1cce-48e9-ab6a-8061c81c8d31"
+  },
+  {
+    "amount": 3060.37,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0084",
+    "entryId": "L-000168",
+    "side": "CREDIT",
+    "ts": "2026-11-14T12:07:21Z",
+    "uetr": "6a18e5af-1cce-48e9-ab6a-8061c81c8d31"
+  },
+  {
+    "amount": 2947.91,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0085",
+    "entryId": "L-000169",
+    "side": "DEBIT",
+    "ts": "2026-11-08T00:09:47Z",
+    "uetr": "c7903dc5-900c-4af7-9b0a-e22eecc817a6"
+  },
+  {
+    "amount": 2888.95,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0085",
+    "entryId": "L-000170",
+    "side": "CREDIT",
+    "ts": "2026-11-08T00:12:47Z",
+    "uetr": "c7903dc5-900c-4af7-9b0a-e22eecc817a6"
+  },
+  {
+    "amount": 4340.03,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0086",
+    "entryId": "L-000171",
+    "side": "DEBIT",
+    "ts": "2026-10-25T09:21:20Z",
+    "uetr": "620f230b-439e-454c-a930-16eae0bda1ee"
+  },
+  {
+    "amount": 4253.23,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0086",
+    "entryId": "L-000172",
+    "side": "CREDIT",
+    "ts": "2026-10-25T09:24:20Z",
+    "uetr": "620f230b-439e-454c-a930-16eae0bda1ee"
+  },
+  {
+    "amount": 3052.63,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0087",
+    "entryId": "L-000173",
+    "side": "DEBIT",
+    "ts": "2026-11-08T06:29:19Z",
+    "uetr": "24d38751-6729-4d3c-8681-8a882c154804"
+  },
+  {
+    "amount": 2991.58,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0087",
+    "entryId": "L-000174",
+    "side": "CREDIT",
+    "ts": "2026-11-08T06:32:19Z",
+    "uetr": "24d38751-6729-4d3c-8681-8a882c154804"
+  },
+  {
+    "amount": 3474.43,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0088",
+    "entryId": "L-000175",
+    "side": "DEBIT",
+    "ts": "2026-11-13T13:14:16Z",
+    "uetr": "54dccba5-e103-4e1c-a3bb-22ae6552ac53"
+  },
+  {
+    "amount": 3404.94,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0088",
+    "entryId": "L-000176",
+    "side": "CREDIT",
+    "ts": "2026-11-13T13:17:16Z",
+    "uetr": "54dccba5-e103-4e1c-a3bb-22ae6552ac53"
+  },
+  {
+    "amount": 3733.83,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0089",
+    "entryId": "L-000177",
+    "side": "DEBIT",
+    "ts": "2026-10-13T21:27:41Z",
+    "uetr": "567e642e-052d-4b9a-9f58-4603e5a3d8e9"
+  },
+  {
+    "amount": 3659.15,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0089",
+    "entryId": "L-000178",
+    "side": "CREDIT",
+    "ts": "2026-10-13T21:30:41Z",
+    "uetr": "567e642e-052d-4b9a-9f58-4603e5a3d8e9"
+  },
+  {
+    "amount": 1568.53,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0090",
+    "entryId": "L-000179",
+    "side": "DEBIT",
+    "ts": "2026-10-26T05:07:04Z",
+    "uetr": "1924c644-af52-4666-b239-09f4dbb54645"
+  },
+  {
+    "amount": 1537.16,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0090",
+    "entryId": "L-000180",
+    "side": "CREDIT",
+    "ts": "2026-10-26T05:10:04Z",
+    "uetr": "1924c644-af52-4666-b239-09f4dbb54645"
+  },
+  {
+    "amount": 1516.39,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0091",
+    "entryId": "L-000181",
+    "side": "DEBIT",
+    "ts": "2026-10-18T00:36:13Z",
+    "uetr": "52246d05-d369-4867-8626-e38f716fb276"
+  },
+  {
+    "amount": 1486.06,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0091",
+    "entryId": "L-000182",
+    "side": "CREDIT",
+    "ts": "2026-10-18T00:39:13Z",
+    "uetr": "52246d05-d369-4867-8626-e38f716fb276"
+  },
+  {
+    "amount": 3032.8,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0092",
+    "entryId": "L-000183",
+    "side": "DEBIT",
+    "ts": "2026-10-31T17:36:31Z",
+    "uetr": "e9d6bb7e-361d-4014-b114-56de301c8db3"
+  },
+  {
+    "amount": 2972.14,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0092",
+    "entryId": "L-000184",
+    "side": "CREDIT",
+    "ts": "2026-10-31T17:39:31Z",
+    "uetr": "e9d6bb7e-361d-4014-b114-56de301c8db3"
+  },
+  {
+    "amount": 2432.61,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0093",
+    "entryId": "L-000185",
+    "side": "DEBIT",
+    "ts": "2026-11-16T11:17:47Z",
+    "uetr": "0e63813e-d22e-4226-9fb8-944dde0018aa"
+  },
+  {
+    "amount": 2383.96,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0093",
+    "entryId": "L-000186",
+    "side": "CREDIT",
+    "ts": "2026-11-16T11:20:47Z",
+    "uetr": "0e63813e-d22e-4226-9fb8-944dde0018aa"
+  },
+  {
+    "amount": 346.77,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0094",
+    "entryId": "L-000187",
+    "side": "DEBIT",
+    "ts": "2026-10-19T05:14:58Z",
+    "uetr": "c7cfeca8-22b9-424c-a744-3fb881bd55d5"
+  },
+  {
+    "amount": 339.83,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0094",
+    "entryId": "L-000188",
+    "side": "CREDIT",
+    "ts": "2026-10-19T05:17:58Z",
+    "uetr": "c7cfeca8-22b9-424c-a744-3fb881bd55d5"
+  },
+  {
+    "amount": 164.16,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0095",
+    "entryId": "L-000189",
+    "side": "DEBIT",
+    "ts": "2026-11-08T02:35:04Z",
+    "uetr": "d6441a9d-3362-4476-953a-e57fe00bd534"
+  },
+  {
+    "amount": 160.88,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0095",
+    "entryId": "L-000190",
+    "side": "CREDIT",
+    "ts": "2026-11-08T02:38:04Z",
+    "uetr": "d6441a9d-3362-4476-953a-e57fe00bd534"
+  },
+  {
+    "amount": 2293.11,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0096",
+    "entryId": "L-000191",
+    "side": "DEBIT",
+    "ts": "2026-10-13T02:33:50Z",
+    "uetr": "5e4c4fd1-4623-43a9-b2f8-dbabb462e3e8"
+  },
+  {
+    "amount": 2247.25,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0096",
+    "entryId": "L-000192",
+    "side": "CREDIT",
+    "ts": "2026-10-13T02:36:50Z",
+    "uetr": "5e4c4fd1-4623-43a9-b2f8-dbabb462e3e8"
+  },
+  {
+    "amount": 1996.77,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0097",
+    "entryId": "L-000193",
+    "side": "DEBIT",
+    "ts": "2026-11-05T00:32:53Z",
+    "uetr": "5f59fb4d-3def-47ba-87d2-fd4dae61716a"
+  },
+  {
+    "amount": 1956.83,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0097",
+    "entryId": "L-000194",
+    "side": "CREDIT",
+    "ts": "2026-11-05T00:35:53Z",
+    "uetr": "5f59fb4d-3def-47ba-87d2-fd4dae61716a"
+  },
+  {
+    "amount": 904.37,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0098",
+    "entryId": "L-000195",
+    "side": "DEBIT",
+    "ts": "2026-11-02T03:46:53Z",
+    "uetr": "5820b3f2-5989-4d6c-8d24-34f9963dc8bf"
+  },
+  {
+    "amount": 886.28,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0098",
+    "entryId": "L-000196",
+    "side": "CREDIT",
+    "ts": "2026-11-02T03:49:53Z",
+    "uetr": "5820b3f2-5989-4d6c-8d24-34f9963dc8bf"
+  },
+  {
+    "amount": 3749.83,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0099",
+    "entryId": "L-000197",
+    "side": "DEBIT",
+    "ts": "2026-10-24T01:23:38Z",
+    "uetr": "62f5f7c2-0706-4ec2-88fa-4e981723ecdb"
+  },
+  {
+    "amount": 3674.83,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0099",
+    "entryId": "L-000198",
+    "side": "CREDIT",
+    "ts": "2026-10-24T01:26:38Z",
+    "uetr": "62f5f7c2-0706-4ec2-88fa-4e981723ecdb"
+  },
+  {
+    "amount": 3903.55,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0100",
+    "entryId": "L-000199",
+    "side": "DEBIT",
+    "ts": "2026-11-08T06:45:44Z",
+    "uetr": "39a0f145-a5ba-4050-b8aa-76dfdb6ba39b"
+  },
+  {
+    "amount": 3825.48,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0100",
+    "entryId": "L-000200",
+    "side": "CREDIT",
+    "ts": "2026-11-08T06:48:44Z",
+    "uetr": "39a0f145-a5ba-4050-b8aa-76dfdb6ba39b"
+  },
+  {
+    "amount": 3264.9,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0101",
+    "entryId": "L-000201",
+    "side": "DEBIT",
+    "ts": "2026-10-24T13:32:18Z",
+    "uetr": "f796611f-c7c1-4b1b-9d58-631b052226b9"
+  },
+  {
+    "amount": 3199.6,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0101",
+    "entryId": "L-000202",
+    "side": "CREDIT",
+    "ts": "2026-10-24T13:35:18Z",
+    "uetr": "f796611f-c7c1-4b1b-9d58-631b052226b9"
+  },
+  {
+    "amount": 2381.0,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0102",
+    "entryId": "L-000203",
+    "side": "DEBIT",
+    "ts": "2026-10-11T22:24:00Z",
+    "uetr": "cd0579e2-99e4-404c-ac56-e0cda5ba2472"
+  },
+  {
+    "amount": 2333.38,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0102",
+    "entryId": "L-000204",
+    "side": "CREDIT",
+    "ts": "2026-10-11T22:27:00Z",
+    "uetr": "cd0579e2-99e4-404c-ac56-e0cda5ba2472"
+  },
+  {
+    "amount": 3049.55,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0103",
+    "entryId": "L-000205",
+    "side": "DEBIT",
+    "ts": "2026-10-23T18:05:22Z",
+    "uetr": "a48aa108-b599-477f-b78e-e9e8b676291d"
+  },
+  {
+    "amount": 2988.56,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0103",
+    "entryId": "L-000206",
+    "side": "CREDIT",
+    "ts": "2026-10-23T18:08:22Z",
+    "uetr": "a48aa108-b599-477f-b78e-e9e8b676291d"
+  },
+  {
+    "amount": 4260.9,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0104",
+    "entryId": "L-000207",
+    "side": "DEBIT",
+    "ts": "2026-10-29T18:39:32Z",
+    "uetr": "4d59616b-7779-457f-b7dc-8c784082fcda"
+  },
+  {
+    "amount": 4175.68,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0104",
+    "entryId": "L-000208",
+    "side": "CREDIT",
+    "ts": "2026-10-29T18:42:32Z",
+    "uetr": "4d59616b-7779-457f-b7dc-8c784082fcda"
+  },
+  {
+    "amount": 1997.82,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0105",
+    "entryId": "L-000209",
+    "side": "DEBIT",
+    "ts": "2026-11-10T18:35:13Z",
+    "uetr": "a9902071-ffda-4a93-82f2-900401e187d8"
+  },
+  {
+    "amount": 1957.86,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0105",
+    "entryId": "L-000210",
+    "side": "CREDIT",
+    "ts": "2026-11-10T18:38:13Z",
+    "uetr": "a9902071-ffda-4a93-82f2-900401e187d8"
+  },
+  {
+    "amount": 2816.06,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0106",
+    "entryId": "L-000211",
+    "side": "DEBIT",
+    "ts": "2026-10-29T16:02:33Z",
+    "uetr": "af35b30b-4c68-4b17-885d-831c9beab529"
+  },
+  {
+    "amount": 2759.74,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0106",
+    "entryId": "L-000212",
+    "side": "CREDIT",
+    "ts": "2026-10-29T16:05:33Z",
+    "uetr": "af35b30b-4c68-4b17-885d-831c9beab529"
+  },
+  {
+    "amount": 1694.69,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0107",
+    "entryId": "L-000213",
+    "side": "DEBIT",
+    "ts": "2026-10-14T14:24:32Z",
+    "uetr": "46e1ee40-dc8a-46a7-933c-2ed5a3fe0479"
+  },
+  {
+    "amount": 1660.8,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0107",
+    "entryId": "L-000214",
+    "side": "CREDIT",
+    "ts": "2026-10-14T14:27:32Z",
+    "uetr": "46e1ee40-dc8a-46a7-933c-2ed5a3fe0479"
+  },
+  {
+    "amount": 4761.9,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0108",
+    "entryId": "L-000215",
+    "side": "DEBIT",
+    "ts": "2026-11-15T00:31:03Z",
+    "uetr": "846d5a3b-2661-4426-b038-5dd74c7d9313"
+  },
+  {
+    "amount": 4666.66,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0108",
+    "entryId": "L-000216",
+    "side": "CREDIT",
+    "ts": "2026-11-15T00:34:03Z",
+    "uetr": "846d5a3b-2661-4426-b038-5dd74c7d9313"
+  },
+  {
+    "amount": 4031.04,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0109",
+    "entryId": "L-000217",
+    "side": "DEBIT",
+    "ts": "2026-10-14T06:10:50Z",
+    "uetr": "ae46024d-51d0-4ef3-a918-83fc6772fe9f"
+  },
+  {
+    "amount": 3950.42,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0109",
+    "entryId": "L-000218",
+    "side": "CREDIT",
+    "ts": "2026-10-14T06:13:50Z",
+    "uetr": "ae46024d-51d0-4ef3-a918-83fc6772fe9f"
+  },
+  {
+    "amount": 3283.89,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0110",
+    "entryId": "L-000219",
+    "side": "DEBIT",
+    "ts": "2026-10-12T17:41:27Z",
+    "uetr": "6793cb09-6b27-4eff-a82b-5b364269c28c"
+  },
+  {
+    "amount": 3218.21,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0110",
+    "entryId": "L-000220",
+    "side": "CREDIT",
+    "ts": "2026-10-12T17:44:27Z",
+    "uetr": "6793cb09-6b27-4eff-a82b-5b364269c28c"
+  },
+  {
+    "amount": 2923.46,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0111",
+    "entryId": "L-000221",
+    "side": "DEBIT",
+    "ts": "2026-10-13T05:10:58Z",
+    "uetr": "b9ff2c29-57d9-4bb0-b09e-47bad0e656e5"
+  },
+  {
+    "amount": 2864.99,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0111",
+    "entryId": "L-000222",
+    "side": "CREDIT",
+    "ts": "2026-10-13T05:13:58Z",
+    "uetr": "b9ff2c29-57d9-4bb0-b09e-47bad0e656e5"
+  },
+  {
+    "amount": 2682.48,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0112",
+    "entryId": "L-000223",
+    "side": "DEBIT",
+    "ts": "2026-11-13T19:39:06Z",
+    "uetr": "5bc677ca-abff-4286-b0cf-9d73e8121ef0"
+  },
+  {
+    "amount": 2628.83,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0112",
+    "entryId": "L-000224",
+    "side": "CREDIT",
+    "ts": "2026-11-13T19:42:06Z",
+    "uetr": "5bc677ca-abff-4286-b0cf-9d73e8121ef0"
+  },
+  {
+    "amount": 4206.38,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0113",
+    "entryId": "L-000225",
+    "side": "DEBIT",
+    "ts": "2026-10-19T18:04:55Z",
+    "uetr": "7885187d-18fc-43b7-8b35-6e9a2e5eeb6a"
+  },
+  {
+    "amount": 4122.25,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0113",
+    "entryId": "L-000226",
+    "side": "CREDIT",
+    "ts": "2026-10-19T18:07:55Z",
+    "uetr": "7885187d-18fc-43b7-8b35-6e9a2e5eeb6a"
+  },
+  {
+    "amount": 3631.43,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0114",
+    "entryId": "L-000227",
+    "side": "DEBIT",
+    "ts": "2026-10-24T01:23:04Z",
+    "uetr": "f269921c-2edd-4141-a9a1-c6d5c34e9baf"
+  },
+  {
+    "amount": 3558.8,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0114",
+    "entryId": "L-000228",
+    "side": "CREDIT",
+    "ts": "2026-10-24T01:26:04Z",
+    "uetr": "f269921c-2edd-4141-a9a1-c6d5c34e9baf"
+  },
+  {
+    "amount": 464.71,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0115",
+    "entryId": "L-000229",
+    "side": "DEBIT",
+    "ts": "2026-11-12T06:30:17Z",
+    "uetr": "4e9d23e9-df16-4ec3-be84-8aa2392c04da"
+  },
+  {
+    "amount": 455.42,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0115",
+    "entryId": "L-000230",
+    "side": "CREDIT",
+    "ts": "2026-11-12T06:33:17Z",
+    "uetr": "4e9d23e9-df16-4ec3-be84-8aa2392c04da"
+  },
+  {
+    "amount": 1870.98,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0116",
+    "entryId": "L-000231",
+    "side": "DEBIT",
+    "ts": "2026-10-27T14:02:44Z",
+    "uetr": "1e26ed31-d9e9-4758-b6b9-04364b46ef33"
+  },
+  {
+    "amount": 1833.56,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0116",
+    "entryId": "L-000232",
+    "side": "CREDIT",
+    "ts": "2026-10-27T14:05:44Z",
+    "uetr": "1e26ed31-d9e9-4758-b6b9-04364b46ef33"
+  },
+  {
+    "amount": 2926.2,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0117",
+    "entryId": "L-000233",
+    "side": "DEBIT",
+    "ts": "2026-11-11T07:09:32Z",
+    "uetr": "31cd9f6e-e3b1-4d36-b8e3-6397123b31cf"
+  },
+  {
+    "amount": 2867.68,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0117",
+    "entryId": "L-000234",
+    "side": "CREDIT",
+    "ts": "2026-11-11T07:12:32Z",
+    "uetr": "31cd9f6e-e3b1-4d36-b8e3-6397123b31cf"
+  },
+  {
+    "amount": 1920.71,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0118",
+    "entryId": "L-000235",
+    "side": "DEBIT",
+    "ts": "2026-11-13T13:06:13Z",
+    "uetr": "daaf7529-deef-482a-8dd7-015869c165ae"
+  },
+  {
+    "amount": 1882.3,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0118",
+    "entryId": "L-000236",
+    "side": "CREDIT",
+    "ts": "2026-11-13T13:09:13Z",
+    "uetr": "daaf7529-deef-482a-8dd7-015869c165ae"
+  },
+  {
+    "amount": 1726.5,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0119",
+    "entryId": "L-000237",
+    "side": "DEBIT",
+    "ts": "2026-10-21T05:23:44Z",
+    "uetr": "752366ce-fc95-4bba-a818-4f34e4917f7d"
+  },
+  {
+    "amount": 1691.97,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0119",
+    "entryId": "L-000238",
+    "side": "CREDIT",
+    "ts": "2026-10-21T05:26:44Z",
+    "uetr": "752366ce-fc95-4bba-a818-4f34e4917f7d"
+  },
+  {
+    "amount": 918.18,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0120",
+    "entryId": "L-000239",
+    "side": "DEBIT",
+    "ts": "2026-11-15T05:50:51Z",
+    "uetr": "fc9476b1-a18b-4d15-9527-34077cd2192f"
+  },
+  {
+    "amount": 899.82,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0120",
+    "entryId": "L-000240",
+    "side": "CREDIT",
+    "ts": "2026-11-15T05:53:51Z",
+    "uetr": "fc9476b1-a18b-4d15-9527-34077cd2192f"
+  },
+  {
+    "amount": 308.91,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0121",
+    "entryId": "L-000241",
+    "side": "DEBIT",
+    "ts": "2026-11-11T07:16:41Z",
+    "uetr": "c606ddc4-c2dd-401d-b59a-15334605ec0e"
+  },
+  {
+    "amount": 302.73,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0121",
+    "entryId": "L-000242",
+    "side": "CREDIT",
+    "ts": "2026-11-11T07:19:41Z",
+    "uetr": "c606ddc4-c2dd-401d-b59a-15334605ec0e"
+  },
+  {
+    "amount": 809.01,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0122",
+    "entryId": "L-000243",
+    "side": "DEBIT",
+    "ts": "2026-11-17T14:43:17Z",
+    "uetr": "a22c3d4f-6f07-460f-9d4e-8b5d2120bfba"
+  },
+  {
+    "amount": 792.83,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0122",
+    "entryId": "L-000244",
+    "side": "CREDIT",
+    "ts": "2026-11-17T14:46:17Z",
+    "uetr": "a22c3d4f-6f07-460f-9d4e-8b5d2120bfba"
+  },
+  {
+    "amount": 4827.33,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0123",
+    "entryId": "L-000245",
+    "side": "DEBIT",
+    "ts": "2026-11-01T07:53:03Z",
+    "uetr": "330ccff5-88a5-4a0d-89a8-5dc50131ff3b"
+  },
+  {
+    "amount": 4730.78,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0123",
+    "entryId": "L-000246",
+    "side": "CREDIT",
+    "ts": "2026-11-01T07:56:03Z",
+    "uetr": "330ccff5-88a5-4a0d-89a8-5dc50131ff3b"
+  },
+  {
+    "amount": 4462.19,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0124",
+    "entryId": "L-000247",
+    "side": "DEBIT",
+    "ts": "2026-10-12T04:26:03Z",
+    "uetr": "010e4265-ad3f-4dd4-8496-26ba30c9a2be"
+  },
+  {
+    "amount": 4372.95,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0124",
+    "entryId": "L-000248",
+    "side": "CREDIT",
+    "ts": "2026-10-12T04:29:03Z",
+    "uetr": "010e4265-ad3f-4dd4-8496-26ba30c9a2be"
+  },
+  {
+    "amount": 1146.8,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0125",
+    "entryId": "L-000249",
+    "side": "DEBIT",
+    "ts": "2026-10-23T13:55:59Z",
+    "uetr": "62305d27-1a4b-4606-a101-9bff4fe54745"
+  },
+  {
+    "amount": 1123.86,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0125",
+    "entryId": "L-000250",
+    "side": "CREDIT",
+    "ts": "2026-10-23T13:58:59Z",
+    "uetr": "62305d27-1a4b-4606-a101-9bff4fe54745"
+  },
+  {
+    "amount": 851.76,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0126",
+    "entryId": "L-000251",
+    "side": "DEBIT",
+    "ts": "2026-10-26T08:40:59Z",
+    "uetr": "74b79620-4a73-40bf-b2ce-7eeb4c56fb8f"
+  },
+  {
+    "amount": 834.72,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0126",
+    "entryId": "L-000252",
+    "side": "CREDIT",
+    "ts": "2026-10-26T08:43:59Z",
+    "uetr": "74b79620-4a73-40bf-b2ce-7eeb4c56fb8f"
+  },
+  {
+    "amount": 2630.11,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0127",
+    "entryId": "L-000253",
+    "side": "DEBIT",
+    "ts": "2026-11-09T10:51:16Z",
+    "uetr": "2240063b-fed7-47be-afd0-d2f7e3524444"
+  },
+  {
+    "amount": 2577.51,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0127",
+    "entryId": "L-000254",
+    "side": "CREDIT",
+    "ts": "2026-11-09T10:54:16Z",
+    "uetr": "2240063b-fed7-47be-afd0-d2f7e3524444"
+  },
+  {
+    "amount": 3755.58,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0128",
+    "entryId": "L-000255",
+    "side": "DEBIT",
+    "ts": "2026-10-28T22:35:27Z",
+    "uetr": "cfdfc6f9-eb0f-427c-a82a-3879f2b5a7ea"
+  },
+  {
+    "amount": 3680.47,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0128",
+    "entryId": "L-000256",
+    "side": "CREDIT",
+    "ts": "2026-10-28T22:38:27Z",
+    "uetr": "cfdfc6f9-eb0f-427c-a82a-3879f2b5a7ea"
+  },
+  {
+    "amount": 1137.12,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0129",
+    "entryId": "L-000257",
+    "side": "DEBIT",
+    "ts": "2026-10-22T14:09:35Z",
+    "uetr": "96f61c09-059c-4ba0-bbec-721d3610901c"
+  },
+  {
+    "amount": 1114.38,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0129",
+    "entryId": "L-000258",
+    "side": "CREDIT",
+    "ts": "2026-10-22T14:12:35Z",
+    "uetr": "96f61c09-059c-4ba0-bbec-721d3610901c"
+  },
+  {
+    "amount": 1845.63,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0130",
+    "entryId": "L-000259",
+    "side": "DEBIT",
+    "ts": "2026-10-17T11:31:38Z",
+    "uetr": "e0653245-600c-4c71-8990-a647cac8d87e"
+  },
+  {
+    "amount": 1808.72,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0130",
+    "entryId": "L-000260",
+    "side": "CREDIT",
+    "ts": "2026-10-17T11:34:38Z",
+    "uetr": "e0653245-600c-4c71-8990-a647cac8d87e"
+  },
+  {
+    "amount": 2682.97,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0131",
+    "entryId": "L-000261",
+    "side": "DEBIT",
+    "ts": "2026-11-17T22:36:15Z",
+    "uetr": "a976dc4d-0c47-4187-bea3-5d37980b6853"
+  },
+  {
+    "amount": 2629.31,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0131",
+    "entryId": "L-000262",
+    "side": "CREDIT",
+    "ts": "2026-11-17T22:39:15Z",
+    "uetr": "a976dc4d-0c47-4187-bea3-5d37980b6853"
+  },
+  {
+    "amount": 260.21,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0132",
+    "entryId": "L-000263",
+    "side": "DEBIT",
+    "ts": "2026-10-12T11:02:02Z",
+    "uetr": "1fa3ed1f-6158-4f88-b1be-94c36ab1cdb6"
+  },
+  {
+    "amount": 255.01,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0132",
+    "entryId": "L-000264",
+    "side": "CREDIT",
+    "ts": "2026-10-12T11:05:02Z",
+    "uetr": "1fa3ed1f-6158-4f88-b1be-94c36ab1cdb6"
+  },
+  {
+    "amount": 3515.3,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0133",
+    "entryId": "L-000265",
+    "side": "DEBIT",
+    "ts": "2026-11-03T12:44:42Z",
+    "uetr": "0261c87a-a15c-459a-af8c-a888b1f81ad9"
+  },
+  {
+    "amount": 3444.99,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0133",
+    "entryId": "L-000266",
+    "side": "CREDIT",
+    "ts": "2026-11-03T12:47:42Z",
+    "uetr": "0261c87a-a15c-459a-af8c-a888b1f81ad9"
+  },
+  {
+    "amount": 522.88,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0134",
+    "entryId": "L-000267",
+    "side": "DEBIT",
+    "ts": "2026-11-12T14:55:42Z",
+    "uetr": "b362cd55-9b0a-4a0b-9f6f-acc1451d38fe"
+  },
+  {
+    "amount": 512.42,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0134",
+    "entryId": "L-000268",
+    "side": "CREDIT",
+    "ts": "2026-11-12T14:58:42Z",
+    "uetr": "b362cd55-9b0a-4a0b-9f6f-acc1451d38fe"
+  },
+  {
+    "amount": 2567.69,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0135",
+    "entryId": "L-000269",
+    "side": "DEBIT",
+    "ts": "2026-10-16T14:16:02Z",
+    "uetr": "c8e60939-1d2f-4d2a-885f-78881e23da4b"
+  },
+  {
+    "amount": 2516.34,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0135",
+    "entryId": "L-000270",
+    "side": "CREDIT",
+    "ts": "2026-10-16T14:19:02Z",
+    "uetr": "c8e60939-1d2f-4d2a-885f-78881e23da4b"
+  },
+  {
+    "amount": 3052.83,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0136",
+    "entryId": "L-000271",
+    "side": "DEBIT",
+    "ts": "2026-10-21T03:28:24Z",
+    "uetr": "33a0daa7-f91e-4fcd-85ec-e729d4dd1b56"
+  },
+  {
+    "amount": 2991.77,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0136",
+    "entryId": "L-000272",
+    "side": "CREDIT",
+    "ts": "2026-10-21T03:31:24Z",
+    "uetr": "33a0daa7-f91e-4fcd-85ec-e729d4dd1b56"
+  },
+  {
+    "amount": 1490.85,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0137",
+    "entryId": "L-000273",
+    "side": "DEBIT",
+    "ts": "2026-10-31T09:26:02Z",
+    "uetr": "352b6ec8-e90d-41cb-bf11-1a368c52d271"
+  },
+  {
+    "amount": 1461.03,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0137",
+    "entryId": "L-000274",
+    "side": "CREDIT",
+    "ts": "2026-10-31T09:29:02Z",
+    "uetr": "352b6ec8-e90d-41cb-bf11-1a368c52d271"
+  },
+  {
+    "amount": 1187.84,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0138",
+    "entryId": "L-000275",
+    "side": "DEBIT",
+    "ts": "2026-10-27T13:12:52Z",
+    "uetr": "1c453357-e829-4a67-96c8-e3d7abf0263e"
+  },
+  {
+    "amount": 1164.08,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0138",
+    "entryId": "L-000276",
+    "side": "CREDIT",
+    "ts": "2026-10-27T13:15:52Z",
+    "uetr": "1c453357-e829-4a67-96c8-e3d7abf0263e"
+  },
+  {
+    "amount": 2480.64,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0139",
+    "entryId": "L-000277",
+    "side": "DEBIT",
+    "ts": "2026-11-12T23:30:01Z",
+    "uetr": "b93b770c-1336-4c0c-82ff-1f2ec78f07cf"
+  },
+  {
+    "amount": 2431.03,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0139",
+    "entryId": "L-000278",
+    "side": "CREDIT",
+    "ts": "2026-11-12T23:33:01Z",
+    "uetr": "b93b770c-1336-4c0c-82ff-1f2ec78f07cf"
+  },
+  {
+    "amount": 3228.8,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0140",
+    "entryId": "L-000279",
+    "side": "DEBIT",
+    "ts": "2026-10-23T22:10:09Z",
+    "uetr": "439db29d-4bc8-4c16-ba2f-bd74fd1935cc"
+  },
+  {
+    "amount": 3164.22,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0140",
+    "entryId": "L-000280",
+    "side": "CREDIT",
+    "ts": "2026-10-23T22:13:09Z",
+    "uetr": "439db29d-4bc8-4c16-ba2f-bd74fd1935cc"
+  },
+  {
+    "amount": 4069.63,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0141",
+    "entryId": "L-000281",
+    "side": "DEBIT",
+    "ts": "2026-10-16T08:19:08Z",
+    "uetr": "cd3566ef-5c37-4739-8a62-9c5eda2cf852"
+  },
+  {
+    "amount": 3988.24,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0141",
+    "entryId": "L-000282",
+    "side": "CREDIT",
+    "ts": "2026-10-16T08:22:08Z",
+    "uetr": "cd3566ef-5c37-4739-8a62-9c5eda2cf852"
+  },
+  {
+    "amount": 3697.93,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0142",
+    "entryId": "L-000283",
+    "side": "DEBIT",
+    "ts": "2026-11-01T04:21:13Z",
+    "uetr": "0bbf6334-e3ea-4d7f-8219-a845d9eb404c"
+  },
+  {
+    "amount": 3623.97,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0142",
+    "entryId": "L-000284",
+    "side": "CREDIT",
+    "ts": "2026-11-01T04:24:13Z",
+    "uetr": "0bbf6334-e3ea-4d7f-8219-a845d9eb404c"
+  },
+  {
+    "amount": 3323.51,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0143",
+    "entryId": "L-000285",
+    "side": "DEBIT",
+    "ts": "2026-10-18T05:16:28Z",
+    "uetr": "700e0efc-e4ff-431a-9b86-ea6954231dbe"
+  },
+  {
+    "amount": 3257.04,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0143",
+    "entryId": "L-000286",
+    "side": "CREDIT",
+    "ts": "2026-10-18T05:19:28Z",
+    "uetr": "700e0efc-e4ff-431a-9b86-ea6954231dbe"
+  },
+  {
+    "amount": 482.9,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0144",
+    "entryId": "L-000287",
+    "side": "DEBIT",
+    "ts": "2026-11-16T02:07:09Z",
+    "uetr": "6676cc75-6699-4af5-9d24-181c2ed087d4"
+  },
+  {
+    "amount": 473.24,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0144",
+    "entryId": "L-000288",
+    "side": "CREDIT",
+    "ts": "2026-11-16T02:10:09Z",
+    "uetr": "6676cc75-6699-4af5-9d24-181c2ed087d4"
+  },
+  {
+    "amount": 3455.71,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0145",
+    "entryId": "L-000289",
+    "side": "DEBIT",
+    "ts": "2026-10-30T05:25:28Z",
+    "uetr": "e2d903c8-a61a-4d8e-abf7-240fccc62fed"
+  },
+  {
+    "amount": 3386.6,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0145",
+    "entryId": "L-000290",
+    "side": "CREDIT",
+    "ts": "2026-10-30T05:28:28Z",
+    "uetr": "e2d903c8-a61a-4d8e-abf7-240fccc62fed"
+  },
+  {
+    "amount": 679.91,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0146",
+    "entryId": "L-000291",
+    "side": "DEBIT",
+    "ts": "2026-10-16T23:45:13Z",
+    "uetr": "d8274fc3-f145-4426-bb48-1ded0f037337"
+  },
+  {
+    "amount": 666.31,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0146",
+    "entryId": "L-000292",
+    "side": "CREDIT",
+    "ts": "2026-10-16T23:48:13Z",
+    "uetr": "d8274fc3-f145-4426-bb48-1ded0f037337"
+  },
+  {
+    "amount": 4557.91,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0147",
+    "entryId": "L-000293",
+    "side": "DEBIT",
+    "ts": "2026-10-31T16:44:26Z",
+    "uetr": "702b7014-adab-4c2f-91a6-46dacd613988"
+  },
+  {
+    "amount": 4466.75,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0147",
+    "entryId": "L-000294",
+    "side": "CREDIT",
+    "ts": "2026-10-31T16:47:26Z",
+    "uetr": "702b7014-adab-4c2f-91a6-46dacd613988"
+  },
+  {
+    "amount": 3900.24,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0148",
+    "entryId": "L-000295",
+    "side": "DEBIT",
+    "ts": "2026-10-29T22:28:30Z",
+    "uetr": "e1446b45-af39-4a9d-9cd1-c4130760801f"
+  },
+  {
+    "amount": 3822.24,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0148",
+    "entryId": "L-000296",
+    "side": "CREDIT",
+    "ts": "2026-10-29T22:31:30Z",
+    "uetr": "e1446b45-af39-4a9d-9cd1-c4130760801f"
+  },
+  {
+    "amount": 2425.74,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0149",
+    "entryId": "L-000297",
+    "side": "DEBIT",
+    "ts": "2026-10-17T20:15:28Z",
+    "uetr": "70d0ebcb-6949-4ce5-a339-5b1a1ce97871"
+  },
+  {
+    "amount": 2377.23,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0149",
+    "entryId": "L-000298",
+    "side": "CREDIT",
+    "ts": "2026-10-17T20:18:28Z",
+    "uetr": "70d0ebcb-6949-4ce5-a339-5b1a1ce97871"
+  },
+  {
+    "amount": 3281.77,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0150",
+    "entryId": "L-000299",
+    "side": "DEBIT",
+    "ts": "2026-10-24T04:50:03Z",
+    "uetr": "865a7766-ad8c-4fea-9e4b-061eb45e9463"
+  },
+  {
+    "amount": 3216.13,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0150",
+    "entryId": "L-000300",
+    "side": "CREDIT",
+    "ts": "2026-10-24T04:53:03Z",
+    "uetr": "865a7766-ad8c-4fea-9e4b-061eb45e9463"
+  },
+  {
+    "amount": 3624.39,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0151",
+    "entryId": "L-000301",
+    "side": "DEBIT",
+    "ts": "2026-11-08T11:52:41Z",
+    "uetr": "df865633-ab7a-4b66-b4ac-c7e2fa575cea"
+  },
+  {
+    "amount": 3551.9,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0151",
+    "entryId": "L-000302",
+    "side": "CREDIT",
+    "ts": "2026-11-08T11:55:41Z",
+    "uetr": "df865633-ab7a-4b66-b4ac-c7e2fa575cea"
+  },
+  {
+    "amount": 3447.44,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0152",
+    "entryId": "L-000303",
+    "side": "DEBIT",
+    "ts": "2026-11-05T21:29:33Z",
+    "uetr": "ba05dd0f-a966-4a5a-aecf-1ed21861c9f3"
+  },
+  {
+    "amount": 3378.49,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0152",
+    "entryId": "L-000304",
+    "side": "CREDIT",
+    "ts": "2026-11-05T21:32:33Z",
+    "uetr": "ba05dd0f-a966-4a5a-aecf-1ed21861c9f3"
+  },
+  {
+    "amount": 3325.28,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0153",
+    "entryId": "L-000305",
+    "side": "DEBIT",
+    "ts": "2026-10-28T06:51:38Z",
+    "uetr": "d3916dcf-d6ca-4e2c-a60e-37cc62874624"
+  },
+  {
+    "amount": 3258.77,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0153",
+    "entryId": "L-000306",
+    "side": "CREDIT",
+    "ts": "2026-10-28T06:54:38Z",
+    "uetr": "d3916dcf-d6ca-4e2c-a60e-37cc62874624"
+  },
+  {
+    "amount": 77.99,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0154",
+    "entryId": "L-000307",
+    "side": "DEBIT",
+    "ts": "2026-10-14T03:36:26Z",
+    "uetr": "da143a47-7823-41d9-994d-f188816ce054"
+  },
+  {
+    "amount": 76.43,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0154",
+    "entryId": "L-000308",
+    "side": "CREDIT",
+    "ts": "2026-10-14T03:39:26Z",
+    "uetr": "da143a47-7823-41d9-994d-f188816ce054"
+  },
+  {
+    "amount": 392.83,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0155",
+    "entryId": "L-000309",
+    "side": "DEBIT",
+    "ts": "2026-10-19T12:44:34Z",
+    "uetr": "f85b6d0a-54b5-4635-bdab-161452150ed8"
+  },
+  {
+    "amount": 384.97,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0155",
+    "entryId": "L-000310",
+    "side": "CREDIT",
+    "ts": "2026-10-19T12:47:34Z",
+    "uetr": "f85b6d0a-54b5-4635-bdab-161452150ed8"
+  },
+  {
+    "amount": 1129.08,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0156",
+    "entryId": "L-000311",
+    "side": "DEBIT",
+    "ts": "2026-11-05T02:38:55Z",
+    "uetr": "3c28f5dc-d12d-4ea8-a73d-292060ee64ba"
+  },
+  {
+    "amount": 1106.5,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0156",
+    "entryId": "L-000312",
+    "side": "CREDIT",
+    "ts": "2026-11-05T02:41:55Z",
+    "uetr": "3c28f5dc-d12d-4ea8-a73d-292060ee64ba"
+  },
+  {
+    "amount": 4010.28,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0157",
+    "entryId": "L-000313",
+    "side": "DEBIT",
+    "ts": "2026-11-02T01:33:03Z",
+    "uetr": "72730e7b-7f9a-4277-9b49-6e6d1688782f"
+  },
+  {
+    "amount": 3930.07,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0157",
+    "entryId": "L-000314",
+    "side": "CREDIT",
+    "ts": "2026-11-02T01:36:03Z",
+    "uetr": "72730e7b-7f9a-4277-9b49-6e6d1688782f"
+  },
+  {
+    "amount": 3731.29,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0158",
+    "entryId": "L-000315",
+    "side": "DEBIT",
+    "ts": "2026-11-04T15:30:55Z",
+    "uetr": "092c4801-698f-44f8-a747-d24a1a46d536"
+  },
+  {
+    "amount": 3656.66,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0158",
+    "entryId": "L-000316",
+    "side": "CREDIT",
+    "ts": "2026-11-04T15:33:55Z",
+    "uetr": "092c4801-698f-44f8-a747-d24a1a46d536"
+  },
+  {
+    "amount": 4133.03,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0159",
+    "entryId": "L-000317",
+    "side": "DEBIT",
+    "ts": "2026-10-11T12:13:51Z",
+    "uetr": "4dfa21be-a335-42c8-9e7b-1e95f692641a"
+  },
+  {
+    "amount": 4050.37,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0159",
+    "entryId": "L-000318",
+    "side": "CREDIT",
+    "ts": "2026-10-11T12:16:51Z",
+    "uetr": "4dfa21be-a335-42c8-9e7b-1e95f692641a"
+  },
+  {
+    "amount": 1050.12,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0160",
+    "entryId": "L-000319",
+    "side": "DEBIT",
+    "ts": "2026-11-07T19:11:53Z",
+    "uetr": "5d04032d-5742-4882-b34a-794974ca0ad7"
+  },
+  {
+    "amount": 1029.12,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0160",
+    "entryId": "L-000320",
+    "side": "CREDIT",
+    "ts": "2026-11-07T19:14:53Z",
+    "uetr": "5d04032d-5742-4882-b34a-794974ca0ad7"
+  },
+  {
+    "amount": 4224.7,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0161",
+    "entryId": "L-000321",
+    "side": "DEBIT",
+    "ts": "2026-10-22T07:45:06Z",
+    "uetr": "99966612-9ea8-4552-8475-66bf8f660bbd"
+  },
+  {
+    "amount": 4140.21,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0161",
+    "entryId": "L-000322",
+    "side": "CREDIT",
+    "ts": "2026-10-22T07:48:06Z",
+    "uetr": "99966612-9ea8-4552-8475-66bf8f660bbd"
+  },
+  {
+    "amount": 1829.21,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0162",
+    "entryId": "L-000323",
+    "side": "DEBIT",
+    "ts": "2026-11-12T09:41:19Z",
+    "uetr": "a8ae57b9-c262-4ad0-98f1-a1e41d30a290"
+  },
+  {
+    "amount": 1792.63,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0162",
+    "entryId": "L-000324",
+    "side": "CREDIT",
+    "ts": "2026-11-12T09:44:19Z",
+    "uetr": "a8ae57b9-c262-4ad0-98f1-a1e41d30a290"
+  },
+  {
+    "amount": 1788.59,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0163",
+    "entryId": "L-000325",
+    "side": "DEBIT",
+    "ts": "2026-10-28T01:44:35Z",
+    "uetr": "8c357321-4abf-4f5c-8cc7-147ff6e5203c"
+  },
+  {
+    "amount": 1752.82,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0163",
+    "entryId": "L-000326",
+    "side": "CREDIT",
+    "ts": "2026-10-28T01:47:35Z",
+    "uetr": "8c357321-4abf-4f5c-8cc7-147ff6e5203c"
+  },
+  {
+    "amount": 549.48,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0164",
+    "entryId": "L-000327",
+    "side": "DEBIT",
+    "ts": "2026-11-14T14:02:04Z",
+    "uetr": "b783e1d5-d264-44b9-a3f4-7a557e0f60b2"
+  },
+  {
+    "amount": 538.49,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0164",
+    "entryId": "L-000328",
+    "side": "CREDIT",
+    "ts": "2026-11-14T14:05:04Z",
+    "uetr": "b783e1d5-d264-44b9-a3f4-7a557e0f60b2"
+  },
+  {
+    "amount": 552.67,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0165",
+    "entryId": "L-000329",
+    "side": "DEBIT",
+    "ts": "2026-10-31T08:47:54Z",
+    "uetr": "ee22a70b-1ee9-4260-b002-d8313227e8d8"
+  },
+  {
+    "amount": 541.62,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0165",
+    "entryId": "L-000330",
+    "side": "CREDIT",
+    "ts": "2026-10-31T08:50:54Z",
+    "uetr": "ee22a70b-1ee9-4260-b002-d8313227e8d8"
+  },
+  {
+    "amount": 2296.09,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0166",
+    "entryId": "L-000331",
+    "side": "DEBIT",
+    "ts": "2026-10-21T23:12:47Z",
+    "uetr": "c1d48a10-1b96-4925-9682-d038b77f69b9"
+  },
+  {
+    "amount": 2250.17,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0166",
+    "entryId": "L-000332",
+    "side": "CREDIT",
+    "ts": "2026-10-21T23:15:47Z",
+    "uetr": "c1d48a10-1b96-4925-9682-d038b77f69b9"
+  },
+  {
+    "amount": 4190.58,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0167",
+    "entryId": "L-000333",
+    "side": "DEBIT",
+    "ts": "2026-11-11T05:48:43Z",
+    "uetr": "735444fb-e44a-4371-85ab-4e571f8b4af1"
+  },
+  {
+    "amount": 4106.77,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0167",
+    "entryId": "L-000334",
+    "side": "CREDIT",
+    "ts": "2026-11-11T05:51:43Z",
+    "uetr": "735444fb-e44a-4371-85ab-4e571f8b4af1"
+  },
+  {
+    "amount": 4781.83,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0168",
+    "entryId": "L-000335",
+    "side": "DEBIT",
+    "ts": "2026-11-09T02:38:11Z",
+    "uetr": "87c5f526-011c-4544-bfb3-3be5f6bf2f72"
+  },
+  {
+    "amount": 4686.19,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0168",
+    "entryId": "L-000336",
+    "side": "CREDIT",
+    "ts": "2026-11-09T02:41:11Z",
+    "uetr": "87c5f526-011c-4544-bfb3-3be5f6bf2f72"
+  },
+  {
+    "amount": 4677.84,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0169",
+    "entryId": "L-000337",
+    "side": "DEBIT",
+    "ts": "2026-11-07T08:35:19Z",
+    "uetr": "c7f4f4f9-8222-4ad3-aca3-91d47ba16dd7"
+  },
+  {
+    "amount": 4584.28,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0169",
+    "entryId": "L-000338",
+    "side": "CREDIT",
+    "ts": "2026-11-07T08:38:19Z",
+    "uetr": "c7f4f4f9-8222-4ad3-aca3-91d47ba16dd7"
+  },
+  {
+    "amount": 884.78,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0170",
+    "entryId": "L-000339",
+    "side": "DEBIT",
+    "ts": "2026-11-08T14:05:52Z",
+    "uetr": "99bd6240-a853-4961-a32d-03021a82833c"
+  },
+  {
+    "amount": 867.08,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0170",
+    "entryId": "L-000340",
+    "side": "CREDIT",
+    "ts": "2026-11-08T14:08:52Z",
+    "uetr": "99bd6240-a853-4961-a32d-03021a82833c"
+  },
+  {
+    "amount": 2530.47,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0171",
+    "entryId": "L-000341",
+    "side": "DEBIT",
+    "ts": "2026-10-27T03:00:30Z",
+    "uetr": "ea7917e1-9be7-42ab-bac0-8fc46b2d9ccc"
+  },
+  {
+    "amount": 2479.86,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0171",
+    "entryId": "L-000342",
+    "side": "CREDIT",
+    "ts": "2026-10-27T03:03:30Z",
+    "uetr": "ea7917e1-9be7-42ab-bac0-8fc46b2d9ccc"
+  },
+  {
+    "amount": 1382.51,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0172",
+    "entryId": "L-000343",
+    "side": "DEBIT",
+    "ts": "2026-10-23T13:15:08Z",
+    "uetr": "ce072a52-73ed-4223-8b4e-f503f8722413"
+  },
+  {
+    "amount": 1354.86,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0172",
+    "entryId": "L-000344",
+    "side": "CREDIT",
+    "ts": "2026-10-23T13:18:08Z",
+    "uetr": "ce072a52-73ed-4223-8b4e-f503f8722413"
+  },
+  {
+    "amount": 3020.57,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0173",
+    "entryId": "L-000345",
+    "side": "DEBIT",
+    "ts": "2026-10-31T12:54:59Z",
+    "uetr": "b3952193-d7d3-49d9-8c85-92338325bd9e"
+  },
+  {
+    "amount": 2960.16,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0173",
+    "entryId": "L-000346",
+    "side": "CREDIT",
+    "ts": "2026-10-31T12:57:59Z",
+    "uetr": "b3952193-d7d3-49d9-8c85-92338325bd9e"
+  },
+  {
+    "amount": 3565.13,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0174",
+    "entryId": "L-000347",
+    "side": "DEBIT",
+    "ts": "2026-10-26T17:45:57Z",
+    "uetr": "35afbb2d-336d-4786-b7a3-c30aa1f0fa7a"
+  },
+  {
+    "amount": 3493.83,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0174",
+    "entryId": "L-000348",
+    "side": "CREDIT",
+    "ts": "2026-10-26T17:48:57Z",
+    "uetr": "35afbb2d-336d-4786-b7a3-c30aa1f0fa7a"
+  },
+  {
+    "amount": 3439.32,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0175",
+    "entryId": "L-000349",
+    "side": "DEBIT",
+    "ts": "2026-10-25T14:34:58Z",
+    "uetr": "a66c0fa1-b5dc-4a9a-bb38-cd9121f6c63d"
+  },
+  {
+    "amount": 3370.53,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0175",
+    "entryId": "L-000350",
+    "side": "CREDIT",
+    "ts": "2026-10-25T14:37:58Z",
+    "uetr": "a66c0fa1-b5dc-4a9a-bb38-cd9121f6c63d"
+  },
+  {
+    "amount": 3477.67,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0176",
+    "entryId": "L-000351",
+    "side": "DEBIT",
+    "ts": "2026-11-06T20:04:54Z",
+    "uetr": "5a2c41bc-c2c2-46ff-9d8b-32d9b5d9ad36"
+  },
+  {
+    "amount": 3408.12,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0176",
+    "entryId": "L-000352",
+    "side": "CREDIT",
+    "ts": "2026-11-06T20:07:54Z",
+    "uetr": "5a2c41bc-c2c2-46ff-9d8b-32d9b5d9ad36"
+  },
+  {
+    "amount": 2861.78,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0177",
+    "entryId": "L-000353",
+    "side": "DEBIT",
+    "ts": "2026-11-08T19:03:06Z",
+    "uetr": "bf74531c-ac9b-489a-aadf-d568b5caa993"
+  },
+  {
+    "amount": 2804.54,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0177",
+    "entryId": "L-000354",
+    "side": "CREDIT",
+    "ts": "2026-11-08T19:06:06Z",
+    "uetr": "bf74531c-ac9b-489a-aadf-d568b5caa993"
+  },
+  {
+    "amount": 4389.84,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0178",
+    "entryId": "L-000355",
+    "side": "DEBIT",
+    "ts": "2026-10-25T09:09:48Z",
+    "uetr": "1b41a61e-85d1-41ef-8344-edb3ceed0ffc"
+  },
+  {
+    "amount": 4302.04,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0178",
+    "entryId": "L-000356",
+    "side": "CREDIT",
+    "ts": "2026-10-25T09:12:48Z",
+    "uetr": "1b41a61e-85d1-41ef-8344-edb3ceed0ffc"
+  },
+  {
+    "amount": 284.26,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0179",
+    "entryId": "L-000357",
+    "side": "DEBIT",
+    "ts": "2026-10-18T13:21:04Z",
+    "uetr": "c918a346-c00c-400c-8458-b006332cce0a"
+  },
+  {
+    "amount": 278.57,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0179",
+    "entryId": "L-000358",
+    "side": "CREDIT",
+    "ts": "2026-10-18T13:24:04Z",
+    "uetr": "c918a346-c00c-400c-8458-b006332cce0a"
+  },
+  {
+    "amount": 1267.79,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0180",
+    "entryId": "L-000359",
+    "side": "DEBIT",
+    "ts": "2026-11-13T16:14:26Z",
+    "uetr": "34396729-4b8e-4509-88cb-a592b0cad2eb"
+  },
+  {
+    "amount": 1242.43,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0180",
+    "entryId": "L-000360",
+    "side": "CREDIT",
+    "ts": "2026-11-13T16:17:26Z",
+    "uetr": "34396729-4b8e-4509-88cb-a592b0cad2eb"
+  },
+  {
+    "amount": 1806.24,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0181",
+    "entryId": "L-000361",
+    "side": "DEBIT",
+    "ts": "2026-10-13T01:40:22Z",
+    "uetr": "acef45c4-de37-40fb-9db9-4eee1a3c2131"
+  },
+  {
+    "amount": 1770.12,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0181",
+    "entryId": "L-000362",
+    "side": "CREDIT",
+    "ts": "2026-10-13T01:43:22Z",
+    "uetr": "acef45c4-de37-40fb-9db9-4eee1a3c2131"
+  },
+  {
+    "amount": 3717.22,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0182",
+    "entryId": "L-000363",
+    "side": "DEBIT",
+    "ts": "2026-10-22T09:22:13Z",
+    "uetr": "c8c85ad6-82cb-4dc7-bcd3-0e99638e1388"
+  },
+  {
+    "amount": 3642.88,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0182",
+    "entryId": "L-000364",
+    "side": "CREDIT",
+    "ts": "2026-10-22T09:25:13Z",
+    "uetr": "c8c85ad6-82cb-4dc7-bcd3-0e99638e1388"
+  },
+  {
+    "amount": 1452.44,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0183",
+    "entryId": "L-000365",
+    "side": "DEBIT",
+    "ts": "2026-11-14T07:04:54Z",
+    "uetr": "6336c815-61af-463c-ad2e-1bcd0c06df90"
+  },
+  {
+    "amount": 1423.39,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0183",
+    "entryId": "L-000366",
+    "side": "CREDIT",
+    "ts": "2026-11-14T07:07:54Z",
+    "uetr": "6336c815-61af-463c-ad2e-1bcd0c06df90"
+  },
+  {
+    "amount": 1577.02,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0184",
+    "entryId": "L-000367",
+    "side": "DEBIT",
+    "ts": "2026-11-13T18:17:22Z",
+    "uetr": "4057e470-be61-47a8-8351-b09d0dc5fb06"
+  },
+  {
+    "amount": 1545.48,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0184",
+    "entryId": "L-000368",
+    "side": "CREDIT",
+    "ts": "2026-11-13T18:20:22Z",
+    "uetr": "4057e470-be61-47a8-8351-b09d0dc5fb06"
+  },
+  {
+    "amount": 4305.01,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0185",
+    "entryId": "L-000369",
+    "side": "DEBIT",
+    "ts": "2026-11-18T09:52:36Z",
+    "uetr": "a23ff67d-e957-4bc2-b9bd-8bd6d479cc36"
+  },
+  {
+    "amount": 4218.91,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0185",
+    "entryId": "L-000370",
+    "side": "CREDIT",
+    "ts": "2026-11-18T09:55:36Z",
+    "uetr": "a23ff67d-e957-4bc2-b9bd-8bd6d479cc36"
+  },
+  {
+    "amount": 1851.35,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0186",
+    "entryId": "L-000371",
+    "side": "DEBIT",
+    "ts": "2026-11-11T22:34:47Z",
+    "uetr": "324bcc3d-9a77-41a2-bd0b-0fa28beef83f"
+  },
+  {
+    "amount": 1814.32,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0186",
+    "entryId": "L-000372",
+    "side": "CREDIT",
+    "ts": "2026-11-11T22:37:47Z",
+    "uetr": "324bcc3d-9a77-41a2-bd0b-0fa28beef83f"
+  },
+  {
+    "amount": 1485.01,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0187",
+    "entryId": "L-000373",
+    "side": "DEBIT",
+    "ts": "2026-10-20T21:28:28Z",
+    "uetr": "2fddb26a-1310-4665-aec2-bb19fbc398d8"
+  },
+  {
+    "amount": 1455.31,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0187",
+    "entryId": "L-000374",
+    "side": "CREDIT",
+    "ts": "2026-10-20T21:31:28Z",
+    "uetr": "2fddb26a-1310-4665-aec2-bb19fbc398d8"
+  },
+  {
+    "amount": 614.38,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0188",
+    "entryId": "L-000375",
+    "side": "DEBIT",
+    "ts": "2026-11-05T10:42:29Z",
+    "uetr": "43a534d2-8e7d-4f5a-8773-e66a6db2b020"
+  },
+  {
+    "amount": 602.09,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0188",
+    "entryId": "L-000376",
+    "side": "CREDIT",
+    "ts": "2026-11-05T10:45:29Z",
+    "uetr": "43a534d2-8e7d-4f5a-8773-e66a6db2b020"
+  },
+  {
+    "amount": 4233.15,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0189",
+    "entryId": "L-000377",
+    "side": "DEBIT",
+    "ts": "2026-11-08T20:25:35Z",
+    "uetr": "efffa2f4-b5ae-429d-b761-7d80549fc34c"
+  },
+  {
+    "amount": 4148.49,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0189",
+    "entryId": "L-000378",
+    "side": "CREDIT",
+    "ts": "2026-11-08T20:28:35Z",
+    "uetr": "efffa2f4-b5ae-429d-b761-7d80549fc34c"
+  },
+  {
+    "amount": 4644.57,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0190",
+    "entryId": "L-000379",
+    "side": "DEBIT",
+    "ts": "2026-10-18T23:06:38Z",
+    "uetr": "a0180791-eeb0-43fe-860e-a4d50d04dcb6"
+  },
+  {
+    "amount": 4551.68,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0190",
+    "entryId": "L-000380",
+    "side": "CREDIT",
+    "ts": "2026-10-18T23:09:38Z",
+    "uetr": "a0180791-eeb0-43fe-860e-a4d50d04dcb6"
+  },
+  {
+    "amount": 1519.75,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0191",
+    "entryId": "L-000381",
+    "side": "DEBIT",
+    "ts": "2026-11-12T15:11:28Z",
+    "uetr": "c8b648e0-12a8-40c5-9bab-7f4a8cd74c27"
+  },
+  {
+    "amount": 1489.36,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0191",
+    "entryId": "L-000382",
+    "side": "CREDIT",
+    "ts": "2026-11-12T15:14:28Z",
+    "uetr": "c8b648e0-12a8-40c5-9bab-7f4a8cd74c27"
+  },
+  {
+    "amount": 1115.41,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0192",
+    "entryId": "L-000383",
+    "side": "DEBIT",
+    "ts": "2026-11-06T00:09:46Z",
+    "uetr": "8150e0c9-c948-484b-9174-035785467426"
+  },
+  {
+    "amount": 1093.1,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0192",
+    "entryId": "L-000384",
+    "side": "CREDIT",
+    "ts": "2026-11-06T00:12:46Z",
+    "uetr": "8150e0c9-c948-484b-9174-035785467426"
+  },
+  {
+    "amount": 2694.44,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0193",
+    "entryId": "L-000385",
+    "side": "DEBIT",
+    "ts": "2026-11-06T20:46:03Z",
+    "uetr": "369e5af8-e226-49ee-b8a0-6ffe597278c5"
+  },
+  {
+    "amount": 2640.55,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0193",
+    "entryId": "L-000386",
+    "side": "CREDIT",
+    "ts": "2026-11-06T20:49:03Z",
+    "uetr": "369e5af8-e226-49ee-b8a0-6ffe597278c5"
+  },
+  {
+    "amount": 1816.77,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0194",
+    "entryId": "L-000387",
+    "side": "DEBIT",
+    "ts": "2026-10-27T13:45:13Z",
+    "uetr": "87cec69d-9e47-4339-80ae-0b1af3476736"
+  },
+  {
+    "amount": 1780.43,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0194",
+    "entryId": "L-000388",
+    "side": "CREDIT",
+    "ts": "2026-10-27T13:48:13Z",
+    "uetr": "87cec69d-9e47-4339-80ae-0b1af3476736"
+  },
+  {
+    "amount": 4906.04,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0195",
+    "entryId": "L-000389",
+    "side": "DEBIT",
+    "ts": "2026-11-17T00:19:57Z",
+    "uetr": "72173fa3-5893-4f12-ab3f-8d221d5e6aee"
+  },
+  {
+    "amount": 4807.92,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0195",
+    "entryId": "L-000390",
+    "side": "CREDIT",
+    "ts": "2026-11-17T00:22:57Z",
+    "uetr": "72173fa3-5893-4f12-ab3f-8d221d5e6aee"
+  },
+  {
+    "amount": 4594.66,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0196",
+    "entryId": "L-000391",
+    "side": "DEBIT",
+    "ts": "2026-11-10T07:02:48Z",
+    "uetr": "e2ba9fce-aebb-4f9c-8a35-653cf57a431e"
+  },
+  {
+    "amount": 4502.77,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0196",
+    "entryId": "L-000392",
+    "side": "CREDIT",
+    "ts": "2026-11-10T07:05:48Z",
+    "uetr": "e2ba9fce-aebb-4f9c-8a35-653cf57a431e"
+  },
+  {
+    "amount": 1941.66,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0197",
+    "entryId": "L-000393",
+    "side": "DEBIT",
+    "ts": "2026-10-17T00:07:25Z",
+    "uetr": "e94d4fbe-0653-4d47-8867-7b30b9567731"
+  },
+  {
+    "amount": 1902.83,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0197",
+    "entryId": "L-000394",
+    "side": "CREDIT",
+    "ts": "2026-10-17T00:10:25Z",
+    "uetr": "e94d4fbe-0653-4d47-8867-7b30b9567731"
+  },
+  {
+    "amount": 1887.29,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0198",
+    "entryId": "L-000395",
+    "side": "DEBIT",
+    "ts": "2026-11-17T21:43:27Z",
+    "uetr": "4be318a8-0b39-4ccf-bc9f-3bc37210045a"
+  },
+  {
+    "amount": 1849.54,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0198",
+    "entryId": "L-000396",
+    "side": "CREDIT",
+    "ts": "2026-11-17T21:46:27Z",
+    "uetr": "4be318a8-0b39-4ccf-bc9f-3bc37210045a"
+  },
+  {
+    "amount": 2579.2,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0199",
+    "entryId": "L-000397",
+    "side": "DEBIT",
+    "ts": "2026-10-27T01:13:29Z",
+    "uetr": "c5f833cf-f4ce-4477-b8bc-a9ac2ada62ce"
+  },
+  {
+    "amount": 2527.62,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0199",
+    "entryId": "L-000398",
+    "side": "CREDIT",
+    "ts": "2026-10-27T01:16:29Z",
+    "uetr": "c5f833cf-f4ce-4477-b8bc-a9ac2ada62ce"
+  },
+  {
+    "amount": 3142.13,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0200",
+    "entryId": "L-000399",
+    "side": "DEBIT",
+    "ts": "2026-10-11T20:34:26Z",
+    "uetr": "3692a531-c609-4cd8-a127-dc6bab9b153d"
+  },
+  {
+    "amount": 3079.29,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0200",
+    "entryId": "L-000400",
+    "side": "CREDIT",
+    "ts": "2026-10-11T20:37:26Z",
+    "uetr": "3692a531-c609-4cd8-a127-dc6bab9b153d"
+  },
+  {
+    "amount": 4181.61,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0201",
+    "entryId": "L-000401",
+    "side": "DEBIT",
+    "ts": "2026-11-01T02:16:23Z",
+    "uetr": "e0ee5e8a-b3e6-44c6-9428-df6c89aa4293"
+  },
+  {
+    "amount": 4097.98,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0201",
+    "entryId": "L-000402",
+    "side": "CREDIT",
+    "ts": "2026-11-01T02:19:23Z",
+    "uetr": "e0ee5e8a-b3e6-44c6-9428-df6c89aa4293"
+  },
+  {
+    "amount": 3239.87,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0202",
+    "entryId": "L-000403",
+    "side": "DEBIT",
+    "ts": "2026-11-01T15:07:19Z",
+    "uetr": "0614ac41-275c-45dc-afa0-8cbebf343ca7"
+  },
+  {
+    "amount": 3175.07,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0202",
+    "entryId": "L-000404",
+    "side": "CREDIT",
+    "ts": "2026-11-01T15:10:19Z",
+    "uetr": "0614ac41-275c-45dc-afa0-8cbebf343ca7"
+  },
+  {
+    "amount": 208.67,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0203",
+    "entryId": "L-000405",
+    "side": "DEBIT",
+    "ts": "2026-10-27T14:30:35Z",
+    "uetr": "407d0aff-cb51-4911-ad90-e4ee0de4833e"
+  },
+  {
+    "amount": 204.5,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0203",
+    "entryId": "L-000406",
+    "side": "CREDIT",
+    "ts": "2026-10-27T14:33:35Z",
+    "uetr": "407d0aff-cb51-4911-ad90-e4ee0de4833e"
+  },
+  {
+    "amount": 4111.66,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0204",
+    "entryId": "L-000407",
+    "side": "DEBIT",
+    "ts": "2026-11-08T09:54:46Z",
+    "uetr": "a155eb2c-737c-48b5-a356-1add685a9f2b"
+  },
+  {
+    "amount": 4029.43,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0204",
+    "entryId": "L-000408",
+    "side": "CREDIT",
+    "ts": "2026-11-08T09:57:46Z",
+    "uetr": "a155eb2c-737c-48b5-a356-1add685a9f2b"
+  },
+  {
+    "amount": 104.12,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0205",
+    "entryId": "L-000409",
+    "side": "DEBIT",
+    "ts": "2026-10-26T20:40:15Z",
+    "uetr": "a43447fb-0182-4782-88ea-e7d41e494952"
+  },
+  {
+    "amount": 102.04,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0205",
+    "entryId": "L-000410",
+    "side": "CREDIT",
+    "ts": "2026-10-26T20:43:15Z",
+    "uetr": "a43447fb-0182-4782-88ea-e7d41e494952"
+  },
+  {
+    "amount": 3784.68,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0206",
+    "entryId": "L-000411",
+    "side": "DEBIT",
+    "ts": "2026-10-14T13:42:37Z",
+    "uetr": "129538df-d926-4e41-b36d-01210ba6fe09"
+  },
+  {
+    "amount": 3708.99,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0206",
+    "entryId": "L-000412",
+    "side": "CREDIT",
+    "ts": "2026-10-14T13:45:37Z",
+    "uetr": "129538df-d926-4e41-b36d-01210ba6fe09"
+  },
+  {
+    "amount": 1463.39,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0207",
+    "entryId": "L-000413",
+    "side": "DEBIT",
+    "ts": "2026-10-16T15:41:24Z",
+    "uetr": "481186e9-1625-44ca-9b47-e6394d2551eb"
+  },
+  {
+    "amount": 1434.12,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0207",
+    "entryId": "L-000414",
+    "side": "CREDIT",
+    "ts": "2026-10-16T15:44:24Z",
+    "uetr": "481186e9-1625-44ca-9b47-e6394d2551eb"
+  },
+  {
+    "amount": 1987.66,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0208",
+    "entryId": "L-000415",
+    "side": "DEBIT",
+    "ts": "2026-10-30T00:24:44Z",
+    "uetr": "889157fd-2804-40ac-b957-41bb07e3c39a"
+  },
+  {
+    "amount": 1947.91,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0208",
+    "entryId": "L-000416",
+    "side": "CREDIT",
+    "ts": "2026-10-30T00:27:44Z",
+    "uetr": "889157fd-2804-40ac-b957-41bb07e3c39a"
+  },
+  {
+    "amount": 1967.14,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0209",
+    "entryId": "L-000417",
+    "side": "DEBIT",
+    "ts": "2026-11-16T18:03:52Z",
+    "uetr": "24e2226c-a250-4133-b5cb-5be44b83b570"
+  },
+  {
+    "amount": 1927.8,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0209",
+    "entryId": "L-000418",
+    "side": "CREDIT",
+    "ts": "2026-11-16T18:06:52Z",
+    "uetr": "24e2226c-a250-4133-b5cb-5be44b83b570"
+  },
+  {
+    "amount": 3246.74,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0210",
+    "entryId": "L-000419",
+    "side": "DEBIT",
+    "ts": "2026-11-15T21:45:28Z",
+    "uetr": "243113fd-8e19-4d07-9ff0-b9bf8db3c2c1"
+  },
+  {
+    "amount": 3181.81,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0210",
+    "entryId": "L-000420",
+    "side": "CREDIT",
+    "ts": "2026-11-15T21:48:28Z",
+    "uetr": "243113fd-8e19-4d07-9ff0-b9bf8db3c2c1"
+  },
+  {
+    "amount": 2872.14,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0211",
+    "entryId": "L-000421",
+    "side": "DEBIT",
+    "ts": "2026-10-11T17:53:36Z",
+    "uetr": "15cadfaf-f26d-4dd3-8c2a-a0b18982cbf8"
+  },
+  {
+    "amount": 2814.7,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0211",
+    "entryId": "L-000422",
+    "side": "CREDIT",
+    "ts": "2026-10-11T17:56:36Z",
+    "uetr": "15cadfaf-f26d-4dd3-8c2a-a0b18982cbf8"
+  },
+  {
+    "amount": 3712.32,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0212",
+    "entryId": "L-000423",
+    "side": "DEBIT",
+    "ts": "2026-11-16T19:51:43Z",
+    "uetr": "e7d73d1d-69a3-4991-b634-646c5806a961"
+  },
+  {
+    "amount": 3638.07,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0212",
+    "entryId": "L-000424",
+    "side": "CREDIT",
+    "ts": "2026-11-16T19:54:43Z",
+    "uetr": "e7d73d1d-69a3-4991-b634-646c5806a961"
+  },
+  {
+    "amount": 729.43,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0213",
+    "entryId": "L-000425",
+    "side": "DEBIT",
+    "ts": "2026-11-05T09:12:01Z",
+    "uetr": "40b3af7c-d5b2-41a9-9dec-2b8338858f7e"
+  },
+  {
+    "amount": 714.84,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0213",
+    "entryId": "L-000426",
+    "side": "CREDIT",
+    "ts": "2026-11-05T09:15:01Z",
+    "uetr": "40b3af7c-d5b2-41a9-9dec-2b8338858f7e"
+  },
+  {
+    "amount": 3361.47,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0214",
+    "entryId": "L-000427",
+    "side": "DEBIT",
+    "ts": "2026-10-20T07:19:50Z",
+    "uetr": "c04446bf-d9f4-4bbd-8dec-644cda2d2156"
+  },
+  {
+    "amount": 3294.24,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0214",
+    "entryId": "L-000428",
+    "side": "CREDIT",
+    "ts": "2026-10-20T07:22:50Z",
+    "uetr": "c04446bf-d9f4-4bbd-8dec-644cda2d2156"
+  },
+  {
+    "amount": 2757.33,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0215",
+    "entryId": "L-000429",
+    "side": "DEBIT",
+    "ts": "2026-11-11T19:08:00Z",
+    "uetr": "1923cafc-402d-405b-913e-af84abf39096"
+  },
+  {
+    "amount": 2702.18,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0215",
+    "entryId": "L-000430",
+    "side": "CREDIT",
+    "ts": "2026-11-11T19:11:00Z",
+    "uetr": "1923cafc-402d-405b-913e-af84abf39096"
+  },
+  {
+    "amount": 2446.21,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0216",
+    "entryId": "L-000431",
+    "side": "DEBIT",
+    "ts": "2026-11-08T16:28:34Z",
+    "uetr": "a7cd13cb-abda-46b2-a0d2-b5285b6d6b7c"
+  },
+  {
+    "amount": 2397.29,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0216",
+    "entryId": "L-000432",
+    "side": "CREDIT",
+    "ts": "2026-11-08T16:31:34Z",
+    "uetr": "a7cd13cb-abda-46b2-a0d2-b5285b6d6b7c"
+  },
+  {
+    "amount": 3105.19,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0217",
+    "entryId": "L-000433",
+    "side": "DEBIT",
+    "ts": "2026-10-25T08:14:31Z",
+    "uetr": "540e7d01-735d-48f3-bc61-66df515a6b43"
+  },
+  {
+    "amount": 3043.09,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0217",
+    "entryId": "L-000434",
+    "side": "CREDIT",
+    "ts": "2026-10-25T08:17:31Z",
+    "uetr": "540e7d01-735d-48f3-bc61-66df515a6b43"
+  },
+  {
+    "amount": 3473.42,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0218",
+    "entryId": "L-000435",
+    "side": "DEBIT",
+    "ts": "2026-10-26T08:10:15Z",
+    "uetr": "cec56969-5d4f-4107-911d-dc7990c80420"
+  },
+  {
+    "amount": 3403.95,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0218",
+    "entryId": "L-000436",
+    "side": "CREDIT",
+    "ts": "2026-10-26T08:13:15Z",
+    "uetr": "cec56969-5d4f-4107-911d-dc7990c80420"
+  },
+  {
+    "amount": 44.06,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0219",
+    "entryId": "L-000437",
+    "side": "DEBIT",
+    "ts": "2026-10-19T16:30:45Z",
+    "uetr": "bd64987e-b652-4e99-b8b5-e89ac921057c"
+  },
+  {
+    "amount": 43.18,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0219",
+    "entryId": "L-000438",
+    "side": "CREDIT",
+    "ts": "2026-10-19T16:33:45Z",
+    "uetr": "bd64987e-b652-4e99-b8b5-e89ac921057c"
+  },
+  {
+    "amount": 4203.75,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0220",
+    "entryId": "L-000439",
+    "side": "DEBIT",
+    "ts": "2026-10-24T22:23:19Z",
+    "uetr": "e0bd202c-54e1-4f3a-bba4-1ae0adf8f767"
+  },
+  {
+    "amount": 4119.67,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0220",
+    "entryId": "L-000440",
+    "side": "CREDIT",
+    "ts": "2026-10-24T22:26:19Z",
+    "uetr": "e0bd202c-54e1-4f3a-bba4-1ae0adf8f767"
+  },
+  {
+    "amount": 1806.53,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0221",
+    "entryId": "L-000441",
+    "side": "DEBIT",
+    "ts": "2026-11-02T02:54:46Z",
+    "uetr": "2cff45f8-1bdc-44a9-8d3a-5d767caa281b"
+  },
+  {
+    "amount": 1770.4,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0221",
+    "entryId": "L-000442",
+    "side": "CREDIT",
+    "ts": "2026-11-02T02:57:46Z",
+    "uetr": "2cff45f8-1bdc-44a9-8d3a-5d767caa281b"
+  },
+  {
+    "amount": 4212.13,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0222",
+    "entryId": "L-000443",
+    "side": "DEBIT",
+    "ts": "2026-10-15T11:32:22Z",
+    "uetr": "4363589c-3249-4cff-89e2-df24e42c0aea"
+  },
+  {
+    "amount": 4127.89,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0222",
+    "entryId": "L-000444",
+    "side": "CREDIT",
+    "ts": "2026-10-15T11:35:22Z",
+    "uetr": "4363589c-3249-4cff-89e2-df24e42c0aea"
+  },
+  {
+    "amount": 400.78,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0223",
+    "entryId": "L-000445",
+    "side": "DEBIT",
+    "ts": "2026-11-10T22:05:50Z",
+    "uetr": "81d67019-d97e-4d3c-84c4-f46ae4610160"
+  },
+  {
+    "amount": 392.76,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0223",
+    "entryId": "L-000446",
+    "side": "CREDIT",
+    "ts": "2026-11-10T22:08:50Z",
+    "uetr": "81d67019-d97e-4d3c-84c4-f46ae4610160"
+  },
+  {
+    "amount": 2902.93,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0224",
+    "entryId": "L-000447",
+    "side": "DEBIT",
+    "ts": "2026-11-08T17:59:05Z",
+    "uetr": "8d3543be-0962-4ec9-a803-82eb36777be4"
+  },
+  {
+    "amount": 2844.87,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0224",
+    "entryId": "L-000448",
+    "side": "CREDIT",
+    "ts": "2026-11-08T18:02:05Z",
+    "uetr": "8d3543be-0962-4ec9-a803-82eb36777be4"
+  },
+  {
+    "amount": 2371.08,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0225",
+    "entryId": "L-000449",
+    "side": "DEBIT",
+    "ts": "2026-11-06T16:48:09Z",
+    "uetr": "e4354021-392a-4fc4-a47a-c5915da64a3a"
+  },
+  {
+    "amount": 2323.66,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0225",
+    "entryId": "L-000450",
+    "side": "CREDIT",
+    "ts": "2026-11-06T16:51:09Z",
+    "uetr": "e4354021-392a-4fc4-a47a-c5915da64a3a"
+  },
+  {
+    "amount": 4288.68,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0226",
+    "entryId": "L-000451",
+    "side": "DEBIT",
+    "ts": "2026-11-16T02:18:16Z",
+    "uetr": "172e8c68-82aa-4c46-8049-9bbf76f6a778"
+  },
+  {
+    "amount": 4202.91,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0226",
+    "entryId": "L-000452",
+    "side": "CREDIT",
+    "ts": "2026-11-16T02:21:16Z",
+    "uetr": "172e8c68-82aa-4c46-8049-9bbf76f6a778"
+  },
+  {
+    "amount": 72.75,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0227",
+    "entryId": "L-000453",
+    "side": "DEBIT",
+    "ts": "2026-11-04T21:06:02Z",
+    "uetr": "fb5abb36-ce79-48b7-b6c8-b8b9d9155664"
+  },
+  {
+    "amount": 71.29,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0227",
+    "entryId": "L-000454",
+    "side": "CREDIT",
+    "ts": "2026-11-04T21:09:02Z",
+    "uetr": "fb5abb36-ce79-48b7-b6c8-b8b9d9155664"
+  },
+  {
+    "amount": 3790.89,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0228",
+    "entryId": "L-000455",
+    "side": "DEBIT",
+    "ts": "2026-10-19T13:15:18Z",
+    "uetr": "90fcc9f1-2ddc-456b-a8c2-cce9723b80d4"
+  },
+  {
+    "amount": 3715.07,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0228",
+    "entryId": "L-000456",
+    "side": "CREDIT",
+    "ts": "2026-10-19T13:18:18Z",
+    "uetr": "90fcc9f1-2ddc-456b-a8c2-cce9723b80d4"
+  },
+  {
+    "amount": 3684.88,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0229",
+    "entryId": "L-000457",
+    "side": "DEBIT",
+    "ts": "2026-10-18T14:22:03Z",
+    "uetr": "38048786-0a58-443c-9bda-0655f06dca24"
+  },
+  {
+    "amount": 3611.18,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0229",
+    "entryId": "L-000458",
+    "side": "CREDIT",
+    "ts": "2026-10-18T14:25:03Z",
+    "uetr": "38048786-0a58-443c-9bda-0655f06dca24"
+  },
+  {
+    "amount": 333.05,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0230",
+    "entryId": "L-000459",
+    "side": "DEBIT",
+    "ts": "2026-10-22T18:02:29Z",
+    "uetr": "34ef2552-ab28-4d09-8af5-7e603be8a5df"
+  },
+  {
+    "amount": 326.39,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0230",
+    "entryId": "L-000460",
+    "side": "CREDIT",
+    "ts": "2026-10-22T18:05:29Z",
+    "uetr": "34ef2552-ab28-4d09-8af5-7e603be8a5df"
+  },
+  {
+    "amount": 1952.7,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0231",
+    "entryId": "L-000461",
+    "side": "DEBIT",
+    "ts": "2026-10-29T00:55:18Z",
+    "uetr": "fb07ee93-0a37-41ab-8be3-534ae1ad640c"
+  },
+  {
+    "amount": 1913.65,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0231",
+    "entryId": "L-000462",
+    "side": "CREDIT",
+    "ts": "2026-10-29T00:58:18Z",
+    "uetr": "fb07ee93-0a37-41ab-8be3-534ae1ad640c"
+  },
+  {
+    "amount": 3524.61,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0232",
+    "entryId": "L-000463",
+    "side": "DEBIT",
+    "ts": "2026-10-16T12:17:57Z",
+    "uetr": "d5ba304c-4603-49ee-9463-c183a2317211"
+  },
+  {
+    "amount": 3454.12,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0232",
+    "entryId": "L-000464",
+    "side": "CREDIT",
+    "ts": "2026-10-16T12:20:57Z",
+    "uetr": "d5ba304c-4603-49ee-9463-c183a2317211"
+  },
+  {
+    "amount": 2730.86,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0233",
+    "entryId": "L-000465",
+    "side": "DEBIT",
+    "ts": "2026-11-08T14:11:16Z",
+    "uetr": "5d8416e0-60e6-46ff-a757-43f9606cc2f5"
+  },
+  {
+    "amount": 2676.24,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0233",
+    "entryId": "L-000466",
+    "side": "CREDIT",
+    "ts": "2026-11-08T14:14:16Z",
+    "uetr": "5d8416e0-60e6-46ff-a757-43f9606cc2f5"
+  },
+  {
+    "amount": 2592.98,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0234",
+    "entryId": "L-000467",
+    "side": "DEBIT",
+    "ts": "2026-10-15T06:43:14Z",
+    "uetr": "8430f0fa-390f-4cf5-a841-0a39f9012b9c"
+  },
+  {
+    "amount": 2541.12,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0234",
+    "entryId": "L-000468",
+    "side": "CREDIT",
+    "ts": "2026-10-15T06:46:14Z",
+    "uetr": "8430f0fa-390f-4cf5-a841-0a39f9012b9c"
+  },
+  {
+    "amount": 2444.57,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0235",
+    "entryId": "L-000469",
+    "side": "DEBIT",
+    "ts": "2026-10-28T06:01:30Z",
+    "uetr": "8078636d-01b0-42c1-9aad-9234e31db345"
+  },
+  {
+    "amount": 2395.68,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0235",
+    "entryId": "L-000470",
+    "side": "CREDIT",
+    "ts": "2026-10-28T06:04:30Z",
+    "uetr": "8078636d-01b0-42c1-9aad-9234e31db345"
+  },
+  {
+    "amount": 844.72,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0236",
+    "entryId": "L-000471",
+    "side": "DEBIT",
+    "ts": "2026-11-01T20:33:08Z",
+    "uetr": "3625fc20-47e3-41c2-a4ba-e8bf83b8fa05"
+  },
+  {
+    "amount": 827.83,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0236",
+    "entryId": "L-000472",
+    "side": "CREDIT",
+    "ts": "2026-11-01T20:36:08Z",
+    "uetr": "3625fc20-47e3-41c2-a4ba-e8bf83b8fa05"
+  },
+  {
+    "amount": 1823.87,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0237",
+    "entryId": "L-000473",
+    "side": "DEBIT",
+    "ts": "2026-10-19T03:22:04Z",
+    "uetr": "3af7fa21-a93e-4b5b-9e4a-e3a7d123f7c1"
+  },
+  {
+    "amount": 1787.39,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0237",
+    "entryId": "L-000474",
+    "side": "CREDIT",
+    "ts": "2026-10-19T03:25:04Z",
+    "uetr": "3af7fa21-a93e-4b5b-9e4a-e3a7d123f7c1"
+  },
+  {
+    "amount": 3606.87,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0238",
+    "entryId": "L-000475",
+    "side": "DEBIT",
+    "ts": "2026-10-27T12:46:23Z",
+    "uetr": "35f0b1be-7aa1-419a-ba93-98bbacdbd5f2"
+  },
+  {
+    "amount": 3534.73,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0238",
+    "entryId": "L-000476",
+    "side": "CREDIT",
+    "ts": "2026-10-27T12:49:23Z",
+    "uetr": "35f0b1be-7aa1-419a-ba93-98bbacdbd5f2"
+  },
+  {
+    "amount": 4170.16,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0239",
+    "entryId": "L-000477",
+    "side": "DEBIT",
+    "ts": "2026-11-11T22:08:41Z",
+    "uetr": "92d00319-20bd-4422-8b0b-81de3e612d66"
+  },
+  {
+    "amount": 4086.76,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0239",
+    "entryId": "L-000478",
+    "side": "CREDIT",
+    "ts": "2026-11-11T22:11:41Z",
+    "uetr": "92d00319-20bd-4422-8b0b-81de3e612d66"
+  },
+  {
+    "amount": 3155.11,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0240",
+    "entryId": "L-000479",
+    "side": "DEBIT",
+    "ts": "2026-10-18T00:59:53Z",
+    "uetr": "0e503fd8-2598-4383-9280-3da2e40b50e4"
+  },
+  {
+    "amount": 3092.01,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0240",
+    "entryId": "L-000480",
+    "side": "CREDIT",
+    "ts": "2026-10-18T01:02:53Z",
+    "uetr": "0e503fd8-2598-4383-9280-3da2e40b50e4"
+  },
+  {
+    "amount": 2592.87,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0241",
+    "entryId": "L-000481",
+    "side": "DEBIT",
+    "ts": "2026-10-20T05:47:32Z",
+    "uetr": "a33b3dfd-9048-45c6-b820-5aa7996f7e88"
+  },
+  {
+    "amount": 2541.01,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0241",
+    "entryId": "L-000482",
+    "side": "CREDIT",
+    "ts": "2026-10-20T05:50:32Z",
+    "uetr": "a33b3dfd-9048-45c6-b820-5aa7996f7e88"
+  },
+  {
+    "amount": 3645.31,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0242",
+    "entryId": "L-000483",
+    "side": "DEBIT",
+    "ts": "2026-11-15T10:22:00Z",
+    "uetr": "72fefdc2-3772-4a97-95f3-9d39f27f3ad7"
+  },
+  {
+    "amount": 3572.4,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0242",
+    "entryId": "L-000484",
+    "side": "CREDIT",
+    "ts": "2026-11-15T10:25:00Z",
+    "uetr": "72fefdc2-3772-4a97-95f3-9d39f27f3ad7"
+  },
+  {
+    "amount": 869.42,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0243",
+    "entryId": "L-000485",
+    "side": "DEBIT",
+    "ts": "2026-11-03T21:13:03Z",
+    "uetr": "95284c0a-cb6b-4562-a488-c84d99d090fd"
+  },
+  {
+    "amount": 852.03,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0243",
+    "entryId": "L-000486",
+    "side": "CREDIT",
+    "ts": "2026-11-03T21:16:03Z",
+    "uetr": "95284c0a-cb6b-4562-a488-c84d99d090fd"
+  },
+  {
+    "amount": 3123.59,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0244",
+    "entryId": "L-000487",
+    "side": "DEBIT",
+    "ts": "2026-10-20T07:56:37Z",
+    "uetr": "af82e70c-b964-4e4f-aaef-cf3b43b7a0ef"
+  },
+  {
+    "amount": 3061.12,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0244",
+    "entryId": "L-000488",
+    "side": "CREDIT",
+    "ts": "2026-10-20T07:59:37Z",
+    "uetr": "af82e70c-b964-4e4f-aaef-cf3b43b7a0ef"
+  },
+  {
+    "amount": 2961.17,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0245",
+    "entryId": "L-000489",
+    "side": "DEBIT",
+    "ts": "2026-11-09T11:02:42Z",
+    "uetr": "1bcb404c-21d8-496a-a2ad-a15760d2759a"
+  },
+  {
+    "amount": 2901.95,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0245",
+    "entryId": "L-000490",
+    "side": "CREDIT",
+    "ts": "2026-11-09T11:05:42Z",
+    "uetr": "1bcb404c-21d8-496a-a2ad-a15760d2759a"
+  },
+  {
+    "amount": 4300.77,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0246",
+    "entryId": "L-000491",
+    "side": "DEBIT",
+    "ts": "2026-11-05T21:02:10Z",
+    "uetr": "2649a478-d396-4f0a-ab77-af9eaf32baf8"
+  },
+  {
+    "amount": 4214.75,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0246",
+    "entryId": "L-000492",
+    "side": "CREDIT",
+    "ts": "2026-11-05T21:05:10Z",
+    "uetr": "2649a478-d396-4f0a-ab77-af9eaf32baf8"
+  },
+  {
+    "amount": 2389.83,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0247",
+    "entryId": "L-000493",
+    "side": "DEBIT",
+    "ts": "2026-10-20T02:44:42Z",
+    "uetr": "c8ab96ac-e0b4-459a-89fe-4cdd998d65ba"
+  },
+  {
+    "amount": 2342.03,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0247",
+    "entryId": "L-000494",
+    "side": "CREDIT",
+    "ts": "2026-10-20T02:47:42Z",
+    "uetr": "c8ab96ac-e0b4-459a-89fe-4cdd998d65ba"
+  },
+  {
+    "amount": 605.23,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0248",
+    "entryId": "L-000495",
+    "side": "DEBIT",
+    "ts": "2026-11-17T00:37:23Z",
+    "uetr": "9a7d509d-e6e8-490b-a15d-3b1fa8cdf44d"
+  },
+  {
+    "amount": 593.13,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0248",
+    "entryId": "L-000496",
+    "side": "CREDIT",
+    "ts": "2026-11-17T00:40:23Z",
+    "uetr": "9a7d509d-e6e8-490b-a15d-3b1fa8cdf44d"
+  },
+  {
+    "amount": 4486.91,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0249",
+    "entryId": "L-000497",
+    "side": "DEBIT",
+    "ts": "2026-10-11T13:25:54Z",
+    "uetr": "6bb1f2bc-85a4-40cb-ae76-936aa6340d1a"
+  },
+  {
+    "amount": 4397.17,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0249",
+    "entryId": "L-000498",
+    "side": "CREDIT",
+    "ts": "2026-10-11T13:28:54Z",
+    "uetr": "6bb1f2bc-85a4-40cb-ae76-936aa6340d1a"
+  },
+  {
+    "amount": 3494.26,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0250",
+    "entryId": "L-000499",
+    "side": "DEBIT",
+    "ts": "2026-10-13T14:38:33Z",
+    "uetr": "7b6c7129-cd63-4ba8-b03c-664b3abf9c65"
+  },
+  {
+    "amount": 3424.37,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0250",
+    "entryId": "L-000500",
+    "side": "CREDIT",
+    "ts": "2026-10-13T14:41:33Z",
+    "uetr": "7b6c7129-cd63-4ba8-b03c-664b3abf9c65"
+  },
+  {
+    "amount": 1765.58,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0251",
+    "entryId": "L-000501",
+    "side": "DEBIT",
+    "ts": "2026-10-30T00:12:21Z",
+    "uetr": "b25b6de7-d652-4e08-82f4-3c10e869707c"
+  },
+  {
+    "amount": 1730.27,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0251",
+    "entryId": "L-000502",
+    "side": "CREDIT",
+    "ts": "2026-10-30T00:15:21Z",
+    "uetr": "b25b6de7-d652-4e08-82f4-3c10e869707c"
+  },
+  {
+    "amount": 686.74,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0252",
+    "entryId": "L-000503",
+    "side": "DEBIT",
+    "ts": "2026-11-01T03:45:51Z",
+    "uetr": "dbeae9f8-e8fb-4a96-bb85-f6e1c40f5405"
+  },
+  {
+    "amount": 673.01,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0252",
+    "entryId": "L-000504",
+    "side": "CREDIT",
+    "ts": "2026-11-01T03:48:51Z",
+    "uetr": "dbeae9f8-e8fb-4a96-bb85-f6e1c40f5405"
+  },
+  {
+    "amount": 4386.3,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0253",
+    "entryId": "L-000505",
+    "side": "DEBIT",
+    "ts": "2026-11-09T13:05:39Z",
+    "uetr": "b58ac738-0166-4221-b063-ae7f41ff81d1"
+  },
+  {
+    "amount": 4298.57,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0253",
+    "entryId": "L-000506",
+    "side": "CREDIT",
+    "ts": "2026-11-09T13:08:39Z",
+    "uetr": "b58ac738-0166-4221-b063-ae7f41ff81d1"
+  },
+  {
+    "amount": 2898.38,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0254",
+    "entryId": "L-000507",
+    "side": "DEBIT",
+    "ts": "2026-10-11T20:19:18Z",
+    "uetr": "a79055b0-6001-454d-81d7-7831850f1cdc"
+  },
+  {
+    "amount": 2840.41,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0254",
+    "entryId": "L-000508",
+    "side": "CREDIT",
+    "ts": "2026-10-11T20:22:18Z",
+    "uetr": "a79055b0-6001-454d-81d7-7831850f1cdc"
+  },
+  {
+    "amount": 2056.05,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0255",
+    "entryId": "L-000509",
+    "side": "DEBIT",
+    "ts": "2026-10-26T20:05:07Z",
+    "uetr": "95dad216-a6cd-4e3c-ad13-0705279f91ab"
+  },
+  {
+    "amount": 2014.93,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0255",
+    "entryId": "L-000510",
+    "side": "CREDIT",
+    "ts": "2026-10-26T20:08:07Z",
+    "uetr": "95dad216-a6cd-4e3c-ad13-0705279f91ab"
+  },
+  {
+    "amount": 2129.34,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0256",
+    "entryId": "L-000511",
+    "side": "DEBIT",
+    "ts": "2026-11-06T12:38:26Z",
+    "uetr": "ae3c2ce6-fde6-449b-868b-22af9ca4364d"
+  },
+  {
+    "amount": 2086.75,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0256",
+    "entryId": "L-000512",
+    "side": "CREDIT",
+    "ts": "2026-11-06T12:41:26Z",
+    "uetr": "ae3c2ce6-fde6-449b-868b-22af9ca4364d"
+  },
+  {
+    "amount": 2077.88,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0257",
+    "entryId": "L-000513",
+    "side": "DEBIT",
+    "ts": "2026-10-21T09:21:13Z",
+    "uetr": "8f20c5e7-5ec6-46eb-adc0-91587b8301cf"
+  },
+  {
+    "amount": 2036.32,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0257",
+    "entryId": "L-000514",
+    "side": "CREDIT",
+    "ts": "2026-10-21T09:24:13Z",
+    "uetr": "8f20c5e7-5ec6-46eb-adc0-91587b8301cf"
+  },
+  {
+    "amount": 4942.77,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0258",
+    "entryId": "L-000515",
+    "side": "DEBIT",
+    "ts": "2026-10-23T19:42:20Z",
+    "uetr": "65ebd4dc-b49b-4b72-8631-9c165827bc1d"
+  },
+  {
+    "amount": 4843.91,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0258",
+    "entryId": "L-000516",
+    "side": "CREDIT",
+    "ts": "2026-10-23T19:45:20Z",
+    "uetr": "65ebd4dc-b49b-4b72-8631-9c165827bc1d"
+  },
+  {
+    "amount": 613.05,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0259",
+    "entryId": "L-000517",
+    "side": "DEBIT",
+    "ts": "2026-11-12T12:09:12Z",
+    "uetr": "f301bb6c-b306-4300-8879-d93272540ab7"
+  },
+  {
+    "amount": 600.79,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0259",
+    "entryId": "L-000518",
+    "side": "CREDIT",
+    "ts": "2026-11-12T12:12:12Z",
+    "uetr": "f301bb6c-b306-4300-8879-d93272540ab7"
+  },
+  {
+    "amount": 2551.55,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0260",
+    "entryId": "L-000519",
+    "side": "DEBIT",
+    "ts": "2026-10-21T21:53:42Z",
+    "uetr": "b2725aa7-9d30-442e-8cf2-9000cd04c001"
+  },
+  {
+    "amount": 2500.52,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0260",
+    "entryId": "L-000520",
+    "side": "CREDIT",
+    "ts": "2026-10-21T21:56:42Z",
+    "uetr": "b2725aa7-9d30-442e-8cf2-9000cd04c001"
+  },
+  {
+    "amount": 820.48,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0261",
+    "entryId": "L-000521",
+    "side": "DEBIT",
+    "ts": "2026-10-14T00:40:45Z",
+    "uetr": "d2c0dec2-1751-44d7-8deb-2696015aba1d"
+  },
+  {
+    "amount": 804.07,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0261",
+    "entryId": "L-000522",
+    "side": "CREDIT",
+    "ts": "2026-10-14T00:43:45Z",
+    "uetr": "d2c0dec2-1751-44d7-8deb-2696015aba1d"
+  },
+  {
+    "amount": 2188.18,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0262",
+    "entryId": "L-000523",
+    "side": "DEBIT",
+    "ts": "2026-11-09T15:22:11Z",
+    "uetr": "147d7bfc-5eef-4d1e-b8c5-ef5e4359ff43"
+  },
+  {
+    "amount": 2144.42,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0262",
+    "entryId": "L-000524",
+    "side": "CREDIT",
+    "ts": "2026-11-09T15:25:11Z",
+    "uetr": "147d7bfc-5eef-4d1e-b8c5-ef5e4359ff43"
+  },
+  {
+    "amount": 1933.94,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0263",
+    "entryId": "L-000525",
+    "side": "DEBIT",
+    "ts": "2026-11-15T16:07:51Z",
+    "uetr": "49560c36-8560-4e8a-a7fb-19979d2cd944"
+  },
+  {
+    "amount": 1895.26,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0263",
+    "entryId": "L-000526",
+    "side": "CREDIT",
+    "ts": "2026-11-15T16:10:51Z",
+    "uetr": "49560c36-8560-4e8a-a7fb-19979d2cd944"
+  },
+  {
+    "amount": 4729.66,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0264",
+    "entryId": "L-000527",
+    "side": "DEBIT",
+    "ts": "2026-10-14T06:58:57Z",
+    "uetr": "02bdeabe-7060-48eb-be8e-ed12a3ea21a2"
+  },
+  {
+    "amount": 4635.07,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0264",
+    "entryId": "L-000528",
+    "side": "CREDIT",
+    "ts": "2026-10-14T07:01:57Z",
+    "uetr": "02bdeabe-7060-48eb-be8e-ed12a3ea21a2"
+  },
+  {
+    "amount": 4655.18,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0265",
+    "entryId": "L-000529",
+    "side": "DEBIT",
+    "ts": "2026-11-12T09:21:32Z",
+    "uetr": "c8b190e1-089a-4f4f-b1da-e8174937b90f"
+  },
+  {
+    "amount": 4562.08,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0265",
+    "entryId": "L-000530",
+    "side": "CREDIT",
+    "ts": "2026-11-12T09:24:32Z",
+    "uetr": "c8b190e1-089a-4f4f-b1da-e8174937b90f"
+  },
+  {
+    "amount": 3498.28,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0266",
+    "entryId": "L-000531",
+    "side": "DEBIT",
+    "ts": "2026-11-05T12:59:59Z",
+    "uetr": "5c17ebb5-093b-4d72-ac8c-dcaf2b633b18"
+  },
+  {
+    "amount": 3428.31,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0266",
+    "entryId": "L-000532",
+    "side": "CREDIT",
+    "ts": "2026-11-05T13:02:59Z",
+    "uetr": "5c17ebb5-093b-4d72-ac8c-dcaf2b633b18"
+  },
+  {
+    "amount": 4878.72,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0267",
+    "entryId": "L-000533",
+    "side": "DEBIT",
+    "ts": "2026-10-11T12:22:04Z",
+    "uetr": "66414954-c798-4445-86a3-cc71ff2f6883"
+  },
+  {
+    "amount": 4781.15,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0267",
+    "entryId": "L-000534",
+    "side": "CREDIT",
+    "ts": "2026-10-11T12:25:04Z",
+    "uetr": "66414954-c798-4445-86a3-cc71ff2f6883"
+  },
+  {
+    "amount": 2039.15,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0268",
+    "entryId": "L-000535",
+    "side": "DEBIT",
+    "ts": "2026-10-30T16:24:30Z",
+    "uetr": "b4209103-bca7-46eb-83ef-0f77848ac924"
+  },
+  {
+    "amount": 1998.37,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0268",
+    "entryId": "L-000536",
+    "side": "CREDIT",
+    "ts": "2026-10-30T16:27:30Z",
+    "uetr": "b4209103-bca7-46eb-83ef-0f77848ac924"
+  },
+  {
+    "amount": 1436.78,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0269",
+    "entryId": "L-000537",
+    "side": "DEBIT",
+    "ts": "2026-11-07T04:21:18Z",
+    "uetr": "58f42098-591c-4524-953b-0f1fea3e072a"
+  },
+  {
+    "amount": 1408.04,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0269",
+    "entryId": "L-000538",
+    "side": "CREDIT",
+    "ts": "2026-11-07T04:24:18Z",
+    "uetr": "58f42098-591c-4524-953b-0f1fea3e072a"
+  },
+  {
+    "amount": 3039.69,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0270",
+    "entryId": "L-000539",
+    "side": "DEBIT",
+    "ts": "2026-10-22T11:41:12Z",
+    "uetr": "932d1648-6769-40f1-ae01-b9e0746b161a"
+  },
+  {
+    "amount": 2978.9,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0270",
+    "entryId": "L-000540",
+    "side": "CREDIT",
+    "ts": "2026-10-22T11:44:12Z",
+    "uetr": "932d1648-6769-40f1-ae01-b9e0746b161a"
+  },
+  {
+    "amount": 2047.53,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0271",
+    "entryId": "L-000541",
+    "side": "DEBIT",
+    "ts": "2026-10-19T23:57:49Z",
+    "uetr": "4b541670-80cf-41db-9287-e3138f026c2c"
+  },
+  {
+    "amount": 2006.58,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0271",
+    "entryId": "L-000542",
+    "side": "CREDIT",
+    "ts": "2026-10-20T00:00:49Z",
+    "uetr": "4b541670-80cf-41db-9287-e3138f026c2c"
+  },
+  {
+    "amount": 4784.41,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0272",
+    "entryId": "L-000543",
+    "side": "DEBIT",
+    "ts": "2026-11-05T10:03:20Z",
+    "uetr": "400945ce-932c-4ec9-8b1b-8effd02a6cbb"
+  },
+  {
+    "amount": 4688.72,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0272",
+    "entryId": "L-000544",
+    "side": "CREDIT",
+    "ts": "2026-11-05T10:06:20Z",
+    "uetr": "400945ce-932c-4ec9-8b1b-8effd02a6cbb"
+  },
+  {
+    "amount": 2824.58,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0273",
+    "entryId": "L-000545",
+    "side": "DEBIT",
+    "ts": "2026-10-29T19:21:49Z",
+    "uetr": "c68da4b2-f613-4da0-96f4-01e5c1e9c4fa"
+  },
+  {
+    "amount": 2768.09,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0273",
+    "entryId": "L-000546",
+    "side": "CREDIT",
+    "ts": "2026-10-29T19:24:49Z",
+    "uetr": "c68da4b2-f613-4da0-96f4-01e5c1e9c4fa"
+  },
+  {
+    "amount": 4484.69,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0274",
+    "entryId": "L-000547",
+    "side": "DEBIT",
+    "ts": "2026-11-02T20:48:41Z",
+    "uetr": "114b3c79-4200-49f5-9dc3-c26e7b62659e"
+  },
+  {
+    "amount": 4395.0,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0274",
+    "entryId": "L-000548",
+    "side": "CREDIT",
+    "ts": "2026-11-02T20:51:41Z",
+    "uetr": "114b3c79-4200-49f5-9dc3-c26e7b62659e"
+  },
+  {
+    "amount": 3391.03,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0275",
+    "entryId": "L-000549",
+    "side": "DEBIT",
+    "ts": "2026-10-22T04:47:50Z",
+    "uetr": "f49816ad-6994-4f84-90d3-ba03ccd7608f"
+  },
+  {
+    "amount": 3323.21,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0275",
+    "entryId": "L-000550",
+    "side": "CREDIT",
+    "ts": "2026-10-22T04:50:50Z",
+    "uetr": "f49816ad-6994-4f84-90d3-ba03ccd7608f"
+  },
+  {
+    "amount": 68.42,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0276",
+    "entryId": "L-000551",
+    "side": "DEBIT",
+    "ts": "2026-11-06T12:06:46Z",
+    "uetr": "66205167-17cf-475f-898b-cf673f8dcf96"
+  },
+  {
+    "amount": 67.05,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0276",
+    "entryId": "L-000552",
+    "side": "CREDIT",
+    "ts": "2026-11-06T12:09:46Z",
+    "uetr": "66205167-17cf-475f-898b-cf673f8dcf96"
+  },
+  {
+    "amount": 398.62,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0277",
+    "entryId": "L-000553",
+    "side": "DEBIT",
+    "ts": "2026-10-28T02:29:02Z",
+    "uetr": "37f3f32b-5a81-462a-9059-f77b79ff89d9"
+  },
+  {
+    "amount": 390.65,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0277",
+    "entryId": "L-000554",
+    "side": "CREDIT",
+    "ts": "2026-10-28T02:32:02Z",
+    "uetr": "37f3f32b-5a81-462a-9059-f77b79ff89d9"
+  },
+  {
+    "amount": 4736.65,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0278",
+    "entryId": "L-000555",
+    "side": "DEBIT",
+    "ts": "2026-10-20T08:59:33Z",
+    "uetr": "7fbe6bb3-30ae-412d-a8f1-0194ee25356a"
+  },
+  {
+    "amount": 4641.92,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0278",
+    "entryId": "L-000556",
+    "side": "CREDIT",
+    "ts": "2026-10-20T09:02:33Z",
+    "uetr": "7fbe6bb3-30ae-412d-a8f1-0194ee25356a"
+  },
+  {
+    "amount": 3682.44,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0279",
+    "entryId": "L-000557",
+    "side": "DEBIT",
+    "ts": "2026-10-22T21:39:59Z",
+    "uetr": "d5bea8dc-33e8-4249-baad-584034ef71df"
+  },
+  {
+    "amount": 3608.79,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0279",
+    "entryId": "L-000558",
+    "side": "CREDIT",
+    "ts": "2026-10-22T21:42:59Z",
+    "uetr": "d5bea8dc-33e8-4249-baad-584034ef71df"
+  },
+  {
+    "amount": 1793.02,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0280",
+    "entryId": "L-000559",
+    "side": "DEBIT",
+    "ts": "2026-11-10T12:45:03Z",
+    "uetr": "ad0205f5-1417-42f9-ab91-731a1eb05b4a"
+  },
+  {
+    "amount": 1757.16,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0280",
+    "entryId": "L-000560",
+    "side": "CREDIT",
+    "ts": "2026-11-10T12:48:03Z",
+    "uetr": "ad0205f5-1417-42f9-ab91-731a1eb05b4a"
+  },
+  {
+    "amount": 52.99,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0281",
+    "entryId": "L-000561",
+    "side": "DEBIT",
+    "ts": "2026-11-10T07:11:36Z",
+    "uetr": "7b777e71-d917-48f8-8ad1-c18cf53f091e"
+  },
+  {
+    "amount": 51.93,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0281",
+    "entryId": "L-000562",
+    "side": "CREDIT",
+    "ts": "2026-11-10T07:14:36Z",
+    "uetr": "7b777e71-d917-48f8-8ad1-c18cf53f091e"
+  },
+  {
+    "amount": 2471.86,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0282",
+    "entryId": "L-000563",
+    "side": "DEBIT",
+    "ts": "2026-10-26T19:31:14Z",
+    "uetr": "2ed0b0b2-7da5-4b6e-8654-e77dde67a278"
+  },
+  {
+    "amount": 2422.42,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0282",
+    "entryId": "L-000564",
+    "side": "CREDIT",
+    "ts": "2026-10-26T19:34:14Z",
+    "uetr": "2ed0b0b2-7da5-4b6e-8654-e77dde67a278"
+  },
+  {
+    "amount": 2001.44,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0283",
+    "entryId": "L-000565",
+    "side": "DEBIT",
+    "ts": "2026-10-25T02:34:03Z",
+    "uetr": "cc9cf41c-8696-4901-8ddc-a78820d4ba18"
+  },
+  {
+    "amount": 1961.41,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0283",
+    "entryId": "L-000566",
+    "side": "CREDIT",
+    "ts": "2026-10-25T02:37:03Z",
+    "uetr": "cc9cf41c-8696-4901-8ddc-a78820d4ba18"
+  },
+  {
+    "amount": 182.16,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0284",
+    "entryId": "L-000567",
+    "side": "DEBIT",
+    "ts": "2026-11-06T18:04:25Z",
+    "uetr": "c6a1a468-afb3-43ad-9c43-2ed564caa1c7"
+  },
+  {
+    "amount": 178.52,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0284",
+    "entryId": "L-000568",
+    "side": "CREDIT",
+    "ts": "2026-11-06T18:07:25Z",
+    "uetr": "c6a1a468-afb3-43ad-9c43-2ed564caa1c7"
+  },
+  {
+    "amount": 3497.26,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0285",
+    "entryId": "L-000569",
+    "side": "DEBIT",
+    "ts": "2026-10-17T08:16:20Z",
+    "uetr": "0306a258-0227-48d5-b070-1a5350ce857f"
+  },
+  {
+    "amount": 3427.31,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0285",
+    "entryId": "L-000570",
+    "side": "CREDIT",
+    "ts": "2026-10-17T08:19:20Z",
+    "uetr": "0306a258-0227-48d5-b070-1a5350ce857f"
+  },
+  {
+    "amount": 2913.42,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0286",
+    "entryId": "L-000571",
+    "side": "DEBIT",
+    "ts": "2026-10-29T22:05:56Z",
+    "uetr": "427bbffb-dca1-4dcc-9cdf-06645c91f845"
+  },
+  {
+    "amount": 2855.15,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0286",
+    "entryId": "L-000572",
+    "side": "CREDIT",
+    "ts": "2026-10-29T22:08:56Z",
+    "uetr": "427bbffb-dca1-4dcc-9cdf-06645c91f845"
+  },
+  {
+    "amount": 1200.95,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0287",
+    "entryId": "L-000573",
+    "side": "DEBIT",
+    "ts": "2026-10-24T06:16:28Z",
+    "uetr": "5dad348e-57d5-4b78-9cf3-137ef562037b"
+  },
+  {
+    "amount": 1176.93,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0287",
+    "entryId": "L-000574",
+    "side": "CREDIT",
+    "ts": "2026-10-24T06:19:28Z",
+    "uetr": "5dad348e-57d5-4b78-9cf3-137ef562037b"
+  },
+  {
+    "amount": 1068.45,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0288",
+    "entryId": "L-000575",
+    "side": "DEBIT",
+    "ts": "2026-11-01T01:57:45Z",
+    "uetr": "dab51d55-5d75-403c-9f4f-af10c08fe6d7"
+  },
+  {
+    "amount": 1047.08,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0288",
+    "entryId": "L-000576",
+    "side": "CREDIT",
+    "ts": "2026-11-01T02:00:45Z",
+    "uetr": "dab51d55-5d75-403c-9f4f-af10c08fe6d7"
+  },
+  {
+    "amount": 915.85,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0289",
+    "entryId": "L-000577",
+    "side": "DEBIT",
+    "ts": "2026-11-02T09:10:14Z",
+    "uetr": "3a8359b6-af9e-4a0e-936d-b4a7fab1996a"
+  },
+  {
+    "amount": 897.53,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0289",
+    "entryId": "L-000578",
+    "side": "CREDIT",
+    "ts": "2026-11-02T09:13:14Z",
+    "uetr": "3a8359b6-af9e-4a0e-936d-b4a7fab1996a"
+  },
+  {
+    "amount": 1364.35,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0290",
+    "entryId": "L-000579",
+    "side": "DEBIT",
+    "ts": "2026-11-15T11:50:39Z",
+    "uetr": "618192de-db37-4ca7-aea5-e3418e2ac3ff"
+  },
+  {
+    "amount": 1337.06,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0290",
+    "entryId": "L-000580",
+    "side": "CREDIT",
+    "ts": "2026-11-15T11:53:39Z",
+    "uetr": "618192de-db37-4ca7-aea5-e3418e2ac3ff"
+  },
+  {
+    "amount": 764.75,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0291",
+    "entryId": "L-000581",
+    "side": "DEBIT",
+    "ts": "2026-11-16T08:29:49Z",
+    "uetr": "226cbc6a-7fe5-44b6-abe8-c7562d36226c"
+  },
+  {
+    "amount": 749.46,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0291",
+    "entryId": "L-000582",
+    "side": "CREDIT",
+    "ts": "2026-11-16T08:32:49Z",
+    "uetr": "226cbc6a-7fe5-44b6-abe8-c7562d36226c"
+  },
+  {
+    "amount": 2679.23,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0292",
+    "entryId": "L-000583",
+    "side": "DEBIT",
+    "ts": "2026-11-05T14:23:24Z",
+    "uetr": "403fd582-4ccf-4a4b-bc93-243ec90b9454"
+  },
+  {
+    "amount": 2625.65,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0292",
+    "entryId": "L-000584",
+    "side": "CREDIT",
+    "ts": "2026-11-05T14:26:24Z",
+    "uetr": "403fd582-4ccf-4a4b-bc93-243ec90b9454"
+  },
+  {
+    "amount": 257.59,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0293",
+    "entryId": "L-000585",
+    "side": "DEBIT",
+    "ts": "2026-11-08T01:36:30Z",
+    "uetr": "3728ddc2-0f5e-4b47-a9d0-c613b0c77002"
+  },
+  {
+    "amount": 252.44,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0293",
+    "entryId": "L-000586",
+    "side": "CREDIT",
+    "ts": "2026-11-08T01:39:30Z",
+    "uetr": "3728ddc2-0f5e-4b47-a9d0-c613b0c77002"
+  },
+  {
+    "amount": 4198.08,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0294",
+    "entryId": "L-000587",
+    "side": "DEBIT",
+    "ts": "2026-11-03T15:14:31Z",
+    "uetr": "42803aa0-55ac-4d06-be9d-a9517329af6e"
+  },
+  {
+    "amount": 4114.12,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0294",
+    "entryId": "L-000588",
+    "side": "CREDIT",
+    "ts": "2026-11-03T15:17:31Z",
+    "uetr": "42803aa0-55ac-4d06-be9d-a9517329af6e"
+  },
+  {
+    "amount": 4660.59,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0295",
+    "entryId": "L-000589",
+    "side": "DEBIT",
+    "ts": "2026-11-07T13:33:28Z",
+    "uetr": "1f096b9d-6969-49b2-8513-eda8581993cc"
+  },
+  {
+    "amount": 4567.38,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0295",
+    "entryId": "L-000590",
+    "side": "CREDIT",
+    "ts": "2026-11-07T13:36:28Z",
+    "uetr": "1f096b9d-6969-49b2-8513-eda8581993cc"
+  },
+  {
+    "amount": 4816.32,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0296",
+    "entryId": "L-000591",
+    "side": "DEBIT",
+    "ts": "2026-11-13T11:48:29Z",
+    "uetr": "a62d7221-a65d-458e-936d-d1a893acb00e"
+  },
+  {
+    "amount": 4719.99,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0296",
+    "entryId": "L-000592",
+    "side": "CREDIT",
+    "ts": "2026-11-13T11:51:29Z",
+    "uetr": "a62d7221-a65d-458e-936d-d1a893acb00e"
+  },
+  {
+    "amount": 1437.35,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0297",
+    "entryId": "L-000593",
+    "side": "DEBIT",
+    "ts": "2026-11-18T09:09:33Z",
+    "uetr": "c655a597-7ccc-43de-82ac-7e1dac565da6"
+  },
+  {
+    "amount": 1408.6,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0297",
+    "entryId": "L-000594",
+    "side": "CREDIT",
+    "ts": "2026-11-18T09:12:33Z",
+    "uetr": "c655a597-7ccc-43de-82ac-7e1dac565da6"
+  },
+  {
+    "amount": 1917.73,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0298",
+    "entryId": "L-000595",
+    "side": "DEBIT",
+    "ts": "2026-10-15T07:23:04Z",
+    "uetr": "2514c7ce-f4e3-4f7b-a1b7-e3d876b874d3"
+  },
+  {
+    "amount": 1879.38,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0298",
+    "entryId": "L-000596",
+    "side": "CREDIT",
+    "ts": "2026-10-15T07:26:04Z",
+    "uetr": "2514c7ce-f4e3-4f7b-a1b7-e3d876b874d3"
+  },
+  {
+    "amount": 4042.43,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0299",
+    "entryId": "L-000597",
+    "side": "DEBIT",
+    "ts": "2026-11-11T14:21:49Z",
+    "uetr": "9256d707-9cc0-4b67-a19b-224a6bfc2a47"
+  },
+  {
+    "amount": 3961.58,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0299",
+    "entryId": "L-000598",
+    "side": "CREDIT",
+    "ts": "2026-11-11T14:24:49Z",
+    "uetr": "9256d707-9cc0-4b67-a19b-224a6bfc2a47"
+  },
+  {
+    "amount": 413.98,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0300",
+    "entryId": "L-000599",
+    "side": "DEBIT",
+    "ts": "2026-10-14T23:09:18Z",
+    "uetr": "a72bdddd-511e-4eb8-9040-5c433a6c7da6"
+  },
+  {
+    "amount": 405.7,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0300",
+    "entryId": "L-000600",
+    "side": "CREDIT",
+    "ts": "2026-10-14T23:12:18Z",
+    "uetr": "a72bdddd-511e-4eb8-9040-5c433a6c7da6"
+  },
+  {
+    "amount": 3034.82,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0301",
+    "entryId": "L-000601",
+    "side": "DEBIT",
+    "ts": "2026-10-24T11:39:40Z",
+    "uetr": "c7edea02-71e4-4c42-a33f-c52c457083e4"
+  },
+  {
+    "amount": 2974.12,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0301",
+    "entryId": "L-000602",
+    "side": "CREDIT",
+    "ts": "2026-10-24T11:42:40Z",
+    "uetr": "c7edea02-71e4-4c42-a33f-c52c457083e4"
+  },
+  {
+    "amount": 2942.86,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0302",
+    "entryId": "L-000603",
+    "side": "DEBIT",
+    "ts": "2026-11-16T19:23:41Z",
+    "uetr": "daada0b1-2f13-4a6d-aad5-5c0b69fb2fe6"
+  },
+  {
+    "amount": 2884.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0302",
+    "entryId": "L-000604",
+    "side": "CREDIT",
+    "ts": "2026-11-16T19:26:41Z",
+    "uetr": "daada0b1-2f13-4a6d-aad5-5c0b69fb2fe6"
+  },
+  {
+    "amount": 1188.44,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0303",
+    "entryId": "L-000605",
+    "side": "DEBIT",
+    "ts": "2026-11-15T19:56:58Z",
+    "uetr": "bfeef19d-b360-4faa-be6e-9d47f0c0804b"
+  },
+  {
+    "amount": 1164.67,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0303",
+    "entryId": "L-000606",
+    "side": "CREDIT",
+    "ts": "2026-11-15T19:59:58Z",
+    "uetr": "bfeef19d-b360-4faa-be6e-9d47f0c0804b"
+  },
+  {
+    "amount": 1997.29,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0304",
+    "entryId": "L-000607",
+    "side": "DEBIT",
+    "ts": "2026-10-19T14:29:53Z",
+    "uetr": "7922b440-e0f1-444c-afd1-b5881054b2d5"
+  },
+  {
+    "amount": 1957.34,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0304",
+    "entryId": "L-000608",
+    "side": "CREDIT",
+    "ts": "2026-10-19T14:32:53Z",
+    "uetr": "7922b440-e0f1-444c-afd1-b5881054b2d5"
+  },
+  {
+    "amount": 3859.25,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0305",
+    "entryId": "L-000609",
+    "side": "DEBIT",
+    "ts": "2026-10-12T18:45:02Z",
+    "uetr": "1a9b0d42-154f-437d-befa-c198c3d6cd54"
+  },
+  {
+    "amount": 3782.06,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0305",
+    "entryId": "L-000610",
+    "side": "CREDIT",
+    "ts": "2026-10-12T18:48:02Z",
+    "uetr": "1a9b0d42-154f-437d-befa-c198c3d6cd54"
+  },
+  {
+    "amount": 439.87,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0306",
+    "entryId": "L-000611",
+    "side": "DEBIT",
+    "ts": "2026-10-19T00:56:27Z",
+    "uetr": "bcd2e8eb-3f55-40cd-bab7-127e4f32ea54"
+  },
+  {
+    "amount": 431.07,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0306",
+    "entryId": "L-000612",
+    "side": "CREDIT",
+    "ts": "2026-10-19T00:59:27Z",
+    "uetr": "bcd2e8eb-3f55-40cd-bab7-127e4f32ea54"
+  },
+  {
+    "amount": 649.53,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0307",
+    "entryId": "L-000613",
+    "side": "DEBIT",
+    "ts": "2026-11-10T21:56:10Z",
+    "uetr": "08ffeab0-0750-42d6-abac-f712d6a919e8"
+  },
+  {
+    "amount": 636.54,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0307",
+    "entryId": "L-000614",
+    "side": "CREDIT",
+    "ts": "2026-11-10T21:59:10Z",
+    "uetr": "08ffeab0-0750-42d6-abac-f712d6a919e8"
+  },
+  {
+    "amount": 4323.92,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0308",
+    "entryId": "L-000615",
+    "side": "DEBIT",
+    "ts": "2026-10-27T06:55:13Z",
+    "uetr": "ef52d36e-8a63-493c-9ef3-306af99863f2"
+  },
+  {
+    "amount": 4237.44,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0308",
+    "entryId": "L-000616",
+    "side": "CREDIT",
+    "ts": "2026-10-27T06:58:13Z",
+    "uetr": "ef52d36e-8a63-493c-9ef3-306af99863f2"
+  },
+  {
+    "amount": 692.87,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0309",
+    "entryId": "L-000617",
+    "side": "DEBIT",
+    "ts": "2026-11-02T02:18:54Z",
+    "uetr": "98fb4727-9740-4212-ad52-45f48a0ec018"
+  },
+  {
+    "amount": 679.01,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0309",
+    "entryId": "L-000618",
+    "side": "CREDIT",
+    "ts": "2026-11-02T02:21:54Z",
+    "uetr": "98fb4727-9740-4212-ad52-45f48a0ec018"
+  },
+  {
+    "amount": 3186.54,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0310",
+    "entryId": "L-000619",
+    "side": "DEBIT",
+    "ts": "2026-11-16T20:34:42Z",
+    "uetr": "a3b81f92-a3c9-4c6a-8601-76336f5aad52"
+  },
+  {
+    "amount": 3122.81,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0310",
+    "entryId": "L-000620",
+    "side": "CREDIT",
+    "ts": "2026-11-16T20:37:42Z",
+    "uetr": "a3b81f92-a3c9-4c6a-8601-76336f5aad52"
+  },
+  {
+    "amount": 2418.63,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0311",
+    "entryId": "L-000621",
+    "side": "DEBIT",
+    "ts": "2026-10-28T08:30:49Z",
+    "uetr": "4ed0730d-711d-41dd-96ed-0330ce015413"
+  },
+  {
+    "amount": 2370.26,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0311",
+    "entryId": "L-000622",
+    "side": "CREDIT",
+    "ts": "2026-10-28T08:33:49Z",
+    "uetr": "4ed0730d-711d-41dd-96ed-0330ce015413"
+  },
+  {
+    "amount": 795.47,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0312",
+    "entryId": "L-000623",
+    "side": "DEBIT",
+    "ts": "2026-10-24T02:43:49Z",
+    "uetr": "c21f84fc-d0bc-4ad5-85f8-0d9b00060d5a"
+  },
+  {
+    "amount": 779.56,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0312",
+    "entryId": "L-000624",
+    "side": "CREDIT",
+    "ts": "2026-10-24T02:46:49Z",
+    "uetr": "c21f84fc-d0bc-4ad5-85f8-0d9b00060d5a"
+  },
+  {
+    "amount": 1448.08,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0313",
+    "entryId": "L-000625",
+    "side": "DEBIT",
+    "ts": "2026-10-28T04:41:17Z",
+    "uetr": "7def3b8e-ec0d-4c3a-b011-b125022111e5"
+  },
+  {
+    "amount": 1419.12,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0313",
+    "entryId": "L-000626",
+    "side": "CREDIT",
+    "ts": "2026-10-28T04:44:17Z",
+    "uetr": "7def3b8e-ec0d-4c3a-b011-b125022111e5"
+  },
+  {
+    "amount": 65.48,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0314",
+    "entryId": "L-000627",
+    "side": "DEBIT",
+    "ts": "2026-10-26T01:06:17Z",
+    "uetr": "3b30ee97-98d5-4cf5-8afc-f9e8cc476b72"
+  },
+  {
+    "amount": 64.17,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0314",
+    "entryId": "L-000628",
+    "side": "CREDIT",
+    "ts": "2026-10-26T01:09:17Z",
+    "uetr": "3b30ee97-98d5-4cf5-8afc-f9e8cc476b72"
+  },
+  {
+    "amount": 1880.75,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0315",
+    "entryId": "L-000629",
+    "side": "DEBIT",
+    "ts": "2026-11-07T02:44:48Z",
+    "uetr": "650e78e4-6fe6-43f1-8f80-7d8be1d55f85"
+  },
+  {
+    "amount": 1843.13,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0315",
+    "entryId": "L-000630",
+    "side": "CREDIT",
+    "ts": "2026-11-07T02:47:48Z",
+    "uetr": "650e78e4-6fe6-43f1-8f80-7d8be1d55f85"
+  },
+  {
+    "amount": 3690.85,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0316",
+    "entryId": "L-000631",
+    "side": "DEBIT",
+    "ts": "2026-11-15T04:59:47Z",
+    "uetr": "4352acea-3878-4ecf-a0dc-12ebd413c850"
+  },
+  {
+    "amount": 3617.03,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0316",
+    "entryId": "L-000632",
+    "side": "CREDIT",
+    "ts": "2026-11-15T05:02:47Z",
+    "uetr": "4352acea-3878-4ecf-a0dc-12ebd413c850"
+  },
+  {
+    "amount": 1213.02,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0317",
+    "entryId": "L-000633",
+    "side": "DEBIT",
+    "ts": "2026-11-10T20:35:14Z",
+    "uetr": "4598f3c8-af44-4605-b1a5-0a3dcebd3b2b"
+  },
+  {
+    "amount": 1188.76,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0317",
+    "entryId": "L-000634",
+    "side": "CREDIT",
+    "ts": "2026-11-10T20:38:14Z",
+    "uetr": "4598f3c8-af44-4605-b1a5-0a3dcebd3b2b"
+  },
+  {
+    "amount": 2669.08,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0318",
+    "entryId": "L-000635",
+    "side": "DEBIT",
+    "ts": "2026-11-16T13:36:21Z",
+    "uetr": "1186da93-da7d-4c53-b020-cf0669b41194"
+  },
+  {
+    "amount": 2615.7,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0318",
+    "entryId": "L-000636",
+    "side": "CREDIT",
+    "ts": "2026-11-16T13:39:21Z",
+    "uetr": "1186da93-da7d-4c53-b020-cf0669b41194"
+  },
+  {
+    "amount": 569.57,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0319",
+    "entryId": "L-000637",
+    "side": "DEBIT",
+    "ts": "2026-10-25T13:26:10Z",
+    "uetr": "b3522c18-45aa-4503-b3e8-8db69e2383d0"
+  },
+  {
+    "amount": 558.18,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0319",
+    "entryId": "L-000638",
+    "side": "CREDIT",
+    "ts": "2026-10-25T13:29:10Z",
+    "uetr": "b3522c18-45aa-4503-b3e8-8db69e2383d0"
+  },
+  {
+    "amount": 1616.81,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0320",
+    "entryId": "L-000639",
+    "side": "DEBIT",
+    "ts": "2026-10-20T14:49:26Z",
+    "uetr": "05aa5eab-88f3-47ea-b83f-52740cb4afe1"
+  },
+  {
+    "amount": 1584.47,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0320",
+    "entryId": "L-000640",
+    "side": "CREDIT",
+    "ts": "2026-10-20T14:52:26Z",
+    "uetr": "05aa5eab-88f3-47ea-b83f-52740cb4afe1"
+  },
+  {
+    "amount": 1360.59,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0321",
+    "entryId": "L-000641",
+    "side": "DEBIT",
+    "ts": "2026-10-25T04:43:14Z",
+    "uetr": "3b997815-0219-49c7-ba23-b07a703c1286"
+  },
+  {
+    "amount": 1333.38,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0321",
+    "entryId": "L-000642",
+    "side": "CREDIT",
+    "ts": "2026-10-25T04:46:14Z",
+    "uetr": "3b997815-0219-49c7-ba23-b07a703c1286"
+  },
+  {
+    "amount": 2478.03,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0322",
+    "entryId": "L-000643",
+    "side": "DEBIT",
+    "ts": "2026-10-12T05:11:20Z",
+    "uetr": "cca99089-c925-4bb5-8fc3-7d4e6b950c1d"
+  },
+  {
+    "amount": 2428.47,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0322",
+    "entryId": "L-000644",
+    "side": "CREDIT",
+    "ts": "2026-10-12T05:14:20Z",
+    "uetr": "cca99089-c925-4bb5-8fc3-7d4e6b950c1d"
+  },
+  {
+    "amount": 3490.74,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0323",
+    "entryId": "L-000645",
+    "side": "DEBIT",
+    "ts": "2026-11-03T00:15:53Z",
+    "uetr": "c02553ea-d7f2-4678-9489-8025548b2ce3"
+  },
+  {
+    "amount": 3420.93,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0323",
+    "entryId": "L-000646",
+    "side": "CREDIT",
+    "ts": "2026-11-03T00:18:53Z",
+    "uetr": "c02553ea-d7f2-4678-9489-8025548b2ce3"
+  },
+  {
+    "amount": 3882.75,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0324",
+    "entryId": "L-000647",
+    "side": "DEBIT",
+    "ts": "2026-10-24T10:31:57Z",
+    "uetr": "3133839e-2e7d-452b-b85b-8a078b0ea0b9"
+  },
+  {
+    "amount": 3805.09,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0324",
+    "entryId": "L-000648",
+    "side": "CREDIT",
+    "ts": "2026-10-24T10:34:57Z",
+    "uetr": "3133839e-2e7d-452b-b85b-8a078b0ea0b9"
+  },
+  {
+    "amount": 4144.7,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0325",
+    "entryId": "L-000649",
+    "side": "DEBIT",
+    "ts": "2026-10-30T00:36:11Z",
+    "uetr": "3fbbff57-b6f5-4f1c-84a5-31cdf97f4994"
+  },
+  {
+    "amount": 4061.81,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0325",
+    "entryId": "L-000650",
+    "side": "CREDIT",
+    "ts": "2026-10-30T00:39:11Z",
+    "uetr": "3fbbff57-b6f5-4f1c-84a5-31cdf97f4994"
+  },
+  {
+    "amount": 1250.87,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0326",
+    "entryId": "L-000651",
+    "side": "DEBIT",
+    "ts": "2026-11-02T00:07:12Z",
+    "uetr": "c55ffde8-bc3e-4d19-b5f9-423032fd73c5"
+  },
+  {
+    "amount": 1225.85,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0326",
+    "entryId": "L-000652",
+    "side": "CREDIT",
+    "ts": "2026-11-02T00:10:12Z",
+    "uetr": "c55ffde8-bc3e-4d19-b5f9-423032fd73c5"
+  },
+  {
+    "amount": 4910.94,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0327",
+    "entryId": "L-000653",
+    "side": "DEBIT",
+    "ts": "2026-11-12T19:59:19Z",
+    "uetr": "4fe66636-f612-4d2c-ae73-00eb639d8fe7"
+  },
+  {
+    "amount": 4812.72,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0327",
+    "entryId": "L-000654",
+    "side": "CREDIT",
+    "ts": "2026-11-12T20:02:19Z",
+    "uetr": "4fe66636-f612-4d2c-ae73-00eb639d8fe7"
+  },
+  {
+    "amount": 3646.62,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0328",
+    "entryId": "L-000655",
+    "side": "DEBIT",
+    "ts": "2026-11-11T01:03:46Z",
+    "uetr": "1f44aa88-855b-4c5b-8cb1-457eeffad15b"
+  },
+  {
+    "amount": 3573.69,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0328",
+    "entryId": "L-000656",
+    "side": "CREDIT",
+    "ts": "2026-11-11T01:06:46Z",
+    "uetr": "1f44aa88-855b-4c5b-8cb1-457eeffad15b"
+  },
+  {
+    "amount": 1508.09,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0329",
+    "entryId": "L-000657",
+    "side": "DEBIT",
+    "ts": "2026-11-11T11:57:47Z",
+    "uetr": "aaac826e-dd18-4b28-8d55-9b64e3347bac"
+  },
+  {
+    "amount": 1477.93,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0329",
+    "entryId": "L-000658",
+    "side": "CREDIT",
+    "ts": "2026-11-11T12:00:47Z",
+    "uetr": "aaac826e-dd18-4b28-8d55-9b64e3347bac"
+  },
+  {
+    "amount": 3171.89,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0330",
+    "entryId": "L-000659",
+    "side": "DEBIT",
+    "ts": "2026-10-22T22:57:12Z",
+    "uetr": "46ae7e06-cb5d-4b59-aad8-20ca03db7a2e"
+  },
+  {
+    "amount": 3108.45,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0330",
+    "entryId": "L-000660",
+    "side": "CREDIT",
+    "ts": "2026-10-22T23:00:12Z",
+    "uetr": "46ae7e06-cb5d-4b59-aad8-20ca03db7a2e"
+  },
+  {
+    "amount": 3949.94,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0331",
+    "entryId": "L-000661",
+    "side": "DEBIT",
+    "ts": "2026-10-30T17:11:00Z",
+    "uetr": "c891d55d-94c1-46b9-8ac0-13d5f80590f0"
+  },
+  {
+    "amount": 3870.94,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0331",
+    "entryId": "L-000662",
+    "side": "CREDIT",
+    "ts": "2026-10-30T17:14:00Z",
+    "uetr": "c891d55d-94c1-46b9-8ac0-13d5f80590f0"
+  },
+  {
+    "amount": 2989.14,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0332",
+    "entryId": "L-000663",
+    "side": "DEBIT",
+    "ts": "2026-11-13T22:05:06Z",
+    "uetr": "285eed0a-3fac-4317-96e8-27b0c552f3c5"
+  },
+  {
+    "amount": 2929.36,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0332",
+    "entryId": "L-000664",
+    "side": "CREDIT",
+    "ts": "2026-11-13T22:08:06Z",
+    "uetr": "285eed0a-3fac-4317-96e8-27b0c552f3c5"
+  },
+  {
+    "amount": 3100.85,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0333",
+    "entryId": "L-000665",
+    "side": "DEBIT",
+    "ts": "2026-11-13T19:13:00Z",
+    "uetr": "a502dc4b-5b03-44d8-8f4d-6c400f5f9707"
+  },
+  {
+    "amount": 3038.83,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0333",
+    "entryId": "L-000666",
+    "side": "CREDIT",
+    "ts": "2026-11-13T19:16:00Z",
+    "uetr": "a502dc4b-5b03-44d8-8f4d-6c400f5f9707"
+  },
+  {
+    "amount": 3961.5,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0334",
+    "entryId": "L-000667",
+    "side": "DEBIT",
+    "ts": "2026-11-06T12:55:48Z",
+    "uetr": "fb4f1972-5115-47ee-bb90-908e7ce34563"
+  },
+  {
+    "amount": 3882.27,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0334",
+    "entryId": "L-000668",
+    "side": "CREDIT",
+    "ts": "2026-11-06T12:58:48Z",
+    "uetr": "fb4f1972-5115-47ee-bb90-908e7ce34563"
+  },
+  {
+    "amount": 3788.35,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0335",
+    "entryId": "L-000669",
+    "side": "DEBIT",
+    "ts": "2026-11-11T19:06:01Z",
+    "uetr": "b072afc8-0577-4108-b166-2c94bbb24366"
+  },
+  {
+    "amount": 3712.58,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0335",
+    "entryId": "L-000670",
+    "side": "CREDIT",
+    "ts": "2026-11-11T19:09:01Z",
+    "uetr": "b072afc8-0577-4108-b166-2c94bbb24366"
+  },
+  {
+    "amount": 690.97,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0336",
+    "entryId": "L-000671",
+    "side": "DEBIT",
+    "ts": "2026-11-15T16:01:10Z",
+    "uetr": "8f1c3fa0-7000-4009-b4e5-70ba7c3cc2bc"
+  },
+  {
+    "amount": 677.15,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0336",
+    "entryId": "L-000672",
+    "side": "CREDIT",
+    "ts": "2026-11-15T16:04:10Z",
+    "uetr": "8f1c3fa0-7000-4009-b4e5-70ba7c3cc2bc"
+  },
+  {
+    "amount": 2460.66,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0337",
+    "entryId": "L-000673",
+    "side": "DEBIT",
+    "ts": "2026-11-14T08:08:28Z",
+    "uetr": "52dcbffd-5900-4d65-8b2a-b7592fc6c4e6"
+  },
+  {
+    "amount": 2411.45,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0337",
+    "entryId": "L-000674",
+    "side": "CREDIT",
+    "ts": "2026-11-14T08:11:28Z",
+    "uetr": "52dcbffd-5900-4d65-8b2a-b7592fc6c4e6"
+  },
+  {
+    "amount": 4340.96,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0338",
+    "entryId": "L-000675",
+    "side": "DEBIT",
+    "ts": "2026-10-24T20:48:34Z",
+    "uetr": "290c4414-8df5-4b01-9c4d-b762ea1af7d2"
+  },
+  {
+    "amount": 4254.14,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0338",
+    "entryId": "L-000676",
+    "side": "CREDIT",
+    "ts": "2026-10-24T20:51:34Z",
+    "uetr": "290c4414-8df5-4b01-9c4d-b762ea1af7d2"
+  },
+  {
+    "amount": 2257.93,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0339",
+    "entryId": "L-000677",
+    "side": "DEBIT",
+    "ts": "2026-10-19T00:39:03Z",
+    "uetr": "002f2ca4-743e-4531-9dfb-19228aa6b006"
+  },
+  {
+    "amount": 2212.77,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0339",
+    "entryId": "L-000678",
+    "side": "CREDIT",
+    "ts": "2026-10-19T00:42:03Z",
+    "uetr": "002f2ca4-743e-4531-9dfb-19228aa6b006"
+  },
+  {
+    "amount": 1907.64,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0340",
+    "entryId": "L-000679",
+    "side": "DEBIT",
+    "ts": "2026-11-05T01:31:00Z",
+    "uetr": "db592a19-9ea6-4d4a-84ca-d30ae207db20"
+  },
+  {
+    "amount": 1869.49,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0340",
+    "entryId": "L-000680",
+    "side": "CREDIT",
+    "ts": "2026-11-05T01:34:00Z",
+    "uetr": "db592a19-9ea6-4d4a-84ca-d30ae207db20"
+  },
+  {
+    "amount": 1209.16,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0341",
+    "entryId": "L-000681",
+    "side": "DEBIT",
+    "ts": "2026-11-10T14:36:56Z",
+    "uetr": "89f90de9-f798-4131-a885-a7b410372a5c"
+  },
+  {
+    "amount": 1184.98,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0341",
+    "entryId": "L-000682",
+    "side": "CREDIT",
+    "ts": "2026-11-10T14:39:56Z",
+    "uetr": "89f90de9-f798-4131-a885-a7b410372a5c"
+  },
+  {
+    "amount": 2629.87,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0342",
+    "entryId": "L-000683",
+    "side": "DEBIT",
+    "ts": "2026-10-20T17:14:50Z",
+    "uetr": "9cf023dd-2775-49a2-8d2c-fe83c4072654"
+  },
+  {
+    "amount": 2577.27,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0342",
+    "entryId": "L-000684",
+    "side": "CREDIT",
+    "ts": "2026-10-20T17:17:50Z",
+    "uetr": "9cf023dd-2775-49a2-8d2c-fe83c4072654"
+  },
+  {
+    "amount": 3211.7,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0343",
+    "entryId": "L-000685",
+    "side": "DEBIT",
+    "ts": "2026-10-31T09:29:24Z",
+    "uetr": "1111ee29-a8ad-4539-85f0-786a18a440bd"
+  },
+  {
+    "amount": 3147.47,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0343",
+    "entryId": "L-000686",
+    "side": "CREDIT",
+    "ts": "2026-10-31T09:32:24Z",
+    "uetr": "1111ee29-a8ad-4539-85f0-786a18a440bd"
+  },
+  {
+    "amount": 909.62,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0344",
+    "entryId": "L-000687",
+    "side": "DEBIT",
+    "ts": "2026-10-17T19:13:52Z",
+    "uetr": "310dc9d1-7c41-4a2a-9b67-f7bb33bb7382"
+  },
+  {
+    "amount": 891.43,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0344",
+    "entryId": "L-000688",
+    "side": "CREDIT",
+    "ts": "2026-10-17T19:16:52Z",
+    "uetr": "310dc9d1-7c41-4a2a-9b67-f7bb33bb7382"
+  },
+  {
+    "amount": 3215.92,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0345",
+    "entryId": "L-000689",
+    "side": "DEBIT",
+    "ts": "2026-11-08T05:18:38Z",
+    "uetr": "9fbc879e-869c-4a8e-bd6a-b7c2a86d8706"
+  },
+  {
+    "amount": 3151.6,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0345",
+    "entryId": "L-000690",
+    "side": "CREDIT",
+    "ts": "2026-11-08T05:21:38Z",
+    "uetr": "9fbc879e-869c-4a8e-bd6a-b7c2a86d8706"
+  },
+  {
+    "amount": 264.45,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0346",
+    "entryId": "L-000691",
+    "side": "DEBIT",
+    "ts": "2026-10-23T22:13:24Z",
+    "uetr": "03599c6d-1224-4bd2-b7c4-b3ee9b1fc6d1"
+  },
+  {
+    "amount": 259.16,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0346",
+    "entryId": "L-000692",
+    "side": "CREDIT",
+    "ts": "2026-10-23T22:16:24Z",
+    "uetr": "03599c6d-1224-4bd2-b7c4-b3ee9b1fc6d1"
+  },
+  {
+    "amount": 4643.45,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0347",
+    "entryId": "L-000693",
+    "side": "DEBIT",
+    "ts": "2026-11-04T08:33:44Z",
+    "uetr": "0f8a0c2c-a390-4bc0-8d0f-a4a677d2b94f"
+  },
+  {
+    "amount": 4550.58,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0347",
+    "entryId": "L-000694",
+    "side": "CREDIT",
+    "ts": "2026-11-04T08:36:44Z",
+    "uetr": "0f8a0c2c-a390-4bc0-8d0f-a4a677d2b94f"
+  },
+  {
+    "amount": 4692.45,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0348",
+    "entryId": "L-000695",
+    "side": "DEBIT",
+    "ts": "2026-11-16T14:14:50Z",
+    "uetr": "b55beaaa-cb53-40be-9e7b-4866d2705470"
+  },
+  {
+    "amount": 4598.6,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0348",
+    "entryId": "L-000696",
+    "side": "CREDIT",
+    "ts": "2026-11-16T14:17:50Z",
+    "uetr": "b55beaaa-cb53-40be-9e7b-4866d2705470"
+  },
+  {
+    "amount": 1343.76,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0349",
+    "entryId": "L-000697",
+    "side": "DEBIT",
+    "ts": "2026-11-10T10:48:45Z",
+    "uetr": "4dccb05d-d59e-40fd-9204-f4d6bbfb1b71"
+  },
+  {
+    "amount": 1316.88,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0349",
+    "entryId": "L-000698",
+    "side": "CREDIT",
+    "ts": "2026-11-10T10:51:45Z",
+    "uetr": "4dccb05d-d59e-40fd-9204-f4d6bbfb1b71"
+  },
+  {
+    "amount": 503.65,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0350",
+    "entryId": "L-000699",
+    "side": "DEBIT",
+    "ts": "2026-11-05T17:16:39Z",
+    "uetr": "30807a5d-62a5-4eec-881a-f04f3b23feed"
+  },
+  {
+    "amount": 493.58,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0350",
+    "entryId": "L-000700",
+    "side": "CREDIT",
+    "ts": "2026-11-05T17:19:39Z",
+    "uetr": "30807a5d-62a5-4eec-881a-f04f3b23feed"
+  },
+  {
+    "amount": 1258.84,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0351",
+    "entryId": "L-000701",
+    "side": "DEBIT",
+    "ts": "2026-11-12T09:20:59Z",
+    "uetr": "bfcb3388-8ef4-474b-adcc-4095f28f9444"
+  },
+  {
+    "amount": 1233.66,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0351",
+    "entryId": "L-000702",
+    "side": "CREDIT",
+    "ts": "2026-11-12T09:23:59Z",
+    "uetr": "bfcb3388-8ef4-474b-adcc-4095f28f9444"
+  },
+  {
+    "amount": 545.46,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0352",
+    "entryId": "L-000703",
+    "side": "DEBIT",
+    "ts": "2026-11-16T17:18:45Z",
+    "uetr": "756eb67d-acab-4b69-9ba3-7cb59399ad15"
+  },
+  {
+    "amount": 534.55,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0352",
+    "entryId": "L-000704",
+    "side": "CREDIT",
+    "ts": "2026-11-16T17:21:45Z",
+    "uetr": "756eb67d-acab-4b69-9ba3-7cb59399ad15"
+  },
+  {
+    "amount": 4416.46,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0353",
+    "entryId": "L-000705",
+    "side": "DEBIT",
+    "ts": "2026-11-01T05:36:42Z",
+    "uetr": "66cc7376-8cca-4963-ae2e-77a4cadec379"
+  },
+  {
+    "amount": 4328.13,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0353",
+    "entryId": "L-000706",
+    "side": "CREDIT",
+    "ts": "2026-11-01T05:39:42Z",
+    "uetr": "66cc7376-8cca-4963-ae2e-77a4cadec379"
+  },
+  {
+    "amount": 807.72,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0354",
+    "entryId": "L-000707",
+    "side": "DEBIT",
+    "ts": "2026-11-12T10:06:48Z",
+    "uetr": "e7094153-5a31-4916-aefb-2a2471693ed5"
+  },
+  {
+    "amount": 791.57,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0354",
+    "entryId": "L-000708",
+    "side": "CREDIT",
+    "ts": "2026-11-12T10:09:48Z",
+    "uetr": "e7094153-5a31-4916-aefb-2a2471693ed5"
+  },
+  {
+    "amount": 4227.37,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0355",
+    "entryId": "L-000709",
+    "side": "DEBIT",
+    "ts": "2026-10-27T06:16:58Z",
+    "uetr": "d37ee471-6e3b-4507-a21c-1209c3a1962d"
+  },
+  {
+    "amount": 4142.82,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0355",
+    "entryId": "L-000710",
+    "side": "CREDIT",
+    "ts": "2026-10-27T06:19:58Z",
+    "uetr": "d37ee471-6e3b-4507-a21c-1209c3a1962d"
+  },
+  {
+    "amount": 1218.8,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0356",
+    "entryId": "L-000711",
+    "side": "DEBIT",
+    "ts": "2026-11-10T00:53:10Z",
+    "uetr": "8cdc718d-c405-4420-a004-223136c3fe85"
+  },
+  {
+    "amount": 1194.42,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0356",
+    "entryId": "L-000712",
+    "side": "CREDIT",
+    "ts": "2026-11-10T00:56:10Z",
+    "uetr": "8cdc718d-c405-4420-a004-223136c3fe85"
+  },
+  {
+    "amount": 4809.03,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0357",
+    "entryId": "L-000713",
+    "side": "DEBIT",
+    "ts": "2026-10-28T23:28:25Z",
+    "uetr": "b9efaad6-000c-421a-a5a7-ba30f5b70dd9"
+  },
+  {
+    "amount": 4712.85,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0357",
+    "entryId": "L-000714",
+    "side": "CREDIT",
+    "ts": "2026-10-28T23:31:25Z",
+    "uetr": "b9efaad6-000c-421a-a5a7-ba30f5b70dd9"
+  },
+  {
+    "amount": 101.19,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0358",
+    "entryId": "L-000715",
+    "side": "DEBIT",
+    "ts": "2026-11-09T10:08:50Z",
+    "uetr": "01ae7eb1-4d45-4ea5-a3ec-4f6afe503fdc"
+  },
+  {
+    "amount": 99.17,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0358",
+    "entryId": "L-000716",
+    "side": "CREDIT",
+    "ts": "2026-11-09T10:11:50Z",
+    "uetr": "01ae7eb1-4d45-4ea5-a3ec-4f6afe503fdc"
+  },
+  {
+    "amount": 4281.49,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0359",
+    "entryId": "L-000717",
+    "side": "DEBIT",
+    "ts": "2026-10-21T22:19:12Z",
+    "uetr": "b0916fb7-f17f-4f92-926a-a790c5828939"
+  },
+  {
+    "amount": 4195.86,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0359",
+    "entryId": "L-000718",
+    "side": "CREDIT",
+    "ts": "2026-10-21T22:22:12Z",
+    "uetr": "b0916fb7-f17f-4f92-926a-a790c5828939"
+  },
+  {
+    "amount": 2566.13,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0360",
+    "entryId": "L-000719",
+    "side": "DEBIT",
+    "ts": "2026-11-07T09:05:51Z",
+    "uetr": "18233383-279b-437c-9255-273fed0940f7"
+  },
+  {
+    "amount": 2514.81,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0360",
+    "entryId": "L-000720",
+    "side": "CREDIT",
+    "ts": "2026-11-07T09:08:51Z",
+    "uetr": "18233383-279b-437c-9255-273fed0940f7"
+  },
+  {
+    "amount": 797.41,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0361",
+    "entryId": "L-000721",
+    "side": "DEBIT",
+    "ts": "2026-10-28T18:24:08Z",
+    "uetr": "3ff69f41-9508-4801-a3be-7ca05df924fb"
+  },
+  {
+    "amount": 781.46,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0361",
+    "entryId": "L-000722",
+    "side": "CREDIT",
+    "ts": "2026-10-28T18:27:08Z",
+    "uetr": "3ff69f41-9508-4801-a3be-7ca05df924fb"
+  },
+  {
+    "amount": 477.69,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0362",
+    "entryId": "L-000723",
+    "side": "DEBIT",
+    "ts": "2026-10-26T01:54:39Z",
+    "uetr": "bbf8da91-37a9-4824-aafa-4d5b91ae3d4c"
+  },
+  {
+    "amount": 468.14,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0362",
+    "entryId": "L-000724",
+    "side": "CREDIT",
+    "ts": "2026-10-26T01:57:39Z",
+    "uetr": "bbf8da91-37a9-4824-aafa-4d5b91ae3d4c"
+  },
+  {
+    "amount": 3968.66,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0363",
+    "entryId": "L-000725",
+    "side": "DEBIT",
+    "ts": "2026-10-27T06:19:37Z",
+    "uetr": "b0894de4-e626-4164-9361-6b3a7cffae92"
+  },
+  {
+    "amount": 3889.29,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0363",
+    "entryId": "L-000726",
+    "side": "CREDIT",
+    "ts": "2026-10-27T06:22:37Z",
+    "uetr": "b0894de4-e626-4164-9361-6b3a7cffae92"
+  },
+  {
+    "amount": 2984.25,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0364",
+    "entryId": "L-000727",
+    "side": "DEBIT",
+    "ts": "2026-10-16T03:08:25Z",
+    "uetr": "93875413-ceef-4261-bb15-02ea09912f46"
+  },
+  {
+    "amount": 2924.56,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0364",
+    "entryId": "L-000728",
+    "side": "CREDIT",
+    "ts": "2026-10-16T03:11:25Z",
+    "uetr": "93875413-ceef-4261-bb15-02ea09912f46"
+  },
+  {
+    "amount": 298.5,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0365",
+    "entryId": "L-000729",
+    "side": "DEBIT",
+    "ts": "2026-11-18T08:56:28Z",
+    "uetr": "6f2e92b9-d130-42db-a13a-14ca5911f42e"
+  },
+  {
+    "amount": 292.53,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0365",
+    "entryId": "L-000730",
+    "side": "CREDIT",
+    "ts": "2026-11-18T08:59:28Z",
+    "uetr": "6f2e92b9-d130-42db-a13a-14ca5911f42e"
+  },
+  {
+    "amount": 4351.54,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0366",
+    "entryId": "L-000731",
+    "side": "DEBIT",
+    "ts": "2026-10-17T08:28:23Z",
+    "uetr": "9a307096-d977-46be-a71c-8948bf67de42"
+  },
+  {
+    "amount": 4264.51,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0366",
+    "entryId": "L-000732",
+    "side": "CREDIT",
+    "ts": "2026-10-17T08:31:23Z",
+    "uetr": "9a307096-d977-46be-a71c-8948bf67de42"
+  },
+  {
+    "amount": 3168.32,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0367",
+    "entryId": "L-000733",
+    "side": "DEBIT",
+    "ts": "2026-11-18T05:47:30Z",
+    "uetr": "51beba8e-0a8a-4b94-863d-fcd64e0648d0"
+  },
+  {
+    "amount": 3104.95,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0367",
+    "entryId": "L-000734",
+    "side": "CREDIT",
+    "ts": "2026-11-18T05:50:30Z",
+    "uetr": "51beba8e-0a8a-4b94-863d-fcd64e0648d0"
+  },
+  {
+    "amount": 1647.62,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0368",
+    "entryId": "L-000735",
+    "side": "DEBIT",
+    "ts": "2026-10-18T18:18:24Z",
+    "uetr": "ac735be0-0cee-4dc2-a737-f345388629ff"
+  },
+  {
+    "amount": 1614.67,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0368",
+    "entryId": "L-000736",
+    "side": "CREDIT",
+    "ts": "2026-10-18T18:21:24Z",
+    "uetr": "ac735be0-0cee-4dc2-a737-f345388629ff"
+  },
+  {
+    "amount": 3769.14,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0369",
+    "entryId": "L-000737",
+    "side": "DEBIT",
+    "ts": "2026-11-02T03:12:49Z",
+    "uetr": "6e935615-38da-4a90-970f-ad328135f15a"
+  },
+  {
+    "amount": 3693.76,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0369",
+    "entryId": "L-000738",
+    "side": "CREDIT",
+    "ts": "2026-11-02T03:15:49Z",
+    "uetr": "6e935615-38da-4a90-970f-ad328135f15a"
+  },
+  {
+    "amount": 757.1,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0370",
+    "entryId": "L-000739",
+    "side": "DEBIT",
+    "ts": "2026-10-30T15:27:08Z",
+    "uetr": "beccf760-9249-4e3a-b9d1-9c4e1521ad35"
+  },
+  {
+    "amount": 741.96,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0370",
+    "entryId": "L-000740",
+    "side": "CREDIT",
+    "ts": "2026-10-30T15:30:08Z",
+    "uetr": "beccf760-9249-4e3a-b9d1-9c4e1521ad35"
+  },
+  {
+    "amount": 1327.54,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0371",
+    "entryId": "L-000741",
+    "side": "DEBIT",
+    "ts": "2026-10-30T21:07:29Z",
+    "uetr": "b2a7a475-c619-4773-af3a-cf3380777ac5"
+  },
+  {
+    "amount": 1300.99,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0371",
+    "entryId": "L-000742",
+    "side": "CREDIT",
+    "ts": "2026-10-30T21:10:29Z",
+    "uetr": "b2a7a475-c619-4773-af3a-cf3380777ac5"
+  },
+  {
+    "amount": 2414.99,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0372",
+    "entryId": "L-000743",
+    "side": "DEBIT",
+    "ts": "2026-10-18T01:10:08Z",
+    "uetr": "9242ba54-a6f9-40e1-a533-9cf07ce4770e"
+  },
+  {
+    "amount": 2366.69,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0372",
+    "entryId": "L-000744",
+    "side": "CREDIT",
+    "ts": "2026-10-18T01:13:08Z",
+    "uetr": "9242ba54-a6f9-40e1-a533-9cf07ce4770e"
+  },
+  {
+    "amount": 4985.45,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0373",
+    "entryId": "L-000745",
+    "side": "DEBIT",
+    "ts": "2026-11-10T09:43:17Z",
+    "uetr": "44296ca2-1257-429e-be08-5cb73f09f7a6"
+  },
+  {
+    "amount": 4885.74,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0373",
+    "entryId": "L-000746",
+    "side": "CREDIT",
+    "ts": "2026-11-10T09:46:17Z",
+    "uetr": "44296ca2-1257-429e-be08-5cb73f09f7a6"
+  },
+  {
+    "amount": 3430.0,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0374",
+    "entryId": "L-000747",
+    "side": "DEBIT",
+    "ts": "2026-10-27T04:50:06Z",
+    "uetr": "69e08370-abf7-45d0-9cce-c1ef16efacdf"
+  },
+  {
+    "amount": 3361.4,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0374",
+    "entryId": "L-000748",
+    "side": "CREDIT",
+    "ts": "2026-10-27T04:53:06Z",
+    "uetr": "69e08370-abf7-45d0-9cce-c1ef16efacdf"
+  },
+  {
+    "amount": 968.64,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0375",
+    "entryId": "L-000749",
+    "side": "DEBIT",
+    "ts": "2026-10-28T09:50:29Z",
+    "uetr": "c509d558-0632-4b36-a7c8-f0c59808552c"
+  },
+  {
+    "amount": 949.27,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0375",
+    "entryId": "L-000750",
+    "side": "CREDIT",
+    "ts": "2026-10-28T09:53:29Z",
+    "uetr": "c509d558-0632-4b36-a7c8-f0c59808552c"
+  },
+  {
+    "amount": 3088.78,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0376",
+    "entryId": "L-000751",
+    "side": "DEBIT",
+    "ts": "2026-10-28T11:28:56Z",
+    "uetr": "0b7d1856-70c2-4600-a554-5c1a9f88dda3"
+  },
+  {
+    "amount": 3027.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0376",
+    "entryId": "L-000752",
+    "side": "CREDIT",
+    "ts": "2026-10-28T11:31:56Z",
+    "uetr": "0b7d1856-70c2-4600-a554-5c1a9f88dda3"
+  },
+  {
+    "amount": 3433.09,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0377",
+    "entryId": "L-000753",
+    "side": "DEBIT",
+    "ts": "2026-10-21T04:41:00Z",
+    "uetr": "15f7ef61-da4e-404c-ba7e-1b86c1fad753"
+  },
+  {
+    "amount": 3364.43,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0377",
+    "entryId": "L-000754",
+    "side": "CREDIT",
+    "ts": "2026-10-21T04:44:00Z",
+    "uetr": "15f7ef61-da4e-404c-ba7e-1b86c1fad753"
+  },
+  {
+    "amount": 1230.38,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0378",
+    "entryId": "L-000755",
+    "side": "DEBIT",
+    "ts": "2026-10-14T03:34:29Z",
+    "uetr": "d51b1974-de66-4dd0-a5ce-2a21ed3e2846"
+  },
+  {
+    "amount": 1205.77,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0378",
+    "entryId": "L-000756",
+    "side": "CREDIT",
+    "ts": "2026-10-14T03:37:29Z",
+    "uetr": "d51b1974-de66-4dd0-a5ce-2a21ed3e2846"
+  },
+  {
+    "amount": 1729.49,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0379",
+    "entryId": "L-000757",
+    "side": "DEBIT",
+    "ts": "2026-10-12T04:02:01Z",
+    "uetr": "05d2d205-789f-4d96-b337-3c2f4e1c3762"
+  },
+  {
+    "amount": 1694.9,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0379",
+    "entryId": "L-000758",
+    "side": "CREDIT",
+    "ts": "2026-10-12T04:05:01Z",
+    "uetr": "05d2d205-789f-4d96-b337-3c2f4e1c3762"
+  },
+  {
+    "amount": 2699.27,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0380",
+    "entryId": "L-000759",
+    "side": "DEBIT",
+    "ts": "2026-11-16T10:12:39Z",
+    "uetr": "4237692a-c017-466e-85f4-c0a28be27516"
+  },
+  {
+    "amount": 2645.28,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0380",
+    "entryId": "L-000760",
+    "side": "CREDIT",
+    "ts": "2026-11-16T10:15:39Z",
+    "uetr": "4237692a-c017-466e-85f4-c0a28be27516"
+  },
+  {
+    "amount": 3655.02,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0381",
+    "entryId": "L-000761",
+    "side": "DEBIT",
+    "ts": "2026-11-10T17:55:47Z",
+    "uetr": "04b51c12-ab13-4032-b2e1-9f66b1f02ea8"
+  },
+  {
+    "amount": 3581.92,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0381",
+    "entryId": "L-000762",
+    "side": "CREDIT",
+    "ts": "2026-11-10T17:58:47Z",
+    "uetr": "04b51c12-ab13-4032-b2e1-9f66b1f02ea8"
+  },
+  {
+    "amount": 2643.46,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0382",
+    "entryId": "L-000763",
+    "side": "DEBIT",
+    "ts": "2026-11-12T17:05:59Z",
+    "uetr": "3360d115-48b5-4c88-8f63-5f4a2b9a118e"
+  },
+  {
+    "amount": 2590.59,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0382",
+    "entryId": "L-000764",
+    "side": "CREDIT",
+    "ts": "2026-11-12T17:08:59Z",
+    "uetr": "3360d115-48b5-4c88-8f63-5f4a2b9a118e"
+  },
+  {
+    "amount": 1370.98,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0383",
+    "entryId": "L-000765",
+    "side": "DEBIT",
+    "ts": "2026-11-10T12:00:52Z",
+    "uetr": "110c8d92-0222-405d-b1f7-1605a79e3626"
+  },
+  {
+    "amount": 1343.56,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0383",
+    "entryId": "L-000766",
+    "side": "CREDIT",
+    "ts": "2026-11-10T12:03:52Z",
+    "uetr": "110c8d92-0222-405d-b1f7-1605a79e3626"
+  },
+  {
+    "amount": 3321.65,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0384",
+    "entryId": "L-000767",
+    "side": "DEBIT",
+    "ts": "2026-10-24T16:07:58Z",
+    "uetr": "04e25132-1b9e-45f9-9d41-9a675c375254"
+  },
+  {
+    "amount": 3255.22,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0384",
+    "entryId": "L-000768",
+    "side": "CREDIT",
+    "ts": "2026-10-24T16:10:58Z",
+    "uetr": "04e25132-1b9e-45f9-9d41-9a675c375254"
+  },
+  {
+    "amount": 1944.89,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0385",
+    "entryId": "L-000769",
+    "side": "DEBIT",
+    "ts": "2026-11-12T00:39:07Z",
+    "uetr": "197fa0fd-b5ae-4a56-ba03-3d6c822fb2f0"
+  },
+  {
+    "amount": 1905.99,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0385",
+    "entryId": "L-000770",
+    "side": "CREDIT",
+    "ts": "2026-11-12T00:42:07Z",
+    "uetr": "197fa0fd-b5ae-4a56-ba03-3d6c822fb2f0"
+  },
+  {
+    "amount": 2667.17,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0386",
+    "entryId": "L-000771",
+    "side": "DEBIT",
+    "ts": "2026-11-09T11:42:45Z",
+    "uetr": "753e9662-f77f-43a7-802a-a6eb32e97c2d"
+  },
+  {
+    "amount": 2613.83,
+    "currency": "USD",
+    "endToEndId": "E2E-BG-0386",
+    "entryId": "L-000772",
+    "side": "CREDIT",
+    "ts": "2026-11-09T11:45:45Z",
+    "uetr": "753e9662-f77f-43a7-802a-a6eb32e97c2d"
+  },
+  {
+    "amount": 217.97,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0387",
+    "entryId": "L-000773",
+    "side": "DEBIT",
+    "ts": "2026-10-12T13:04:09Z",
+    "uetr": "64b5d9a5-7d6c-4d2a-9564-d1d34e0fbae1"
+  },
+  {
+    "amount": 213.61,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0387",
+    "entryId": "L-000774",
+    "side": "CREDIT",
+    "ts": "2026-10-12T13:07:09Z",
+    "uetr": "64b5d9a5-7d6c-4d2a-9564-d1d34e0fbae1"
+  },
+  {
+    "amount": 1746.96,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0388",
+    "entryId": "L-000775",
+    "side": "DEBIT",
+    "ts": "2026-10-12T09:26:18Z",
+    "uetr": "3c77ea4a-4d65-4036-a00f-230b5afa0fb3"
+  },
+  {
+    "amount": 1712.02,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0388",
+    "entryId": "L-000776",
+    "side": "CREDIT",
+    "ts": "2026-10-12T09:29:18Z",
+    "uetr": "3c77ea4a-4d65-4036-a00f-230b5afa0fb3"
+  },
+  {
+    "amount": 3136.45,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0389",
+    "entryId": "L-000777",
+    "side": "DEBIT",
+    "ts": "2026-10-14T12:16:47Z",
+    "uetr": "fd88565a-d09a-434b-bffc-d743e3f16406"
+  },
+  {
+    "amount": 3073.72,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0389",
+    "entryId": "L-000778",
+    "side": "CREDIT",
+    "ts": "2026-10-14T12:19:47Z",
+    "uetr": "fd88565a-d09a-434b-bffc-d743e3f16406"
+  },
+  {
+    "amount": 1143.4,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0390",
+    "entryId": "L-000779",
+    "side": "DEBIT",
+    "ts": "2026-10-25T02:28:58Z",
+    "uetr": "23238416-a82c-4e18-a491-982be5ad481d"
+  },
+  {
+    "amount": 1120.53,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0390",
+    "entryId": "L-000780",
+    "side": "CREDIT",
+    "ts": "2026-10-25T02:31:58Z",
+    "uetr": "23238416-a82c-4e18-a491-982be5ad481d"
+  },
+  {
+    "amount": 2613.17,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0391",
+    "entryId": "L-000781",
+    "side": "DEBIT",
+    "ts": "2026-10-30T01:20:12Z",
+    "uetr": "afbffde4-a022-4155-9f69-5d179cc96aed"
+  },
+  {
+    "amount": 2560.91,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0391",
+    "entryId": "L-000782",
+    "side": "CREDIT",
+    "ts": "2026-10-30T01:23:12Z",
+    "uetr": "afbffde4-a022-4155-9f69-5d179cc96aed"
+  },
+  {
+    "amount": 2873.03,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0392",
+    "entryId": "L-000783",
+    "side": "DEBIT",
+    "ts": "2026-10-23T04:04:26Z",
+    "uetr": "9af97493-e8e4-4b31-8ff8-5111f8751fd4"
+  },
+  {
+    "amount": 2815.57,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0392",
+    "entryId": "L-000784",
+    "side": "CREDIT",
+    "ts": "2026-10-23T04:07:26Z",
+    "uetr": "9af97493-e8e4-4b31-8ff8-5111f8751fd4"
+  },
+  {
+    "amount": 676.23,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0393",
+    "entryId": "L-000785",
+    "side": "DEBIT",
+    "ts": "2026-11-06T19:46:53Z",
+    "uetr": "af1dcfb8-8a96-4a11-94be-6d9f2379c05f"
+  },
+  {
+    "amount": 662.71,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0393",
+    "entryId": "L-000786",
+    "side": "CREDIT",
+    "ts": "2026-11-06T19:49:53Z",
+    "uetr": "af1dcfb8-8a96-4a11-94be-6d9f2379c05f"
+  },
+  {
+    "amount": 1558.81,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0394",
+    "entryId": "L-000787",
+    "side": "DEBIT",
+    "ts": "2026-10-18T04:56:33Z",
+    "uetr": "229fe85b-e8d9-4a20-8618-1db2e60d7a94"
+  },
+  {
+    "amount": 1527.63,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0394",
+    "entryId": "L-000788",
+    "side": "CREDIT",
+    "ts": "2026-10-18T04:59:33Z",
+    "uetr": "229fe85b-e8d9-4a20-8618-1db2e60d7a94"
+  },
+  {
+    "amount": 3288.03,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0395",
+    "entryId": "L-000789",
+    "side": "DEBIT",
+    "ts": "2026-10-18T13:08:53Z",
+    "uetr": "115c42cd-5147-4e86-a875-d40aeac7dc2e"
+  },
+  {
+    "amount": 3222.27,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0395",
+    "entryId": "L-000790",
+    "side": "CREDIT",
+    "ts": "2026-10-18T13:11:53Z",
+    "uetr": "115c42cd-5147-4e86-a875-d40aeac7dc2e"
+  },
+  {
+    "amount": 609.57,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0396",
+    "entryId": "L-000791",
+    "side": "DEBIT",
+    "ts": "2026-11-15T10:14:32Z",
+    "uetr": "ba21e269-2540-4bfe-a12f-f6cdd6eaf269"
+  },
+  {
+    "amount": 597.38,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0396",
+    "entryId": "L-000792",
+    "side": "CREDIT",
+    "ts": "2026-11-15T10:17:32Z",
+    "uetr": "ba21e269-2540-4bfe-a12f-f6cdd6eaf269"
+  },
+  {
+    "amount": 4403.06,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0397",
+    "entryId": "L-000793",
+    "side": "DEBIT",
+    "ts": "2026-10-26T23:19:52Z",
+    "uetr": "7168bdec-4da8-48b7-a947-cbacf610f40d"
+  },
+  {
+    "amount": 4315.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0397",
+    "entryId": "L-000794",
+    "side": "CREDIT",
+    "ts": "2026-10-26T23:22:52Z",
+    "uetr": "7168bdec-4da8-48b7-a947-cbacf610f40d"
+  },
+  {
+    "amount": 4667.59,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0398",
+    "entryId": "L-000795",
+    "side": "DEBIT",
+    "ts": "2026-11-11T10:00:51Z",
+    "uetr": "1b555f6d-301c-4abf-8773-9d4626e6a84a"
+  },
+  {
+    "amount": 4574.24,
+    "currency": "EUR",
+    "endToEndId": "E2E-BG-0398",
+    "entryId": "L-000796",
+    "side": "CREDIT",
+    "ts": "2026-11-11T10:03:51Z",
+    "uetr": "1b555f6d-301c-4abf-8773-9d4626e6a84a"
+  },
+  {
+    "amount": 3816.99,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0399",
+    "entryId": "L-000797",
+    "side": "DEBIT",
+    "ts": "2026-10-12T18:33:23Z",
+    "uetr": "9129bc75-9b08-45a8-8451-1ba09df034d3"
+  },
+  {
+    "amount": 3740.65,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0399",
+    "entryId": "L-000798",
+    "side": "CREDIT",
+    "ts": "2026-10-12T18:36:23Z",
+    "uetr": "9129bc75-9b08-45a8-8451-1ba09df034d3"
+  },
+  {
+    "amount": 1176.27,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0400",
+    "entryId": "L-000799",
+    "side": "DEBIT",
+    "ts": "2026-11-09T10:50:38Z",
+    "uetr": "b02a06ee-1458-4063-9bf8-8d1d06ad7920"
+  },
+  {
+    "amount": 1152.74,
+    "currency": "GBP",
+    "endToEndId": "E2E-BG-0400",
+    "entryId": "L-000800",
+    "side": "CREDIT",
+    "ts": "2026-11-09T10:53:38Z",
+    "uetr": "b02a06ee-1458-4063-9bf8-8d1d06ad7920"
+  },
+  {
+    "amount": 2521.58,
+    "currency": "GBP",
+    "endToEndId": "E2E-HIST-FA-1",
+    "entryId": "L-000801",
+    "side": "DEBIT",
+    "ts": "2026-11-03T15:18:54Z",
+    "uetr": "5fbbcda5-a64a-4fe8-b646-e2b17800e27a"
+  },
+  {
+    "amount": 2471.15,
+    "currency": "GBP",
+    "endToEndId": "E2E-HIST-FA-1",
+    "entryId": "L-000802",
+    "side": "CREDIT",
+    "ts": "2026-11-03T15:21:54Z",
+    "uetr": "5fbbcda5-a64a-4fe8-b646-e2b17800e27a"
+  },
+  {
+    "amount": 2467.4,
+    "currency": "USD",
+    "endToEndId": "E2E-HIST-FA-2",
+    "entryId": "L-000803",
+    "side": "DEBIT",
+    "ts": "2026-10-20T10:22:53Z",
+    "uetr": "08403234-39ed-4800-b179-79f929ede760"
+  },
+  {
+    "amount": 2418.05,
+    "currency": "USD",
+    "endToEndId": "E2E-HIST-FA-2",
+    "entryId": "L-000804",
+    "side": "CREDIT",
+    "ts": "2026-10-20T10:25:53Z",
+    "uetr": "08403234-39ed-4800-b179-79f929ede760"
+  },
+  {
+    "amount": 4628.67,
+    "currency": "EUR",
+    "endToEndId": "E2E-HIST-FA-3",
+    "entryId": "L-000805",
+    "side": "DEBIT",
+    "ts": "2026-10-31T08:04:27Z",
+    "uetr": "fcfd8547-abdc-40da-be0b-bddd38f95001"
+  },
+  {
+    "amount": 4536.1,
+    "currency": "EUR",
+    "endToEndId": "E2E-HIST-FA-3",
+    "entryId": "L-000806",
+    "side": "CREDIT",
+    "ts": "2026-10-31T08:07:27Z",
+    "uetr": "fcfd8547-abdc-40da-be0b-bddd38f95001"
+  },
+  {
+    "amount": 349.36,
+    "currency": "EUR",
+    "endToEndId": "E2E-HIST-HA-1",
+    "entryId": "L-000807",
+    "side": "DEBIT",
+    "ts": "2026-10-21T08:21:05Z",
+    "uetr": "b017c533-7d6c-45c3-9df7-9a27ddfc2a92"
+  },
+  {
+    "amount": 342.37,
+    "currency": "EUR",
+    "endToEndId": "E2E-HIST-HA-1",
+    "entryId": "L-000808",
+    "side": "CREDIT",
+    "ts": "2026-10-21T08:24:05Z",
+    "uetr": "b017c533-7d6c-45c3-9df7-9a27ddfc2a92"
+  },
+  {
+    "amount": 4440.18,
+    "currency": "EUR",
+    "endToEndId": "E2E-HIST-HA-2",
+    "entryId": "L-000809",
+    "side": "DEBIT",
+    "ts": "2026-10-27T06:33:51Z",
+    "uetr": "9ba14c35-0ab5-407f-86b6-020a67a55936"
+  },
+  {
+    "amount": 4351.38,
+    "currency": "EUR",
+    "endToEndId": "E2E-HIST-HA-2",
+    "entryId": "L-000810",
+    "side": "CREDIT",
+    "ts": "2026-10-27T06:36:51Z",
+    "uetr": "9ba14c35-0ab5-407f-86b6-020a67a55936"
+  },
+  {
+    "amount": 1578.23,
+    "currency": "GBP",
+    "endToEndId": "E2E-HIST-HA-3",
+    "entryId": "L-000811",
+    "side": "DEBIT",
+    "ts": "2026-10-29T23:12:04Z",
+    "uetr": "9803a82e-926a-4bd0-be12-5f8ff06b6c12"
+  },
+  {
+    "amount": 1546.67,
+    "currency": "GBP",
+    "endToEndId": "E2E-HIST-HA-3",
+    "entryId": "L-000812",
+    "side": "CREDIT",
+    "ts": "2026-10-29T23:15:04Z",
+    "uetr": "9803a82e-926a-4bd0-be12-5f8ff06b6c12"
+  },
+  {
+    "amount": 3214.14,
+    "currency": "GBP",
+    "endToEndId": "E2E-HIST-HP-1",
+    "entryId": "L-000813",
+    "side": "DEBIT",
+    "ts": "2026-11-06T12:42:15Z",
+    "uetr": "1bfc270c-8549-4255-89db-ebb5c9739495"
+  },
+  {
+    "amount": 3149.86,
+    "currency": "GBP",
+    "endToEndId": "E2E-HIST-HP-1",
+    "entryId": "L-000814",
+    "side": "CREDIT",
+    "ts": "2026-11-06T12:45:15Z",
+    "uetr": "1bfc270c-8549-4255-89db-ebb5c9739495"
+  },
+  {
+    "amount": 4138.51,
+    "currency": "USD",
+    "endToEndId": "E2E-HIST-HP-2",
+    "entryId": "L-000815",
+    "side": "DEBIT",
+    "ts": "2026-11-02T10:11:47Z",
+    "uetr": "84c9b276-3ee7-4d31-beef-21f8e0b62f90"
+  },
+  {
+    "amount": 4055.74,
+    "currency": "USD",
+    "endToEndId": "E2E-HIST-HP-2",
+    "entryId": "L-000816",
+    "side": "CREDIT",
+    "ts": "2026-11-02T10:14:47Z",
+    "uetr": "84c9b276-3ee7-4d31-beef-21f8e0b62f90"
+  },
+  {
+    "amount": 4919.48,
+    "currency": "USD",
+    "endToEndId": "E2E-HIST-HP-3",
+    "entryId": "L-000817",
+    "side": "DEBIT",
+    "ts": "2026-11-06T14:41:46Z",
+    "uetr": "c3e1847c-8420-40d8-a32c-817e8ec57d47"
+  },
+  {
+    "amount": 4821.09,
+    "currency": "USD",
+    "endToEndId": "E2E-HIST-HP-3",
+    "entryId": "L-000818",
+    "side": "CREDIT",
+    "ts": "2026-11-06T14:44:46Z",
+    "uetr": "c3e1847c-8420-40d8-a32c-817e8ec57d47"
+  },
+  {
+    "amount": 900.0,
+    "currency": "GBP",
+    "endToEndId": "E2E-FA",
+    "entryId": "L-000819",
+    "side": "DEBIT",
+    "ts": "2026-11-19T12:02:00Z",
+    "uetr": "4a8abb17-309a-483a-8c9e-a060f66c7331"
+  },
+  {
+    "amount": 882.0,
+    "currency": "GBP",
+    "endToEndId": "E2E-FA",
+    "entryId": "L-000820",
+    "side": "CREDIT",
+    "ts": "2026-11-19T12:05:00Z",
+    "uetr": "4a8abb17-309a-483a-8c9e-a060f66c7331"
+  },
+  {
+    "amount": 4800.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-HA",
+    "entryId": "L-000821",
+    "side": "DEBIT",
+    "ts": "2026-11-19T12:12:00Z",
+    "uetr": "c60fb252-4df7-42ae-a267-e12b65e5f13f"
+  },
+  {
+    "amount": 4704.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-HA",
+    "entryId": "L-000822",
+    "side": "CREDIT",
+    "ts": "2026-11-19T12:15:00Z",
+    "uetr": "c60fb252-4df7-42ae-a267-e12b65e5f13f"
+  },
+  {
+    "amount": 3100.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-HP",
+    "entryId": "L-000823",
+    "side": "DEBIT",
+    "ts": "2026-11-19T12:22:00Z",
+    "uetr": "4b5f174b-6c26-4b56-aa9e-dda7761ad914"
+  },
+  {
+    "amount": 3038.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-HP",
+    "entryId": "L-000824",
+    "side": "CREDIT",
+    "ts": "2026-11-19T12:25:00Z",
+    "uetr": "4b5f174b-6c26-4b56-aa9e-dda7761ad914"
+  },
+  {
+    "amount": 235,
+    "currency": "GBP",
+    "endToEndId": "E2E-MR-1",
+    "entryId": "L-000825",
+    "side": "DEBIT",
+    "ts": "2026-11-20T04:19:00Z",
+    "uetr": "84581f73-b0a0-41cd-8df6-c527eb45bc38"
+  },
+  {
+    "amount": 230.3,
+    "currency": "GBP",
+    "endToEndId": "E2E-MR-1",
+    "entryId": "L-000826",
+    "side": "CREDIT",
+    "ts": "2026-11-20T04:22:00Z",
+    "uetr": "84581f73-b0a0-41cd-8df6-c527eb45bc38"
+  },
+  {
+    "amount": 270,
+    "currency": "USD",
+    "endToEndId": "E2E-MR-2",
+    "entryId": "L-000827",
+    "side": "DEBIT",
+    "ts": "2026-11-20T04:36:00Z",
+    "uetr": "73a27c7b-a566-4884-9473-e68776ad1c33"
+  },
+  {
+    "amount": 264.6,
+    "currency": "USD",
+    "endToEndId": "E2E-MR-2",
+    "entryId": "L-000828",
+    "side": "CREDIT",
+    "ts": "2026-11-20T04:39:00Z",
+    "uetr": "73a27c7b-a566-4884-9473-e68776ad1c33"
+  },
+  {
+    "amount": 305,
+    "currency": "USD",
+    "endToEndId": "E2E-MR-3",
+    "entryId": "L-000829",
+    "side": "DEBIT",
+    "ts": "2026-11-20T04:53:00Z",
+    "uetr": "2e057f79-1cf8-403f-802b-1bf4b8ff615c"
+  },
+  {
+    "amount": 298.9,
+    "currency": "USD",
+    "endToEndId": "E2E-MR-3",
+    "entryId": "L-000830",
+    "side": "CREDIT",
+    "ts": "2026-11-20T04:56:00Z",
+    "uetr": "2e057f79-1cf8-403f-802b-1bf4b8ff615c"
+  },
+  {
+    "amount": 340,
+    "currency": "GBP",
+    "endToEndId": "E2E-MR-4",
+    "entryId": "L-000831",
+    "side": "DEBIT",
+    "ts": "2026-11-20T05:10:00Z",
+    "uetr": "8be15610-b234-4948-a4f2-ae4cf016716b"
+  },
+  {
+    "amount": 333.2,
+    "currency": "GBP",
+    "endToEndId": "E2E-MR-4",
+    "entryId": "L-000832",
+    "side": "CREDIT",
+    "ts": "2026-11-20T05:13:00Z",
+    "uetr": "8be15610-b234-4948-a4f2-ae4cf016716b"
+  },
+  {
+    "amount": 375,
+    "currency": "USD",
+    "endToEndId": "E2E-MR-5",
+    "entryId": "L-000833",
+    "side": "DEBIT",
+    "ts": "2026-11-20T05:27:00Z",
+    "uetr": "736d417c-52ce-45e3-a9df-05c764a0053f"
+  },
+  {
+    "amount": 367.5,
+    "currency": "USD",
+    "endToEndId": "E2E-MR-5",
+    "entryId": "L-000834",
+    "side": "CREDIT",
+    "ts": "2026-11-20T05:30:00Z",
+    "uetr": "736d417c-52ce-45e3-a9df-05c764a0053f"
+  },
+  {
+    "amount": 410,
+    "currency": "USD",
+    "endToEndId": "E2E-MR-6",
+    "entryId": "L-000835",
+    "side": "DEBIT",
+    "ts": "2026-11-20T05:44:00Z",
+    "uetr": "e588b999-971e-4a39-b424-6baa2dcafc82"
+  },
+  {
+    "amount": 401.8,
+    "currency": "USD",
+    "endToEndId": "E2E-MR-6",
+    "entryId": "L-000836",
+    "side": "CREDIT",
+    "ts": "2026-11-20T05:47:00Z",
+    "uetr": "e588b999-971e-4a39-b424-6baa2dcafc82"
+  },
+  {
+    "amount": 720.0,
+    "currency": "USD",
+    "endToEndId": "E2E-MISSING",
+    "entryId": "L-000837",
+    "side": "DEBIT",
+    "ts": "2026-11-20T07:02:00Z",
+    "uetr": "a6091ad0-b114-44aa-92f6-9081400564b8"
+  },
+  {
+    "amount": 410.0,
+    "currency": "GBP",
+    "endToEndId": "E2E-DUP",
+    "entryId": "L-000838",
+    "side": "DEBIT",
+    "ts": "2026-11-20T06:02:00Z",
+    "uetr": "bbb71494-b7e7-47d4-a9fb-832ccbe68571"
+  },
+  {
+    "amount": 401.8,
+    "currency": "GBP",
+    "endToEndId": "E2E-DUP",
+    "entryId": "L-000839",
+    "side": "CREDIT",
+    "ts": "2026-11-20T06:05:00Z",
+    "uetr": "bbb71494-b7e7-47d4-a9fb-832ccbe68571"
+  },
+  {
+    "amount": 401.8,
+    "currency": "GBP",
+    "endToEndId": "E2E-DUP",
+    "entryId": "L-000839",
+    "side": "CREDIT",
+    "ts": "2026-11-20T06:05:00Z",
+    "uetr": "bbb71494-b7e7-47d4-a9fb-832ccbe68571"
+  },
+  {
+    "amount": 1500.0,
+    "currency": "USD",
+    "endToEndId": "E2E-MISMATCH",
+    "entryId": "L-000840",
+    "side": "DEBIT",
+    "ts": "2026-11-20T05:02:00Z",
+    "uetr": "730bc657-b4cb-4613-9d39-e9c217584f23"
+  },
+  {
+    "amount": 1445.0,
+    "currency": "USD",
+    "endToEndId": "E2E-MISMATCH",
+    "entryId": "L-000841",
+    "side": "CREDIT",
+    "ts": "2026-11-20T05:05:00Z",
+    "uetr": "730bc657-b4cb-4613-9d39-e9c217584f23"
+  },
+  {
+    "amount": 530.0,
+    "currency": "GBP",
+    "endToEndId": "E2E-OOO",
+    "entryId": "L-000842",
+    "side": "DEBIT",
+    "ts": "2026-11-20T03:02:00Z",
+    "uetr": "b5103e9c-8618-440d-95d6-a6585ce9dbbc"
+  },
+  {
+    "amount": 519.4,
+    "currency": "GBP",
+    "endToEndId": "E2E-OOO",
+    "entryId": "L-000843",
+    "side": "CREDIT",
+    "ts": "2026-11-20T03:05:00Z",
+    "uetr": "b5103e9c-8618-440d-95d6-a6585ce9dbbc"
+  },
+  {
+    "amount": 250.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-CLEAN-1",
+    "entryId": "L-000844",
+    "side": "DEBIT",
+    "ts": "2026-11-20T01:02:00Z",
+    "uetr": "82fc9294-f9a6-4522-8a83-5709ba146757"
+  },
+  {
+    "amount": 245.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-CLEAN-1",
+    "entryId": "L-000845",
+    "side": "CREDIT",
+    "ts": "2026-11-20T01:05:00Z",
+    "uetr": "82fc9294-f9a6-4522-8a83-5709ba146757"
+  },
+  {
+    "amount": 500.0,
+    "currency": "GBP",
+    "endToEndId": "E2E-CLEAN-2",
+    "entryId": "L-000846",
+    "side": "DEBIT",
+    "ts": "2026-11-20T00:02:00Z",
+    "uetr": "8ce377d7-60f1-4528-a8ef-2f46f323123e"
+  },
+  {
+    "amount": 490.0,
+    "currency": "GBP",
+    "endToEndId": "E2E-CLEAN-2",
+    "entryId": "L-000847",
+    "side": "CREDIT",
+    "ts": "2026-11-20T00:05:00Z",
+    "uetr": "8ce377d7-60f1-4528-a8ef-2f46f323123e"
+  },
+  {
+    "amount": 750.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-CLEAN-3",
+    "entryId": "L-000848",
+    "side": "DEBIT",
+    "ts": "2026-11-19T23:02:00Z",
+    "uetr": "e98965f2-2bbf-4e35-84ac-b57d0b3d6dc9"
+  },
+  {
+    "amount": 735.0,
+    "currency": "EUR",
+    "endToEndId": "E2E-CLEAN-3",
+    "entryId": "L-000849",
+    "side": "CREDIT",
+    "ts": "2026-11-19T23:05:00Z",
+    "uetr": "e98965f2-2bbf-4e35-84ac-b57d0b3d6dc9"
+  }
+]

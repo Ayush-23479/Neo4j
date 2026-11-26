@@ -5,7 +5,8 @@ services:
     expose:
       - "8000"          # internal only, not published to the host
     volumes:
-      - ./data:/app/data
+      - ./data:/app/data          # Relate store file lives here
+      - ./graph:/app/graph:ro     # schema.cypher, read at startup
     healthcheck:
       test: ["CMD", "python", "-c", "import urllib.request as u; u.urlopen('http://localhost:8000/health')"]
       interval: 10s
@@ -18,13 +19,3 @@ services:
       - backend
     ports:
       - "3000:8080"     # the only published port
-
-  # Relate graph service — embedded mode; RELATE_PATH points to the mounted volume
-  graph:
-    image: alpine:3.20
-    command: ["sleep", "infinity"]
-    profiles: ["server"]
-    expose:
-      - "7687"
-    environment:
-      - RELATE_PATH=/app/data/graph

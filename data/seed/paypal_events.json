@@ -1,0 +1,7670 @@
+[
+  {
+    "amount": 3655.19,
+    "currency": "USD",
+    "customId": "E2E-BG-0001",
+    "eventId": "WH-000001",
+    "rawRef": "synthetic://paypal/WH-000001",
+    "ts": "2026-11-01T17:42:29Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3655.19,
+    "currency": "USD",
+    "customId": "E2E-BG-0001",
+    "eventId": "WH-000002",
+    "rawRef": "synthetic://paypal/WH-000002",
+    "ts": "2026-11-01T17:43:29Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3069.24,
+    "currency": "USD",
+    "customId": "E2E-BG-0002",
+    "eventId": "WH-000003",
+    "rawRef": "synthetic://paypal/WH-000003",
+    "ts": "2026-11-02T12:12:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3069.24,
+    "currency": "USD",
+    "customId": "E2E-BG-0002",
+    "eventId": "WH-000004",
+    "rawRef": "synthetic://paypal/WH-000004",
+    "ts": "2026-11-02T12:13:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 83.07,
+    "currency": "USD",
+    "customId": "E2E-BG-0003",
+    "eventId": "WH-000005",
+    "rawRef": "synthetic://paypal/WH-000005",
+    "ts": "2026-10-17T07:09:40Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 83.07,
+    "currency": "USD",
+    "customId": "E2E-BG-0003",
+    "eventId": "WH-000006",
+    "rawRef": "synthetic://paypal/WH-000006",
+    "ts": "2026-10-17T07:10:40Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3919.28,
+    "currency": "GBP",
+    "customId": "E2E-BG-0004",
+    "eventId": "WH-000007",
+    "rawRef": "synthetic://paypal/WH-000007",
+    "ts": "2026-11-05T14:36:29Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3919.28,
+    "currency": "GBP",
+    "customId": "E2E-BG-0004",
+    "eventId": "WH-000008",
+    "rawRef": "synthetic://paypal/WH-000008",
+    "ts": "2026-11-05T14:37:29Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3670.02,
+    "currency": "USD",
+    "customId": "E2E-BG-0005",
+    "eventId": "WH-000009",
+    "rawRef": "synthetic://paypal/WH-000009",
+    "ts": "2026-10-24T13:07:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3670.02,
+    "currency": "USD",
+    "customId": "E2E-BG-0005",
+    "eventId": "WH-000010",
+    "rawRef": "synthetic://paypal/WH-000010",
+    "ts": "2026-10-24T13:08:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2628.79,
+    "currency": "EUR",
+    "customId": "E2E-BG-0006",
+    "eventId": "WH-000011",
+    "rawRef": "synthetic://paypal/WH-000011",
+    "ts": "2026-10-24T16:52:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2628.79,
+    "currency": "EUR",
+    "customId": "E2E-BG-0006",
+    "eventId": "WH-000012",
+    "rawRef": "synthetic://paypal/WH-000012",
+    "ts": "2026-10-24T16:53:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2563.69,
+    "currency": "USD",
+    "customId": "E2E-BG-0007",
+    "eventId": "WH-000013",
+    "rawRef": "synthetic://paypal/WH-000013",
+    "ts": "2026-11-02T14:20:37Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2563.69,
+    "currency": "USD",
+    "customId": "E2E-BG-0007",
+    "eventId": "WH-000014",
+    "rawRef": "synthetic://paypal/WH-000014",
+    "ts": "2026-11-02T14:21:37Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3871.18,
+    "currency": "GBP",
+    "customId": "E2E-BG-0008",
+    "eventId": "WH-000015",
+    "rawRef": "synthetic://paypal/WH-000015",
+    "ts": "2026-10-23T21:13:54Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3871.18,
+    "currency": "GBP",
+    "customId": "E2E-BG-0008",
+    "eventId": "WH-000016",
+    "rawRef": "synthetic://paypal/WH-000016",
+    "ts": "2026-10-23T21:14:54Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 239.31,
+    "currency": "USD",
+    "customId": "E2E-BG-0009",
+    "eventId": "WH-000017",
+    "rawRef": "synthetic://paypal/WH-000017",
+    "ts": "2026-10-11T14:59:33Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 239.31,
+    "currency": "USD",
+    "customId": "E2E-BG-0009",
+    "eventId": "WH-000018",
+    "rawRef": "synthetic://paypal/WH-000018",
+    "ts": "2026-10-11T15:00:33Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4657.18,
+    "currency": "USD",
+    "customId": "E2E-BG-0010",
+    "eventId": "WH-000019",
+    "rawRef": "synthetic://paypal/WH-000019",
+    "ts": "2026-10-20T04:30:16Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4657.18,
+    "currency": "USD",
+    "customId": "E2E-BG-0010",
+    "eventId": "WH-000020",
+    "rawRef": "synthetic://paypal/WH-000020",
+    "ts": "2026-10-20T04:31:16Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1138.09,
+    "currency": "USD",
+    "customId": "E2E-BG-0011",
+    "eventId": "WH-000021",
+    "rawRef": "synthetic://paypal/WH-000021",
+    "ts": "2026-10-31T20:36:02Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1138.09,
+    "currency": "USD",
+    "customId": "E2E-BG-0011",
+    "eventId": "WH-000022",
+    "rawRef": "synthetic://paypal/WH-000022",
+    "ts": "2026-10-31T20:37:02Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2866.25,
+    "currency": "USD",
+    "customId": "E2E-BG-0012",
+    "eventId": "WH-000023",
+    "rawRef": "synthetic://paypal/WH-000023",
+    "ts": "2026-10-15T06:44:42Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2866.25,
+    "currency": "USD",
+    "customId": "E2E-BG-0012",
+    "eventId": "WH-000024",
+    "rawRef": "synthetic://paypal/WH-000024",
+    "ts": "2026-10-15T06:45:42Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4907.44,
+    "currency": "EUR",
+    "customId": "E2E-BG-0013",
+    "eventId": "WH-000025",
+    "rawRef": "synthetic://paypal/WH-000025",
+    "ts": "2026-11-05T12:55:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4907.44,
+    "currency": "EUR",
+    "customId": "E2E-BG-0013",
+    "eventId": "WH-000026",
+    "rawRef": "synthetic://paypal/WH-000026",
+    "ts": "2026-11-05T12:56:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1649.96,
+    "currency": "GBP",
+    "customId": "E2E-BG-0014",
+    "eventId": "WH-000027",
+    "rawRef": "synthetic://paypal/WH-000027",
+    "ts": "2026-10-26T13:59:20Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1649.96,
+    "currency": "GBP",
+    "customId": "E2E-BG-0014",
+    "eventId": "WH-000028",
+    "rawRef": "synthetic://paypal/WH-000028",
+    "ts": "2026-10-26T14:00:20Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3703.09,
+    "currency": "USD",
+    "customId": "E2E-BG-0015",
+    "eventId": "WH-000029",
+    "rawRef": "synthetic://paypal/WH-000029",
+    "ts": "2026-10-26T06:04:48Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3703.09,
+    "currency": "USD",
+    "customId": "E2E-BG-0015",
+    "eventId": "WH-000030",
+    "rawRef": "synthetic://paypal/WH-000030",
+    "ts": "2026-10-26T06:05:48Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 993.2,
+    "currency": "GBP",
+    "customId": "E2E-BG-0016",
+    "eventId": "WH-000031",
+    "rawRef": "synthetic://paypal/WH-000031",
+    "ts": "2026-11-18T03:58:21Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 993.2,
+    "currency": "GBP",
+    "customId": "E2E-BG-0016",
+    "eventId": "WH-000032",
+    "rawRef": "synthetic://paypal/WH-000032",
+    "ts": "2026-11-18T03:59:21Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1180.33,
+    "currency": "EUR",
+    "customId": "E2E-BG-0017",
+    "eventId": "WH-000033",
+    "rawRef": "synthetic://paypal/WH-000033",
+    "ts": "2026-10-12T15:51:26Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1180.33,
+    "currency": "EUR",
+    "customId": "E2E-BG-0017",
+    "eventId": "WH-000034",
+    "rawRef": "synthetic://paypal/WH-000034",
+    "ts": "2026-10-12T15:52:26Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3799.47,
+    "currency": "EUR",
+    "customId": "E2E-BG-0018",
+    "eventId": "WH-000035",
+    "rawRef": "synthetic://paypal/WH-000035",
+    "ts": "2026-10-11T13:42:12Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3799.47,
+    "currency": "EUR",
+    "customId": "E2E-BG-0018",
+    "eventId": "WH-000036",
+    "rawRef": "synthetic://paypal/WH-000036",
+    "ts": "2026-10-11T13:43:12Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4915.92,
+    "currency": "EUR",
+    "customId": "E2E-BG-0019",
+    "eventId": "WH-000037",
+    "rawRef": "synthetic://paypal/WH-000037",
+    "ts": "2026-11-06T05:16:43Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4915.92,
+    "currency": "EUR",
+    "customId": "E2E-BG-0019",
+    "eventId": "WH-000038",
+    "rawRef": "synthetic://paypal/WH-000038",
+    "ts": "2026-11-06T05:17:43Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 483.27,
+    "currency": "USD",
+    "customId": "E2E-BG-0020",
+    "eventId": "WH-000039",
+    "rawRef": "synthetic://paypal/WH-000039",
+    "ts": "2026-10-25T02:01:12Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 483.27,
+    "currency": "USD",
+    "customId": "E2E-BG-0020",
+    "eventId": "WH-000040",
+    "rawRef": "synthetic://paypal/WH-000040",
+    "ts": "2026-10-25T02:02:12Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4873.28,
+    "currency": "USD",
+    "customId": "E2E-BG-0021",
+    "eventId": "WH-000041",
+    "rawRef": "synthetic://paypal/WH-000041",
+    "ts": "2026-11-02T18:08:32Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4873.28,
+    "currency": "USD",
+    "customId": "E2E-BG-0021",
+    "eventId": "WH-000042",
+    "rawRef": "synthetic://paypal/WH-000042",
+    "ts": "2026-11-02T18:09:32Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 392.66,
+    "currency": "GBP",
+    "customId": "E2E-BG-0022",
+    "eventId": "WH-000043",
+    "rawRef": "synthetic://paypal/WH-000043",
+    "ts": "2026-10-30T15:27:09Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 392.66,
+    "currency": "GBP",
+    "customId": "E2E-BG-0022",
+    "eventId": "WH-000044",
+    "rawRef": "synthetic://paypal/WH-000044",
+    "ts": "2026-10-30T15:28:09Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1319.73,
+    "currency": "EUR",
+    "customId": "E2E-BG-0023",
+    "eventId": "WH-000045",
+    "rawRef": "synthetic://paypal/WH-000045",
+    "ts": "2026-10-25T15:49:37Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1319.73,
+    "currency": "EUR",
+    "customId": "E2E-BG-0023",
+    "eventId": "WH-000046",
+    "rawRef": "synthetic://paypal/WH-000046",
+    "ts": "2026-10-25T15:50:37Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1603.93,
+    "currency": "EUR",
+    "customId": "E2E-BG-0024",
+    "eventId": "WH-000047",
+    "rawRef": "synthetic://paypal/WH-000047",
+    "ts": "2026-10-27T08:06:38Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1603.93,
+    "currency": "EUR",
+    "customId": "E2E-BG-0024",
+    "eventId": "WH-000048",
+    "rawRef": "synthetic://paypal/WH-000048",
+    "ts": "2026-10-27T08:07:38Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2931.85,
+    "currency": "USD",
+    "customId": "E2E-BG-0025",
+    "eventId": "WH-000049",
+    "rawRef": "synthetic://paypal/WH-000049",
+    "ts": "2026-11-17T21:17:09Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2931.85,
+    "currency": "USD",
+    "customId": "E2E-BG-0025",
+    "eventId": "WH-000050",
+    "rawRef": "synthetic://paypal/WH-000050",
+    "ts": "2026-11-17T21:18:09Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2688.9,
+    "currency": "USD",
+    "customId": "E2E-BG-0026",
+    "eventId": "WH-000051",
+    "rawRef": "synthetic://paypal/WH-000051",
+    "ts": "2026-10-17T08:40:06Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2688.9,
+    "currency": "USD",
+    "customId": "E2E-BG-0026",
+    "eventId": "WH-000052",
+    "rawRef": "synthetic://paypal/WH-000052",
+    "ts": "2026-10-17T08:41:06Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 804.92,
+    "currency": "GBP",
+    "customId": "E2E-BG-0027",
+    "eventId": "WH-000053",
+    "rawRef": "synthetic://paypal/WH-000053",
+    "ts": "2026-10-15T21:20:52Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 804.92,
+    "currency": "GBP",
+    "customId": "E2E-BG-0027",
+    "eventId": "WH-000054",
+    "rawRef": "synthetic://paypal/WH-000054",
+    "ts": "2026-10-15T21:21:52Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4182.91,
+    "currency": "EUR",
+    "customId": "E2E-BG-0028",
+    "eventId": "WH-000055",
+    "rawRef": "synthetic://paypal/WH-000055",
+    "ts": "2026-10-21T22:31:02Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4182.91,
+    "currency": "EUR",
+    "customId": "E2E-BG-0028",
+    "eventId": "WH-000056",
+    "rawRef": "synthetic://paypal/WH-000056",
+    "ts": "2026-10-21T22:32:02Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 263.77,
+    "currency": "EUR",
+    "customId": "E2E-BG-0029",
+    "eventId": "WH-000057",
+    "rawRef": "synthetic://paypal/WH-000057",
+    "ts": "2026-11-05T10:13:25Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 263.77,
+    "currency": "EUR",
+    "customId": "E2E-BG-0029",
+    "eventId": "WH-000058",
+    "rawRef": "synthetic://paypal/WH-000058",
+    "ts": "2026-11-05T10:14:25Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2788.65,
+    "currency": "GBP",
+    "customId": "E2E-BG-0030",
+    "eventId": "WH-000059",
+    "rawRef": "synthetic://paypal/WH-000059",
+    "ts": "2026-11-02T10:51:09Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2788.65,
+    "currency": "GBP",
+    "customId": "E2E-BG-0030",
+    "eventId": "WH-000060",
+    "rawRef": "synthetic://paypal/WH-000060",
+    "ts": "2026-11-02T10:52:09Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 624.84,
+    "currency": "USD",
+    "customId": "E2E-BG-0031",
+    "eventId": "WH-000061",
+    "rawRef": "synthetic://paypal/WH-000061",
+    "ts": "2026-10-18T06:52:14Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 624.84,
+    "currency": "USD",
+    "customId": "E2E-BG-0031",
+    "eventId": "WH-000062",
+    "rawRef": "synthetic://paypal/WH-000062",
+    "ts": "2026-10-18T06:53:14Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1873.75,
+    "currency": "GBP",
+    "customId": "E2E-BG-0032",
+    "eventId": "WH-000063",
+    "rawRef": "synthetic://paypal/WH-000063",
+    "ts": "2026-10-30T22:42:41Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1873.75,
+    "currency": "GBP",
+    "customId": "E2E-BG-0032",
+    "eventId": "WH-000064",
+    "rawRef": "synthetic://paypal/WH-000064",
+    "ts": "2026-10-30T22:43:41Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 128.56,
+    "currency": "USD",
+    "customId": "E2E-BG-0033",
+    "eventId": "WH-000065",
+    "rawRef": "synthetic://paypal/WH-000065",
+    "ts": "2026-10-15T03:21:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 128.56,
+    "currency": "USD",
+    "customId": "E2E-BG-0033",
+    "eventId": "WH-000066",
+    "rawRef": "synthetic://paypal/WH-000066",
+    "ts": "2026-10-15T03:22:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4527.29,
+    "currency": "EUR",
+    "customId": "E2E-BG-0034",
+    "eventId": "WH-000067",
+    "rawRef": "synthetic://paypal/WH-000067",
+    "ts": "2026-10-15T23:09:46Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4527.29,
+    "currency": "EUR",
+    "customId": "E2E-BG-0034",
+    "eventId": "WH-000068",
+    "rawRef": "synthetic://paypal/WH-000068",
+    "ts": "2026-10-15T23:10:46Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2177.12,
+    "currency": "GBP",
+    "customId": "E2E-BG-0035",
+    "eventId": "WH-000069",
+    "rawRef": "synthetic://paypal/WH-000069",
+    "ts": "2026-11-08T08:37:24Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2177.12,
+    "currency": "GBP",
+    "customId": "E2E-BG-0035",
+    "eventId": "WH-000070",
+    "rawRef": "synthetic://paypal/WH-000070",
+    "ts": "2026-11-08T08:38:24Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1782.64,
+    "currency": "USD",
+    "customId": "E2E-BG-0036",
+    "eventId": "WH-000071",
+    "rawRef": "synthetic://paypal/WH-000071",
+    "ts": "2026-10-19T21:20:05Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1782.64,
+    "currency": "USD",
+    "customId": "E2E-BG-0036",
+    "eventId": "WH-000072",
+    "rawRef": "synthetic://paypal/WH-000072",
+    "ts": "2026-10-19T21:21:05Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3103.5,
+    "currency": "USD",
+    "customId": "E2E-BG-0037",
+    "eventId": "WH-000073",
+    "rawRef": "synthetic://paypal/WH-000073",
+    "ts": "2026-11-10T07:29:09Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3103.5,
+    "currency": "USD",
+    "customId": "E2E-BG-0037",
+    "eventId": "WH-000074",
+    "rawRef": "synthetic://paypal/WH-000074",
+    "ts": "2026-11-10T07:30:09Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 323.68,
+    "currency": "EUR",
+    "customId": "E2E-BG-0038",
+    "eventId": "WH-000075",
+    "rawRef": "synthetic://paypal/WH-000075",
+    "ts": "2026-11-03T18:06:41Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 323.68,
+    "currency": "EUR",
+    "customId": "E2E-BG-0038",
+    "eventId": "WH-000076",
+    "rawRef": "synthetic://paypal/WH-000076",
+    "ts": "2026-11-03T18:07:41Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1260.76,
+    "currency": "GBP",
+    "customId": "E2E-BG-0039",
+    "eventId": "WH-000077",
+    "rawRef": "synthetic://paypal/WH-000077",
+    "ts": "2026-11-06T00:37:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1260.76,
+    "currency": "GBP",
+    "customId": "E2E-BG-0039",
+    "eventId": "WH-000078",
+    "rawRef": "synthetic://paypal/WH-000078",
+    "ts": "2026-11-06T00:38:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2408.83,
+    "currency": "EUR",
+    "customId": "E2E-BG-0040",
+    "eventId": "WH-000079",
+    "rawRef": "synthetic://paypal/WH-000079",
+    "ts": "2026-10-28T22:23:45Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2408.83,
+    "currency": "EUR",
+    "customId": "E2E-BG-0040",
+    "eventId": "WH-000080",
+    "rawRef": "synthetic://paypal/WH-000080",
+    "ts": "2026-10-28T22:24:45Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 915.48,
+    "currency": "EUR",
+    "customId": "E2E-BG-0041",
+    "eventId": "WH-000081",
+    "rawRef": "synthetic://paypal/WH-000081",
+    "ts": "2026-10-24T15:04:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 915.48,
+    "currency": "EUR",
+    "customId": "E2E-BG-0041",
+    "eventId": "WH-000082",
+    "rawRef": "synthetic://paypal/WH-000082",
+    "ts": "2026-10-24T15:05:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 311.78,
+    "currency": "EUR",
+    "customId": "E2E-BG-0042",
+    "eventId": "WH-000083",
+    "rawRef": "synthetic://paypal/WH-000083",
+    "ts": "2026-10-25T03:18:37Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 311.78,
+    "currency": "EUR",
+    "customId": "E2E-BG-0042",
+    "eventId": "WH-000084",
+    "rawRef": "synthetic://paypal/WH-000084",
+    "ts": "2026-10-25T03:19:37Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1254.33,
+    "currency": "USD",
+    "customId": "E2E-BG-0043",
+    "eventId": "WH-000085",
+    "rawRef": "synthetic://paypal/WH-000085",
+    "ts": "2026-10-16T08:39:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1254.33,
+    "currency": "USD",
+    "customId": "E2E-BG-0043",
+    "eventId": "WH-000086",
+    "rawRef": "synthetic://paypal/WH-000086",
+    "ts": "2026-10-16T08:40:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4982.03,
+    "currency": "USD",
+    "customId": "E2E-BG-0044",
+    "eventId": "WH-000087",
+    "rawRef": "synthetic://paypal/WH-000087",
+    "ts": "2026-11-17T14:10:56Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4982.03,
+    "currency": "USD",
+    "customId": "E2E-BG-0044",
+    "eventId": "WH-000088",
+    "rawRef": "synthetic://paypal/WH-000088",
+    "ts": "2026-11-17T14:11:56Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 896.98,
+    "currency": "GBP",
+    "customId": "E2E-BG-0045",
+    "eventId": "WH-000089",
+    "rawRef": "synthetic://paypal/WH-000089",
+    "ts": "2026-10-19T22:23:21Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 896.98,
+    "currency": "GBP",
+    "customId": "E2E-BG-0045",
+    "eventId": "WH-000090",
+    "rawRef": "synthetic://paypal/WH-000090",
+    "ts": "2026-10-19T22:24:21Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3523.2,
+    "currency": "EUR",
+    "customId": "E2E-BG-0046",
+    "eventId": "WH-000091",
+    "rawRef": "synthetic://paypal/WH-000091",
+    "ts": "2026-10-12T20:51:46Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3523.2,
+    "currency": "EUR",
+    "customId": "E2E-BG-0046",
+    "eventId": "WH-000092",
+    "rawRef": "synthetic://paypal/WH-000092",
+    "ts": "2026-10-12T20:52:46Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2719.78,
+    "currency": "USD",
+    "customId": "E2E-BG-0047",
+    "eventId": "WH-000093",
+    "rawRef": "synthetic://paypal/WH-000093",
+    "ts": "2026-11-04T09:29:08Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2719.78,
+    "currency": "USD",
+    "customId": "E2E-BG-0047",
+    "eventId": "WH-000094",
+    "rawRef": "synthetic://paypal/WH-000094",
+    "ts": "2026-11-04T09:30:08Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 119.24,
+    "currency": "EUR",
+    "customId": "E2E-BG-0048",
+    "eventId": "WH-000095",
+    "rawRef": "synthetic://paypal/WH-000095",
+    "ts": "2026-10-22T02:55:51Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 119.24,
+    "currency": "EUR",
+    "customId": "E2E-BG-0048",
+    "eventId": "WH-000096",
+    "rawRef": "synthetic://paypal/WH-000096",
+    "ts": "2026-10-22T02:56:51Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1716.98,
+    "currency": "USD",
+    "customId": "E2E-BG-0049",
+    "eventId": "WH-000097",
+    "rawRef": "synthetic://paypal/WH-000097",
+    "ts": "2026-10-17T20:01:52Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1716.98,
+    "currency": "USD",
+    "customId": "E2E-BG-0049",
+    "eventId": "WH-000098",
+    "rawRef": "synthetic://paypal/WH-000098",
+    "ts": "2026-10-17T20:02:52Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 755.61,
+    "currency": "GBP",
+    "customId": "E2E-BG-0050",
+    "eventId": "WH-000099",
+    "rawRef": "synthetic://paypal/WH-000099",
+    "ts": "2026-10-12T13:31:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 755.61,
+    "currency": "GBP",
+    "customId": "E2E-BG-0050",
+    "eventId": "WH-000100",
+    "rawRef": "synthetic://paypal/WH-000100",
+    "ts": "2026-10-12T13:32:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4803.58,
+    "currency": "EUR",
+    "customId": "E2E-BG-0051",
+    "eventId": "WH-000101",
+    "rawRef": "synthetic://paypal/WH-000101",
+    "ts": "2026-10-29T05:07:38Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4803.58,
+    "currency": "EUR",
+    "customId": "E2E-BG-0051",
+    "eventId": "WH-000102",
+    "rawRef": "synthetic://paypal/WH-000102",
+    "ts": "2026-10-29T05:08:38Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1522.79,
+    "currency": "USD",
+    "customId": "E2E-BG-0052",
+    "eventId": "WH-000103",
+    "rawRef": "synthetic://paypal/WH-000103",
+    "ts": "2026-10-27T20:07:19Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1522.79,
+    "currency": "USD",
+    "customId": "E2E-BG-0052",
+    "eventId": "WH-000104",
+    "rawRef": "synthetic://paypal/WH-000104",
+    "ts": "2026-10-27T20:08:19Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4804.1,
+    "currency": "GBP",
+    "customId": "E2E-BG-0053",
+    "eventId": "WH-000105",
+    "rawRef": "synthetic://paypal/WH-000105",
+    "ts": "2026-11-11T12:47:55Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4804.1,
+    "currency": "GBP",
+    "customId": "E2E-BG-0053",
+    "eventId": "WH-000106",
+    "rawRef": "synthetic://paypal/WH-000106",
+    "ts": "2026-11-11T12:48:55Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3939.22,
+    "currency": "USD",
+    "customId": "E2E-BG-0054",
+    "eventId": "WH-000107",
+    "rawRef": "synthetic://paypal/WH-000107",
+    "ts": "2026-11-10T07:01:22Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3939.22,
+    "currency": "USD",
+    "customId": "E2E-BG-0054",
+    "eventId": "WH-000108",
+    "rawRef": "synthetic://paypal/WH-000108",
+    "ts": "2026-11-10T07:02:22Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3448.72,
+    "currency": "USD",
+    "customId": "E2E-BG-0055",
+    "eventId": "WH-000109",
+    "rawRef": "synthetic://paypal/WH-000109",
+    "ts": "2026-11-16T03:09:58Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3448.72,
+    "currency": "USD",
+    "customId": "E2E-BG-0055",
+    "eventId": "WH-000110",
+    "rawRef": "synthetic://paypal/WH-000110",
+    "ts": "2026-11-16T03:10:58Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4256.77,
+    "currency": "GBP",
+    "customId": "E2E-BG-0056",
+    "eventId": "WH-000111",
+    "rawRef": "synthetic://paypal/WH-000111",
+    "ts": "2026-10-30T12:14:55Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4256.77,
+    "currency": "GBP",
+    "customId": "E2E-BG-0056",
+    "eventId": "WH-000112",
+    "rawRef": "synthetic://paypal/WH-000112",
+    "ts": "2026-10-30T12:15:55Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3205.44,
+    "currency": "USD",
+    "customId": "E2E-BG-0057",
+    "eventId": "WH-000113",
+    "rawRef": "synthetic://paypal/WH-000113",
+    "ts": "2026-10-22T05:21:41Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3205.44,
+    "currency": "USD",
+    "customId": "E2E-BG-0057",
+    "eventId": "WH-000114",
+    "rawRef": "synthetic://paypal/WH-000114",
+    "ts": "2026-10-22T05:22:41Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1747.11,
+    "currency": "EUR",
+    "customId": "E2E-BG-0058",
+    "eventId": "WH-000115",
+    "rawRef": "synthetic://paypal/WH-000115",
+    "ts": "2026-10-23T01:17:07Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1747.11,
+    "currency": "EUR",
+    "customId": "E2E-BG-0058",
+    "eventId": "WH-000116",
+    "rawRef": "synthetic://paypal/WH-000116",
+    "ts": "2026-10-23T01:18:07Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3356.72,
+    "currency": "GBP",
+    "customId": "E2E-BG-0059",
+    "eventId": "WH-000117",
+    "rawRef": "synthetic://paypal/WH-000117",
+    "ts": "2026-11-14T22:00:18Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3356.72,
+    "currency": "GBP",
+    "customId": "E2E-BG-0059",
+    "eventId": "WH-000118",
+    "rawRef": "synthetic://paypal/WH-000118",
+    "ts": "2026-11-14T22:01:18Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3472.02,
+    "currency": "EUR",
+    "customId": "E2E-BG-0060",
+    "eventId": "WH-000119",
+    "rawRef": "synthetic://paypal/WH-000119",
+    "ts": "2026-10-23T14:44:10Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3472.02,
+    "currency": "EUR",
+    "customId": "E2E-BG-0060",
+    "eventId": "WH-000120",
+    "rawRef": "synthetic://paypal/WH-000120",
+    "ts": "2026-10-23T14:45:10Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2202.34,
+    "currency": "EUR",
+    "customId": "E2E-BG-0061",
+    "eventId": "WH-000121",
+    "rawRef": "synthetic://paypal/WH-000121",
+    "ts": "2026-10-30T05:38:57Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2202.34,
+    "currency": "EUR",
+    "customId": "E2E-BG-0061",
+    "eventId": "WH-000122",
+    "rawRef": "synthetic://paypal/WH-000122",
+    "ts": "2026-10-30T05:39:57Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1769.13,
+    "currency": "EUR",
+    "customId": "E2E-BG-0062",
+    "eventId": "WH-000123",
+    "rawRef": "synthetic://paypal/WH-000123",
+    "ts": "2026-10-29T21:13:55Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1769.13,
+    "currency": "EUR",
+    "customId": "E2E-BG-0062",
+    "eventId": "WH-000124",
+    "rawRef": "synthetic://paypal/WH-000124",
+    "ts": "2026-10-29T21:14:55Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3796.05,
+    "currency": "USD",
+    "customId": "E2E-BG-0063",
+    "eventId": "WH-000125",
+    "rawRef": "synthetic://paypal/WH-000125",
+    "ts": "2026-11-12T02:26:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3796.05,
+    "currency": "USD",
+    "customId": "E2E-BG-0063",
+    "eventId": "WH-000126",
+    "rawRef": "synthetic://paypal/WH-000126",
+    "ts": "2026-11-12T02:27:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 119.99,
+    "currency": "EUR",
+    "customId": "E2E-BG-0064",
+    "eventId": "WH-000127",
+    "rawRef": "synthetic://paypal/WH-000127",
+    "ts": "2026-10-25T19:35:36Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 119.99,
+    "currency": "EUR",
+    "customId": "E2E-BG-0064",
+    "eventId": "WH-000128",
+    "rawRef": "synthetic://paypal/WH-000128",
+    "ts": "2026-10-25T19:36:36Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 821.3,
+    "currency": "USD",
+    "customId": "E2E-BG-0065",
+    "eventId": "WH-000129",
+    "rawRef": "synthetic://paypal/WH-000129",
+    "ts": "2026-10-29T17:26:24Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 821.3,
+    "currency": "USD",
+    "customId": "E2E-BG-0065",
+    "eventId": "WH-000130",
+    "rawRef": "synthetic://paypal/WH-000130",
+    "ts": "2026-10-29T17:27:24Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4926.67,
+    "currency": "EUR",
+    "customId": "E2E-BG-0066",
+    "eventId": "WH-000131",
+    "rawRef": "synthetic://paypal/WH-000131",
+    "ts": "2026-11-09T08:05:44Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4926.67,
+    "currency": "EUR",
+    "customId": "E2E-BG-0066",
+    "eventId": "WH-000132",
+    "rawRef": "synthetic://paypal/WH-000132",
+    "ts": "2026-11-09T08:06:44Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4450.97,
+    "currency": "USD",
+    "customId": "E2E-BG-0067",
+    "eventId": "WH-000133",
+    "rawRef": "synthetic://paypal/WH-000133",
+    "ts": "2026-11-09T23:34:34Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4450.97,
+    "currency": "USD",
+    "customId": "E2E-BG-0067",
+    "eventId": "WH-000134",
+    "rawRef": "synthetic://paypal/WH-000134",
+    "ts": "2026-11-09T23:35:34Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2779.48,
+    "currency": "GBP",
+    "customId": "E2E-BG-0068",
+    "eventId": "WH-000135",
+    "rawRef": "synthetic://paypal/WH-000135",
+    "ts": "2026-11-14T08:17:34Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2779.48,
+    "currency": "GBP",
+    "customId": "E2E-BG-0068",
+    "eventId": "WH-000136",
+    "rawRef": "synthetic://paypal/WH-000136",
+    "ts": "2026-11-14T08:18:34Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 267.18,
+    "currency": "GBP",
+    "customId": "E2E-BG-0069",
+    "eventId": "WH-000137",
+    "rawRef": "synthetic://paypal/WH-000137",
+    "ts": "2026-10-16T03:45:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 267.18,
+    "currency": "GBP",
+    "customId": "E2E-BG-0069",
+    "eventId": "WH-000138",
+    "rawRef": "synthetic://paypal/WH-000138",
+    "ts": "2026-10-16T03:46:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2149.48,
+    "currency": "EUR",
+    "customId": "E2E-BG-0070",
+    "eventId": "WH-000139",
+    "rawRef": "synthetic://paypal/WH-000139",
+    "ts": "2026-10-11T16:26:43Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2149.48,
+    "currency": "EUR",
+    "customId": "E2E-BG-0070",
+    "eventId": "WH-000140",
+    "rawRef": "synthetic://paypal/WH-000140",
+    "ts": "2026-10-11T16:27:43Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 148.16,
+    "currency": "USD",
+    "customId": "E2E-BG-0071",
+    "eventId": "WH-000141",
+    "rawRef": "synthetic://paypal/WH-000141",
+    "ts": "2026-10-16T04:59:52Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 148.16,
+    "currency": "USD",
+    "customId": "E2E-BG-0071",
+    "eventId": "WH-000142",
+    "rawRef": "synthetic://paypal/WH-000142",
+    "ts": "2026-10-16T05:00:52Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1555.6,
+    "currency": "EUR",
+    "customId": "E2E-BG-0072",
+    "eventId": "WH-000143",
+    "rawRef": "synthetic://paypal/WH-000143",
+    "ts": "2026-10-17T02:34:39Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1555.6,
+    "currency": "EUR",
+    "customId": "E2E-BG-0072",
+    "eventId": "WH-000144",
+    "rawRef": "synthetic://paypal/WH-000144",
+    "ts": "2026-10-17T02:35:39Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2729.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0073",
+    "eventId": "WH-000145",
+    "rawRef": "synthetic://paypal/WH-000145",
+    "ts": "2026-11-11T15:49:42Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2729.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0073",
+    "eventId": "WH-000146",
+    "rawRef": "synthetic://paypal/WH-000146",
+    "ts": "2026-11-11T15:50:42Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1331.21,
+    "currency": "EUR",
+    "customId": "E2E-BG-0074",
+    "eventId": "WH-000147",
+    "rawRef": "synthetic://paypal/WH-000147",
+    "ts": "2026-10-13T15:58:56Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1331.21,
+    "currency": "EUR",
+    "customId": "E2E-BG-0074",
+    "eventId": "WH-000148",
+    "rawRef": "synthetic://paypal/WH-000148",
+    "ts": "2026-10-13T15:59:56Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3766.13,
+    "currency": "GBP",
+    "customId": "E2E-BG-0075",
+    "eventId": "WH-000149",
+    "rawRef": "synthetic://paypal/WH-000149",
+    "ts": "2026-10-18T20:04:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3766.13,
+    "currency": "GBP",
+    "customId": "E2E-BG-0075",
+    "eventId": "WH-000150",
+    "rawRef": "synthetic://paypal/WH-000150",
+    "ts": "2026-10-18T20:05:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4854.11,
+    "currency": "GBP",
+    "customId": "E2E-BG-0076",
+    "eventId": "WH-000151",
+    "rawRef": "synthetic://paypal/WH-000151",
+    "ts": "2026-10-31T14:19:45Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4854.11,
+    "currency": "GBP",
+    "customId": "E2E-BG-0076",
+    "eventId": "WH-000152",
+    "rawRef": "synthetic://paypal/WH-000152",
+    "ts": "2026-10-31T14:20:45Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2104.79,
+    "currency": "GBP",
+    "customId": "E2E-BG-0077",
+    "eventId": "WH-000153",
+    "rawRef": "synthetic://paypal/WH-000153",
+    "ts": "2026-11-05T20:51:08Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2104.79,
+    "currency": "GBP",
+    "customId": "E2E-BG-0077",
+    "eventId": "WH-000154",
+    "rawRef": "synthetic://paypal/WH-000154",
+    "ts": "2026-11-05T20:52:08Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2391.79,
+    "currency": "USD",
+    "customId": "E2E-BG-0078",
+    "eventId": "WH-000155",
+    "rawRef": "synthetic://paypal/WH-000155",
+    "ts": "2026-10-22T22:32:34Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2391.79,
+    "currency": "USD",
+    "customId": "E2E-BG-0078",
+    "eventId": "WH-000156",
+    "rawRef": "synthetic://paypal/WH-000156",
+    "ts": "2026-10-22T22:33:34Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4504.27,
+    "currency": "GBP",
+    "customId": "E2E-BG-0079",
+    "eventId": "WH-000157",
+    "rawRef": "synthetic://paypal/WH-000157",
+    "ts": "2026-11-08T05:31:10Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4504.27,
+    "currency": "GBP",
+    "customId": "E2E-BG-0079",
+    "eventId": "WH-000158",
+    "rawRef": "synthetic://paypal/WH-000158",
+    "ts": "2026-11-08T05:32:10Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 880.94,
+    "currency": "USD",
+    "customId": "E2E-BG-0080",
+    "eventId": "WH-000159",
+    "rawRef": "synthetic://paypal/WH-000159",
+    "ts": "2026-11-02T07:10:09Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 880.94,
+    "currency": "USD",
+    "customId": "E2E-BG-0080",
+    "eventId": "WH-000160",
+    "rawRef": "synthetic://paypal/WH-000160",
+    "ts": "2026-11-02T07:11:09Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 410.28,
+    "currency": "GBP",
+    "customId": "E2E-BG-0081",
+    "eventId": "WH-000161",
+    "rawRef": "synthetic://paypal/WH-000161",
+    "ts": "2026-11-01T01:16:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 410.28,
+    "currency": "GBP",
+    "customId": "E2E-BG-0081",
+    "eventId": "WH-000162",
+    "rawRef": "synthetic://paypal/WH-000162",
+    "ts": "2026-11-01T01:17:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1304.27,
+    "currency": "GBP",
+    "customId": "E2E-BG-0082",
+    "eventId": "WH-000163",
+    "rawRef": "synthetic://paypal/WH-000163",
+    "ts": "2026-11-09T09:16:50Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1304.27,
+    "currency": "GBP",
+    "customId": "E2E-BG-0082",
+    "eventId": "WH-000164",
+    "rawRef": "synthetic://paypal/WH-000164",
+    "ts": "2026-11-09T09:17:50Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2769.23,
+    "currency": "EUR",
+    "customId": "E2E-BG-0083",
+    "eventId": "WH-000165",
+    "rawRef": "synthetic://paypal/WH-000165",
+    "ts": "2026-10-30T18:57:07Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2769.23,
+    "currency": "EUR",
+    "customId": "E2E-BG-0083",
+    "eventId": "WH-000166",
+    "rawRef": "synthetic://paypal/WH-000166",
+    "ts": "2026-10-30T18:58:07Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3122.83,
+    "currency": "GBP",
+    "customId": "E2E-BG-0084",
+    "eventId": "WH-000167",
+    "rawRef": "synthetic://paypal/WH-000167",
+    "ts": "2026-11-14T12:02:21Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3122.83,
+    "currency": "GBP",
+    "customId": "E2E-BG-0084",
+    "eventId": "WH-000168",
+    "rawRef": "synthetic://paypal/WH-000168",
+    "ts": "2026-11-14T12:03:21Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2947.91,
+    "currency": "USD",
+    "customId": "E2E-BG-0085",
+    "eventId": "WH-000169",
+    "rawRef": "synthetic://paypal/WH-000169",
+    "ts": "2026-11-08T00:07:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2947.91,
+    "currency": "USD",
+    "customId": "E2E-BG-0085",
+    "eventId": "WH-000170",
+    "rawRef": "synthetic://paypal/WH-000170",
+    "ts": "2026-11-08T00:08:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4340.03,
+    "currency": "EUR",
+    "customId": "E2E-BG-0086",
+    "eventId": "WH-000171",
+    "rawRef": "synthetic://paypal/WH-000171",
+    "ts": "2026-10-25T09:19:20Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4340.03,
+    "currency": "EUR",
+    "customId": "E2E-BG-0086",
+    "eventId": "WH-000172",
+    "rawRef": "synthetic://paypal/WH-000172",
+    "ts": "2026-10-25T09:20:20Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3052.63,
+    "currency": "USD",
+    "customId": "E2E-BG-0087",
+    "eventId": "WH-000173",
+    "rawRef": "synthetic://paypal/WH-000173",
+    "ts": "2026-11-08T06:27:19Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3052.63,
+    "currency": "USD",
+    "customId": "E2E-BG-0087",
+    "eventId": "WH-000174",
+    "rawRef": "synthetic://paypal/WH-000174",
+    "ts": "2026-11-08T06:28:19Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3474.43,
+    "currency": "USD",
+    "customId": "E2E-BG-0088",
+    "eventId": "WH-000175",
+    "rawRef": "synthetic://paypal/WH-000175",
+    "ts": "2026-11-13T13:12:16Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3474.43,
+    "currency": "USD",
+    "customId": "E2E-BG-0088",
+    "eventId": "WH-000176",
+    "rawRef": "synthetic://paypal/WH-000176",
+    "ts": "2026-11-13T13:13:16Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3733.83,
+    "currency": "EUR",
+    "customId": "E2E-BG-0089",
+    "eventId": "WH-000177",
+    "rawRef": "synthetic://paypal/WH-000177",
+    "ts": "2026-10-13T21:25:41Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3733.83,
+    "currency": "EUR",
+    "customId": "E2E-BG-0089",
+    "eventId": "WH-000178",
+    "rawRef": "synthetic://paypal/WH-000178",
+    "ts": "2026-10-13T21:26:41Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1568.53,
+    "currency": "EUR",
+    "customId": "E2E-BG-0090",
+    "eventId": "WH-000179",
+    "rawRef": "synthetic://paypal/WH-000179",
+    "ts": "2026-10-26T05:05:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1568.53,
+    "currency": "EUR",
+    "customId": "E2E-BG-0090",
+    "eventId": "WH-000180",
+    "rawRef": "synthetic://paypal/WH-000180",
+    "ts": "2026-10-26T05:06:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1516.39,
+    "currency": "GBP",
+    "customId": "E2E-BG-0091",
+    "eventId": "WH-000181",
+    "rawRef": "synthetic://paypal/WH-000181",
+    "ts": "2026-10-18T00:34:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1516.39,
+    "currency": "GBP",
+    "customId": "E2E-BG-0091",
+    "eventId": "WH-000182",
+    "rawRef": "synthetic://paypal/WH-000182",
+    "ts": "2026-10-18T00:35:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3032.8,
+    "currency": "USD",
+    "customId": "E2E-BG-0092",
+    "eventId": "WH-000183",
+    "rawRef": "synthetic://paypal/WH-000183",
+    "ts": "2026-10-31T17:34:31Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3032.8,
+    "currency": "USD",
+    "customId": "E2E-BG-0092",
+    "eventId": "WH-000184",
+    "rawRef": "synthetic://paypal/WH-000184",
+    "ts": "2026-10-31T17:35:31Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2432.61,
+    "currency": "GBP",
+    "customId": "E2E-BG-0093",
+    "eventId": "WH-000185",
+    "rawRef": "synthetic://paypal/WH-000185",
+    "ts": "2026-11-16T11:15:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2432.61,
+    "currency": "GBP",
+    "customId": "E2E-BG-0093",
+    "eventId": "WH-000186",
+    "rawRef": "synthetic://paypal/WH-000186",
+    "ts": "2026-11-16T11:16:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 346.77,
+    "currency": "GBP",
+    "customId": "E2E-BG-0094",
+    "eventId": "WH-000187",
+    "rawRef": "synthetic://paypal/WH-000187",
+    "ts": "2026-10-19T05:12:58Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 346.77,
+    "currency": "GBP",
+    "customId": "E2E-BG-0094",
+    "eventId": "WH-000188",
+    "rawRef": "synthetic://paypal/WH-000188",
+    "ts": "2026-10-19T05:13:58Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 164.16,
+    "currency": "USD",
+    "customId": "E2E-BG-0095",
+    "eventId": "WH-000189",
+    "rawRef": "synthetic://paypal/WH-000189",
+    "ts": "2026-11-08T02:33:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 164.16,
+    "currency": "USD",
+    "customId": "E2E-BG-0095",
+    "eventId": "WH-000190",
+    "rawRef": "synthetic://paypal/WH-000190",
+    "ts": "2026-11-08T02:34:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2293.11,
+    "currency": "EUR",
+    "customId": "E2E-BG-0096",
+    "eventId": "WH-000191",
+    "rawRef": "synthetic://paypal/WH-000191",
+    "ts": "2026-10-13T02:31:50Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2293.11,
+    "currency": "EUR",
+    "customId": "E2E-BG-0096",
+    "eventId": "WH-000192",
+    "rawRef": "synthetic://paypal/WH-000192",
+    "ts": "2026-10-13T02:32:50Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1996.77,
+    "currency": "USD",
+    "customId": "E2E-BG-0097",
+    "eventId": "WH-000193",
+    "rawRef": "synthetic://paypal/WH-000193",
+    "ts": "2026-11-05T00:30:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1996.77,
+    "currency": "USD",
+    "customId": "E2E-BG-0097",
+    "eventId": "WH-000194",
+    "rawRef": "synthetic://paypal/WH-000194",
+    "ts": "2026-11-05T00:31:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 904.37,
+    "currency": "EUR",
+    "customId": "E2E-BG-0098",
+    "eventId": "WH-000195",
+    "rawRef": "synthetic://paypal/WH-000195",
+    "ts": "2026-11-02T03:44:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 904.37,
+    "currency": "EUR",
+    "customId": "E2E-BG-0098",
+    "eventId": "WH-000196",
+    "rawRef": "synthetic://paypal/WH-000196",
+    "ts": "2026-11-02T03:45:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3749.83,
+    "currency": "GBP",
+    "customId": "E2E-BG-0099",
+    "eventId": "WH-000197",
+    "rawRef": "synthetic://paypal/WH-000197",
+    "ts": "2026-10-24T01:21:38Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3749.83,
+    "currency": "GBP",
+    "customId": "E2E-BG-0099",
+    "eventId": "WH-000198",
+    "rawRef": "synthetic://paypal/WH-000198",
+    "ts": "2026-10-24T01:22:38Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3903.55,
+    "currency": "USD",
+    "customId": "E2E-BG-0100",
+    "eventId": "WH-000199",
+    "rawRef": "synthetic://paypal/WH-000199",
+    "ts": "2026-11-08T06:43:44Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3903.55,
+    "currency": "USD",
+    "customId": "E2E-BG-0100",
+    "eventId": "WH-000200",
+    "rawRef": "synthetic://paypal/WH-000200",
+    "ts": "2026-11-08T06:44:44Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3264.9,
+    "currency": "GBP",
+    "customId": "E2E-BG-0101",
+    "eventId": "WH-000201",
+    "rawRef": "synthetic://paypal/WH-000201",
+    "ts": "2026-10-24T13:30:18Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3264.9,
+    "currency": "GBP",
+    "customId": "E2E-BG-0101",
+    "eventId": "WH-000202",
+    "rawRef": "synthetic://paypal/WH-000202",
+    "ts": "2026-10-24T13:31:18Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2381.0,
+    "currency": "USD",
+    "customId": "E2E-BG-0102",
+    "eventId": "WH-000203",
+    "rawRef": "synthetic://paypal/WH-000203",
+    "ts": "2026-10-11T22:22:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2381.0,
+    "currency": "USD",
+    "customId": "E2E-BG-0102",
+    "eventId": "WH-000204",
+    "rawRef": "synthetic://paypal/WH-000204",
+    "ts": "2026-10-11T22:23:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3049.55,
+    "currency": "EUR",
+    "customId": "E2E-BG-0103",
+    "eventId": "WH-000205",
+    "rawRef": "synthetic://paypal/WH-000205",
+    "ts": "2026-10-23T18:03:22Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3049.55,
+    "currency": "EUR",
+    "customId": "E2E-BG-0103",
+    "eventId": "WH-000206",
+    "rawRef": "synthetic://paypal/WH-000206",
+    "ts": "2026-10-23T18:04:22Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4260.9,
+    "currency": "EUR",
+    "customId": "E2E-BG-0104",
+    "eventId": "WH-000207",
+    "rawRef": "synthetic://paypal/WH-000207",
+    "ts": "2026-10-29T18:37:32Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4260.9,
+    "currency": "EUR",
+    "customId": "E2E-BG-0104",
+    "eventId": "WH-000208",
+    "rawRef": "synthetic://paypal/WH-000208",
+    "ts": "2026-10-29T18:38:32Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1997.82,
+    "currency": "USD",
+    "customId": "E2E-BG-0105",
+    "eventId": "WH-000209",
+    "rawRef": "synthetic://paypal/WH-000209",
+    "ts": "2026-11-10T18:33:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1997.82,
+    "currency": "USD",
+    "customId": "E2E-BG-0105",
+    "eventId": "WH-000210",
+    "rawRef": "synthetic://paypal/WH-000210",
+    "ts": "2026-11-10T18:34:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2816.06,
+    "currency": "GBP",
+    "customId": "E2E-BG-0106",
+    "eventId": "WH-000211",
+    "rawRef": "synthetic://paypal/WH-000211",
+    "ts": "2026-10-29T16:00:33Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2816.06,
+    "currency": "GBP",
+    "customId": "E2E-BG-0106",
+    "eventId": "WH-000212",
+    "rawRef": "synthetic://paypal/WH-000212",
+    "ts": "2026-10-29T16:01:33Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1694.69,
+    "currency": "EUR",
+    "customId": "E2E-BG-0107",
+    "eventId": "WH-000213",
+    "rawRef": "synthetic://paypal/WH-000213",
+    "ts": "2026-10-14T14:22:32Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1694.69,
+    "currency": "EUR",
+    "customId": "E2E-BG-0107",
+    "eventId": "WH-000214",
+    "rawRef": "synthetic://paypal/WH-000214",
+    "ts": "2026-10-14T14:23:32Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4761.9,
+    "currency": "GBP",
+    "customId": "E2E-BG-0108",
+    "eventId": "WH-000215",
+    "rawRef": "synthetic://paypal/WH-000215",
+    "ts": "2026-11-15T00:29:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4761.9,
+    "currency": "GBP",
+    "customId": "E2E-BG-0108",
+    "eventId": "WH-000216",
+    "rawRef": "synthetic://paypal/WH-000216",
+    "ts": "2026-11-15T00:30:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4031.04,
+    "currency": "GBP",
+    "customId": "E2E-BG-0109",
+    "eventId": "WH-000217",
+    "rawRef": "synthetic://paypal/WH-000217",
+    "ts": "2026-10-14T06:08:50Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4031.04,
+    "currency": "GBP",
+    "customId": "E2E-BG-0109",
+    "eventId": "WH-000218",
+    "rawRef": "synthetic://paypal/WH-000218",
+    "ts": "2026-10-14T06:09:50Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3283.89,
+    "currency": "EUR",
+    "customId": "E2E-BG-0110",
+    "eventId": "WH-000219",
+    "rawRef": "synthetic://paypal/WH-000219",
+    "ts": "2026-10-12T17:39:27Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3283.89,
+    "currency": "EUR",
+    "customId": "E2E-BG-0110",
+    "eventId": "WH-000220",
+    "rawRef": "synthetic://paypal/WH-000220",
+    "ts": "2026-10-12T17:40:27Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2923.46,
+    "currency": "GBP",
+    "customId": "E2E-BG-0111",
+    "eventId": "WH-000221",
+    "rawRef": "synthetic://paypal/WH-000221",
+    "ts": "2026-10-13T05:08:58Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2923.46,
+    "currency": "GBP",
+    "customId": "E2E-BG-0111",
+    "eventId": "WH-000222",
+    "rawRef": "synthetic://paypal/WH-000222",
+    "ts": "2026-10-13T05:09:58Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2682.48,
+    "currency": "EUR",
+    "customId": "E2E-BG-0112",
+    "eventId": "WH-000223",
+    "rawRef": "synthetic://paypal/WH-000223",
+    "ts": "2026-11-13T19:37:06Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2682.48,
+    "currency": "EUR",
+    "customId": "E2E-BG-0112",
+    "eventId": "WH-000224",
+    "rawRef": "synthetic://paypal/WH-000224",
+    "ts": "2026-11-13T19:38:06Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4206.38,
+    "currency": "GBP",
+    "customId": "E2E-BG-0113",
+    "eventId": "WH-000225",
+    "rawRef": "synthetic://paypal/WH-000225",
+    "ts": "2026-10-19T18:02:55Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4206.38,
+    "currency": "GBP",
+    "customId": "E2E-BG-0113",
+    "eventId": "WH-000226",
+    "rawRef": "synthetic://paypal/WH-000226",
+    "ts": "2026-10-19T18:03:55Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3631.43,
+    "currency": "GBP",
+    "customId": "E2E-BG-0114",
+    "eventId": "WH-000227",
+    "rawRef": "synthetic://paypal/WH-000227",
+    "ts": "2026-10-24T01:21:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3631.43,
+    "currency": "GBP",
+    "customId": "E2E-BG-0114",
+    "eventId": "WH-000228",
+    "rawRef": "synthetic://paypal/WH-000228",
+    "ts": "2026-10-24T01:22:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 464.71,
+    "currency": "EUR",
+    "customId": "E2E-BG-0115",
+    "eventId": "WH-000229",
+    "rawRef": "synthetic://paypal/WH-000229",
+    "ts": "2026-11-12T06:28:17Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 464.71,
+    "currency": "EUR",
+    "customId": "E2E-BG-0115",
+    "eventId": "WH-000230",
+    "rawRef": "synthetic://paypal/WH-000230",
+    "ts": "2026-11-12T06:29:17Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1870.98,
+    "currency": "GBP",
+    "customId": "E2E-BG-0116",
+    "eventId": "WH-000231",
+    "rawRef": "synthetic://paypal/WH-000231",
+    "ts": "2026-10-27T14:00:44Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1870.98,
+    "currency": "GBP",
+    "customId": "E2E-BG-0116",
+    "eventId": "WH-000232",
+    "rawRef": "synthetic://paypal/WH-000232",
+    "ts": "2026-10-27T14:01:44Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2926.2,
+    "currency": "GBP",
+    "customId": "E2E-BG-0117",
+    "eventId": "WH-000233",
+    "rawRef": "synthetic://paypal/WH-000233",
+    "ts": "2026-11-11T07:07:32Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2926.2,
+    "currency": "GBP",
+    "customId": "E2E-BG-0117",
+    "eventId": "WH-000234",
+    "rawRef": "synthetic://paypal/WH-000234",
+    "ts": "2026-11-11T07:08:32Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1920.71,
+    "currency": "EUR",
+    "customId": "E2E-BG-0118",
+    "eventId": "WH-000235",
+    "rawRef": "synthetic://paypal/WH-000235",
+    "ts": "2026-11-13T13:04:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1920.71,
+    "currency": "EUR",
+    "customId": "E2E-BG-0118",
+    "eventId": "WH-000236",
+    "rawRef": "synthetic://paypal/WH-000236",
+    "ts": "2026-11-13T13:05:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1726.5,
+    "currency": "GBP",
+    "customId": "E2E-BG-0119",
+    "eventId": "WH-000237",
+    "rawRef": "synthetic://paypal/WH-000237",
+    "ts": "2026-10-21T05:21:44Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1726.5,
+    "currency": "GBP",
+    "customId": "E2E-BG-0119",
+    "eventId": "WH-000238",
+    "rawRef": "synthetic://paypal/WH-000238",
+    "ts": "2026-10-21T05:22:44Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 918.18,
+    "currency": "USD",
+    "customId": "E2E-BG-0120",
+    "eventId": "WH-000239",
+    "rawRef": "synthetic://paypal/WH-000239",
+    "ts": "2026-11-15T05:48:51Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 918.18,
+    "currency": "USD",
+    "customId": "E2E-BG-0120",
+    "eventId": "WH-000240",
+    "rawRef": "synthetic://paypal/WH-000240",
+    "ts": "2026-11-15T05:49:51Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 308.91,
+    "currency": "EUR",
+    "customId": "E2E-BG-0121",
+    "eventId": "WH-000241",
+    "rawRef": "synthetic://paypal/WH-000241",
+    "ts": "2026-11-11T07:14:41Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 308.91,
+    "currency": "EUR",
+    "customId": "E2E-BG-0121",
+    "eventId": "WH-000242",
+    "rawRef": "synthetic://paypal/WH-000242",
+    "ts": "2026-11-11T07:15:41Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 809.01,
+    "currency": "USD",
+    "customId": "E2E-BG-0122",
+    "eventId": "WH-000243",
+    "rawRef": "synthetic://paypal/WH-000243",
+    "ts": "2026-11-17T14:41:17Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 809.01,
+    "currency": "USD",
+    "customId": "E2E-BG-0122",
+    "eventId": "WH-000244",
+    "rawRef": "synthetic://paypal/WH-000244",
+    "ts": "2026-11-17T14:42:17Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4827.33,
+    "currency": "EUR",
+    "customId": "E2E-BG-0123",
+    "eventId": "WH-000245",
+    "rawRef": "synthetic://paypal/WH-000245",
+    "ts": "2026-11-01T07:51:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4827.33,
+    "currency": "EUR",
+    "customId": "E2E-BG-0123",
+    "eventId": "WH-000246",
+    "rawRef": "synthetic://paypal/WH-000246",
+    "ts": "2026-11-01T07:52:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4462.19,
+    "currency": "GBP",
+    "customId": "E2E-BG-0124",
+    "eventId": "WH-000247",
+    "rawRef": "synthetic://paypal/WH-000247",
+    "ts": "2026-10-12T04:24:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4462.19,
+    "currency": "GBP",
+    "customId": "E2E-BG-0124",
+    "eventId": "WH-000248",
+    "rawRef": "synthetic://paypal/WH-000248",
+    "ts": "2026-10-12T04:25:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1146.8,
+    "currency": "EUR",
+    "customId": "E2E-BG-0125",
+    "eventId": "WH-000249",
+    "rawRef": "synthetic://paypal/WH-000249",
+    "ts": "2026-10-23T13:53:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1146.8,
+    "currency": "EUR",
+    "customId": "E2E-BG-0125",
+    "eventId": "WH-000250",
+    "rawRef": "synthetic://paypal/WH-000250",
+    "ts": "2026-10-23T13:54:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 851.76,
+    "currency": "USD",
+    "customId": "E2E-BG-0126",
+    "eventId": "WH-000251",
+    "rawRef": "synthetic://paypal/WH-000251",
+    "ts": "2026-10-26T08:38:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 851.76,
+    "currency": "USD",
+    "customId": "E2E-BG-0126",
+    "eventId": "WH-000252",
+    "rawRef": "synthetic://paypal/WH-000252",
+    "ts": "2026-10-26T08:39:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2630.11,
+    "currency": "EUR",
+    "customId": "E2E-BG-0127",
+    "eventId": "WH-000253",
+    "rawRef": "synthetic://paypal/WH-000253",
+    "ts": "2026-11-09T10:49:16Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2630.11,
+    "currency": "EUR",
+    "customId": "E2E-BG-0127",
+    "eventId": "WH-000254",
+    "rawRef": "synthetic://paypal/WH-000254",
+    "ts": "2026-11-09T10:50:16Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3755.58,
+    "currency": "USD",
+    "customId": "E2E-BG-0128",
+    "eventId": "WH-000255",
+    "rawRef": "synthetic://paypal/WH-000255",
+    "ts": "2026-10-28T22:33:27Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3755.58,
+    "currency": "USD",
+    "customId": "E2E-BG-0128",
+    "eventId": "WH-000256",
+    "rawRef": "synthetic://paypal/WH-000256",
+    "ts": "2026-10-28T22:34:27Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1137.12,
+    "currency": "USD",
+    "customId": "E2E-BG-0129",
+    "eventId": "WH-000257",
+    "rawRef": "synthetic://paypal/WH-000257",
+    "ts": "2026-10-22T14:07:35Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1137.12,
+    "currency": "USD",
+    "customId": "E2E-BG-0129",
+    "eventId": "WH-000258",
+    "rawRef": "synthetic://paypal/WH-000258",
+    "ts": "2026-10-22T14:08:35Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1845.63,
+    "currency": "GBP",
+    "customId": "E2E-BG-0130",
+    "eventId": "WH-000259",
+    "rawRef": "synthetic://paypal/WH-000259",
+    "ts": "2026-10-17T11:29:38Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1845.63,
+    "currency": "GBP",
+    "customId": "E2E-BG-0130",
+    "eventId": "WH-000260",
+    "rawRef": "synthetic://paypal/WH-000260",
+    "ts": "2026-10-17T11:30:38Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2682.97,
+    "currency": "USD",
+    "customId": "E2E-BG-0131",
+    "eventId": "WH-000261",
+    "rawRef": "synthetic://paypal/WH-000261",
+    "ts": "2026-11-17T22:34:15Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2682.97,
+    "currency": "USD",
+    "customId": "E2E-BG-0131",
+    "eventId": "WH-000262",
+    "rawRef": "synthetic://paypal/WH-000262",
+    "ts": "2026-11-17T22:35:15Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 260.21,
+    "currency": "USD",
+    "customId": "E2E-BG-0132",
+    "eventId": "WH-000263",
+    "rawRef": "synthetic://paypal/WH-000263",
+    "ts": "2026-10-12T11:00:02Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 260.21,
+    "currency": "USD",
+    "customId": "E2E-BG-0132",
+    "eventId": "WH-000264",
+    "rawRef": "synthetic://paypal/WH-000264",
+    "ts": "2026-10-12T11:01:02Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3515.3,
+    "currency": "USD",
+    "customId": "E2E-BG-0133",
+    "eventId": "WH-000265",
+    "rawRef": "synthetic://paypal/WH-000265",
+    "ts": "2026-11-03T12:42:42Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3515.3,
+    "currency": "USD",
+    "customId": "E2E-BG-0133",
+    "eventId": "WH-000266",
+    "rawRef": "synthetic://paypal/WH-000266",
+    "ts": "2026-11-03T12:43:42Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 522.88,
+    "currency": "GBP",
+    "customId": "E2E-BG-0134",
+    "eventId": "WH-000267",
+    "rawRef": "synthetic://paypal/WH-000267",
+    "ts": "2026-11-12T14:53:42Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 522.88,
+    "currency": "GBP",
+    "customId": "E2E-BG-0134",
+    "eventId": "WH-000268",
+    "rawRef": "synthetic://paypal/WH-000268",
+    "ts": "2026-11-12T14:54:42Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2567.69,
+    "currency": "GBP",
+    "customId": "E2E-BG-0135",
+    "eventId": "WH-000269",
+    "rawRef": "synthetic://paypal/WH-000269",
+    "ts": "2026-10-16T14:14:02Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2567.69,
+    "currency": "GBP",
+    "customId": "E2E-BG-0135",
+    "eventId": "WH-000270",
+    "rawRef": "synthetic://paypal/WH-000270",
+    "ts": "2026-10-16T14:15:02Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3052.83,
+    "currency": "EUR",
+    "customId": "E2E-BG-0136",
+    "eventId": "WH-000271",
+    "rawRef": "synthetic://paypal/WH-000271",
+    "ts": "2026-10-21T03:26:24Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3052.83,
+    "currency": "EUR",
+    "customId": "E2E-BG-0136",
+    "eventId": "WH-000272",
+    "rawRef": "synthetic://paypal/WH-000272",
+    "ts": "2026-10-21T03:27:24Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1490.85,
+    "currency": "USD",
+    "customId": "E2E-BG-0137",
+    "eventId": "WH-000273",
+    "rawRef": "synthetic://paypal/WH-000273",
+    "ts": "2026-10-31T09:24:02Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1490.85,
+    "currency": "USD",
+    "customId": "E2E-BG-0137",
+    "eventId": "WH-000274",
+    "rawRef": "synthetic://paypal/WH-000274",
+    "ts": "2026-10-31T09:25:02Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1187.84,
+    "currency": "USD",
+    "customId": "E2E-BG-0138",
+    "eventId": "WH-000275",
+    "rawRef": "synthetic://paypal/WH-000275",
+    "ts": "2026-10-27T13:10:52Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1187.84,
+    "currency": "USD",
+    "customId": "E2E-BG-0138",
+    "eventId": "WH-000276",
+    "rawRef": "synthetic://paypal/WH-000276",
+    "ts": "2026-10-27T13:11:52Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2480.64,
+    "currency": "USD",
+    "customId": "E2E-BG-0139",
+    "eventId": "WH-000277",
+    "rawRef": "synthetic://paypal/WH-000277",
+    "ts": "2026-11-12T23:28:01Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2480.64,
+    "currency": "USD",
+    "customId": "E2E-BG-0139",
+    "eventId": "WH-000278",
+    "rawRef": "synthetic://paypal/WH-000278",
+    "ts": "2026-11-12T23:29:01Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3228.8,
+    "currency": "EUR",
+    "customId": "E2E-BG-0140",
+    "eventId": "WH-000279",
+    "rawRef": "synthetic://paypal/WH-000279",
+    "ts": "2026-10-23T22:08:09Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3228.8,
+    "currency": "EUR",
+    "customId": "E2E-BG-0140",
+    "eventId": "WH-000280",
+    "rawRef": "synthetic://paypal/WH-000280",
+    "ts": "2026-10-23T22:09:09Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4069.63,
+    "currency": "USD",
+    "customId": "E2E-BG-0141",
+    "eventId": "WH-000281",
+    "rawRef": "synthetic://paypal/WH-000281",
+    "ts": "2026-10-16T08:17:08Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4069.63,
+    "currency": "USD",
+    "customId": "E2E-BG-0141",
+    "eventId": "WH-000282",
+    "rawRef": "synthetic://paypal/WH-000282",
+    "ts": "2026-10-16T08:18:08Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3697.93,
+    "currency": "USD",
+    "customId": "E2E-BG-0142",
+    "eventId": "WH-000283",
+    "rawRef": "synthetic://paypal/WH-000283",
+    "ts": "2026-11-01T04:19:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3697.93,
+    "currency": "USD",
+    "customId": "E2E-BG-0142",
+    "eventId": "WH-000284",
+    "rawRef": "synthetic://paypal/WH-000284",
+    "ts": "2026-11-01T04:20:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3323.51,
+    "currency": "USD",
+    "customId": "E2E-BG-0143",
+    "eventId": "WH-000285",
+    "rawRef": "synthetic://paypal/WH-000285",
+    "ts": "2026-10-18T05:14:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3323.51,
+    "currency": "USD",
+    "customId": "E2E-BG-0143",
+    "eventId": "WH-000286",
+    "rawRef": "synthetic://paypal/WH-000286",
+    "ts": "2026-10-18T05:15:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 482.9,
+    "currency": "EUR",
+    "customId": "E2E-BG-0144",
+    "eventId": "WH-000287",
+    "rawRef": "synthetic://paypal/WH-000287",
+    "ts": "2026-11-16T02:05:09Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 482.9,
+    "currency": "EUR",
+    "customId": "E2E-BG-0144",
+    "eventId": "WH-000288",
+    "rawRef": "synthetic://paypal/WH-000288",
+    "ts": "2026-11-16T02:06:09Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3455.71,
+    "currency": "EUR",
+    "customId": "E2E-BG-0145",
+    "eventId": "WH-000289",
+    "rawRef": "synthetic://paypal/WH-000289",
+    "ts": "2026-10-30T05:23:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3455.71,
+    "currency": "EUR",
+    "customId": "E2E-BG-0145",
+    "eventId": "WH-000290",
+    "rawRef": "synthetic://paypal/WH-000290",
+    "ts": "2026-10-30T05:24:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 679.91,
+    "currency": "GBP",
+    "customId": "E2E-BG-0146",
+    "eventId": "WH-000291",
+    "rawRef": "synthetic://paypal/WH-000291",
+    "ts": "2026-10-16T23:43:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 679.91,
+    "currency": "GBP",
+    "customId": "E2E-BG-0146",
+    "eventId": "WH-000292",
+    "rawRef": "synthetic://paypal/WH-000292",
+    "ts": "2026-10-16T23:44:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4557.91,
+    "currency": "EUR",
+    "customId": "E2E-BG-0147",
+    "eventId": "WH-000293",
+    "rawRef": "synthetic://paypal/WH-000293",
+    "ts": "2026-10-31T16:42:26Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4557.91,
+    "currency": "EUR",
+    "customId": "E2E-BG-0147",
+    "eventId": "WH-000294",
+    "rawRef": "synthetic://paypal/WH-000294",
+    "ts": "2026-10-31T16:43:26Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3900.24,
+    "currency": "GBP",
+    "customId": "E2E-BG-0148",
+    "eventId": "WH-000295",
+    "rawRef": "synthetic://paypal/WH-000295",
+    "ts": "2026-10-29T22:26:30Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3900.24,
+    "currency": "GBP",
+    "customId": "E2E-BG-0148",
+    "eventId": "WH-000296",
+    "rawRef": "synthetic://paypal/WH-000296",
+    "ts": "2026-10-29T22:27:30Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2425.74,
+    "currency": "EUR",
+    "customId": "E2E-BG-0149",
+    "eventId": "WH-000297",
+    "rawRef": "synthetic://paypal/WH-000297",
+    "ts": "2026-10-17T20:13:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2425.74,
+    "currency": "EUR",
+    "customId": "E2E-BG-0149",
+    "eventId": "WH-000298",
+    "rawRef": "synthetic://paypal/WH-000298",
+    "ts": "2026-10-17T20:14:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3281.77,
+    "currency": "USD",
+    "customId": "E2E-BG-0150",
+    "eventId": "WH-000299",
+    "rawRef": "synthetic://paypal/WH-000299",
+    "ts": "2026-10-24T04:48:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3281.77,
+    "currency": "USD",
+    "customId": "E2E-BG-0150",
+    "eventId": "WH-000300",
+    "rawRef": "synthetic://paypal/WH-000300",
+    "ts": "2026-10-24T04:49:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3624.39,
+    "currency": "USD",
+    "customId": "E2E-BG-0151",
+    "eventId": "WH-000301",
+    "rawRef": "synthetic://paypal/WH-000301",
+    "ts": "2026-11-08T11:50:41Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3624.39,
+    "currency": "USD",
+    "customId": "E2E-BG-0151",
+    "eventId": "WH-000302",
+    "rawRef": "synthetic://paypal/WH-000302",
+    "ts": "2026-11-08T11:51:41Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3447.44,
+    "currency": "GBP",
+    "customId": "E2E-BG-0152",
+    "eventId": "WH-000303",
+    "rawRef": "synthetic://paypal/WH-000303",
+    "ts": "2026-11-05T21:27:33Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3447.44,
+    "currency": "GBP",
+    "customId": "E2E-BG-0152",
+    "eventId": "WH-000304",
+    "rawRef": "synthetic://paypal/WH-000304",
+    "ts": "2026-11-05T21:28:33Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3325.28,
+    "currency": "GBP",
+    "customId": "E2E-BG-0153",
+    "eventId": "WH-000305",
+    "rawRef": "synthetic://paypal/WH-000305",
+    "ts": "2026-10-28T06:49:38Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3325.28,
+    "currency": "GBP",
+    "customId": "E2E-BG-0153",
+    "eventId": "WH-000306",
+    "rawRef": "synthetic://paypal/WH-000306",
+    "ts": "2026-10-28T06:50:38Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 77.99,
+    "currency": "USD",
+    "customId": "E2E-BG-0154",
+    "eventId": "WH-000307",
+    "rawRef": "synthetic://paypal/WH-000307",
+    "ts": "2026-10-14T03:34:26Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 77.99,
+    "currency": "USD",
+    "customId": "E2E-BG-0154",
+    "eventId": "WH-000308",
+    "rawRef": "synthetic://paypal/WH-000308",
+    "ts": "2026-10-14T03:35:26Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 392.83,
+    "currency": "EUR",
+    "customId": "E2E-BG-0155",
+    "eventId": "WH-000309",
+    "rawRef": "synthetic://paypal/WH-000309",
+    "ts": "2026-10-19T12:42:34Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 392.83,
+    "currency": "EUR",
+    "customId": "E2E-BG-0155",
+    "eventId": "WH-000310",
+    "rawRef": "synthetic://paypal/WH-000310",
+    "ts": "2026-10-19T12:43:34Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1129.08,
+    "currency": "GBP",
+    "customId": "E2E-BG-0156",
+    "eventId": "WH-000311",
+    "rawRef": "synthetic://paypal/WH-000311",
+    "ts": "2026-11-05T02:36:55Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1129.08,
+    "currency": "GBP",
+    "customId": "E2E-BG-0156",
+    "eventId": "WH-000312",
+    "rawRef": "synthetic://paypal/WH-000312",
+    "ts": "2026-11-05T02:37:55Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4010.28,
+    "currency": "EUR",
+    "customId": "E2E-BG-0157",
+    "eventId": "WH-000313",
+    "rawRef": "synthetic://paypal/WH-000313",
+    "ts": "2026-11-02T01:31:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4010.28,
+    "currency": "EUR",
+    "customId": "E2E-BG-0157",
+    "eventId": "WH-000314",
+    "rawRef": "synthetic://paypal/WH-000314",
+    "ts": "2026-11-02T01:32:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3731.29,
+    "currency": "USD",
+    "customId": "E2E-BG-0158",
+    "eventId": "WH-000315",
+    "rawRef": "synthetic://paypal/WH-000315",
+    "ts": "2026-11-04T15:28:55Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3731.29,
+    "currency": "USD",
+    "customId": "E2E-BG-0158",
+    "eventId": "WH-000316",
+    "rawRef": "synthetic://paypal/WH-000316",
+    "ts": "2026-11-04T15:29:55Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4133.03,
+    "currency": "GBP",
+    "customId": "E2E-BG-0159",
+    "eventId": "WH-000317",
+    "rawRef": "synthetic://paypal/WH-000317",
+    "ts": "2026-10-11T12:11:51Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4133.03,
+    "currency": "GBP",
+    "customId": "E2E-BG-0159",
+    "eventId": "WH-000318",
+    "rawRef": "synthetic://paypal/WH-000318",
+    "ts": "2026-10-11T12:12:51Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1050.12,
+    "currency": "GBP",
+    "customId": "E2E-BG-0160",
+    "eventId": "WH-000319",
+    "rawRef": "synthetic://paypal/WH-000319",
+    "ts": "2026-11-07T19:09:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1050.12,
+    "currency": "GBP",
+    "customId": "E2E-BG-0160",
+    "eventId": "WH-000320",
+    "rawRef": "synthetic://paypal/WH-000320",
+    "ts": "2026-11-07T19:10:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4224.7,
+    "currency": "EUR",
+    "customId": "E2E-BG-0161",
+    "eventId": "WH-000321",
+    "rawRef": "synthetic://paypal/WH-000321",
+    "ts": "2026-10-22T07:43:06Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4224.7,
+    "currency": "EUR",
+    "customId": "E2E-BG-0161",
+    "eventId": "WH-000322",
+    "rawRef": "synthetic://paypal/WH-000322",
+    "ts": "2026-10-22T07:44:06Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1829.21,
+    "currency": "EUR",
+    "customId": "E2E-BG-0162",
+    "eventId": "WH-000323",
+    "rawRef": "synthetic://paypal/WH-000323",
+    "ts": "2026-11-12T09:39:19Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1829.21,
+    "currency": "EUR",
+    "customId": "E2E-BG-0162",
+    "eventId": "WH-000324",
+    "rawRef": "synthetic://paypal/WH-000324",
+    "ts": "2026-11-12T09:40:19Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1788.59,
+    "currency": "GBP",
+    "customId": "E2E-BG-0163",
+    "eventId": "WH-000325",
+    "rawRef": "synthetic://paypal/WH-000325",
+    "ts": "2026-10-28T01:42:35Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1788.59,
+    "currency": "GBP",
+    "customId": "E2E-BG-0163",
+    "eventId": "WH-000326",
+    "rawRef": "synthetic://paypal/WH-000326",
+    "ts": "2026-10-28T01:43:35Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 549.48,
+    "currency": "USD",
+    "customId": "E2E-BG-0164",
+    "eventId": "WH-000327",
+    "rawRef": "synthetic://paypal/WH-000327",
+    "ts": "2026-11-14T14:00:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 549.48,
+    "currency": "USD",
+    "customId": "E2E-BG-0164",
+    "eventId": "WH-000328",
+    "rawRef": "synthetic://paypal/WH-000328",
+    "ts": "2026-11-14T14:01:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 552.67,
+    "currency": "GBP",
+    "customId": "E2E-BG-0165",
+    "eventId": "WH-000329",
+    "rawRef": "synthetic://paypal/WH-000329",
+    "ts": "2026-10-31T08:45:54Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 552.67,
+    "currency": "GBP",
+    "customId": "E2E-BG-0165",
+    "eventId": "WH-000330",
+    "rawRef": "synthetic://paypal/WH-000330",
+    "ts": "2026-10-31T08:46:54Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2296.09,
+    "currency": "USD",
+    "customId": "E2E-BG-0166",
+    "eventId": "WH-000331",
+    "rawRef": "synthetic://paypal/WH-000331",
+    "ts": "2026-10-21T23:10:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2296.09,
+    "currency": "USD",
+    "customId": "E2E-BG-0166",
+    "eventId": "WH-000332",
+    "rawRef": "synthetic://paypal/WH-000332",
+    "ts": "2026-10-21T23:11:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4190.58,
+    "currency": "GBP",
+    "customId": "E2E-BG-0167",
+    "eventId": "WH-000333",
+    "rawRef": "synthetic://paypal/WH-000333",
+    "ts": "2026-11-11T05:46:43Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4190.58,
+    "currency": "GBP",
+    "customId": "E2E-BG-0167",
+    "eventId": "WH-000334",
+    "rawRef": "synthetic://paypal/WH-000334",
+    "ts": "2026-11-11T05:47:43Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4781.83,
+    "currency": "USD",
+    "customId": "E2E-BG-0168",
+    "eventId": "WH-000335",
+    "rawRef": "synthetic://paypal/WH-000335",
+    "ts": "2026-11-09T02:36:11Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4781.83,
+    "currency": "USD",
+    "customId": "E2E-BG-0168",
+    "eventId": "WH-000336",
+    "rawRef": "synthetic://paypal/WH-000336",
+    "ts": "2026-11-09T02:37:11Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4677.84,
+    "currency": "GBP",
+    "customId": "E2E-BG-0169",
+    "eventId": "WH-000337",
+    "rawRef": "synthetic://paypal/WH-000337",
+    "ts": "2026-11-07T08:33:19Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4677.84,
+    "currency": "GBP",
+    "customId": "E2E-BG-0169",
+    "eventId": "WH-000338",
+    "rawRef": "synthetic://paypal/WH-000338",
+    "ts": "2026-11-07T08:34:19Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 884.78,
+    "currency": "USD",
+    "customId": "E2E-BG-0170",
+    "eventId": "WH-000339",
+    "rawRef": "synthetic://paypal/WH-000339",
+    "ts": "2026-11-08T14:03:52Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 884.78,
+    "currency": "USD",
+    "customId": "E2E-BG-0170",
+    "eventId": "WH-000340",
+    "rawRef": "synthetic://paypal/WH-000340",
+    "ts": "2026-11-08T14:04:52Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2530.47,
+    "currency": "EUR",
+    "customId": "E2E-BG-0171",
+    "eventId": "WH-000341",
+    "rawRef": "synthetic://paypal/WH-000341",
+    "ts": "2026-10-27T02:58:30Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2530.47,
+    "currency": "EUR",
+    "customId": "E2E-BG-0171",
+    "eventId": "WH-000342",
+    "rawRef": "synthetic://paypal/WH-000342",
+    "ts": "2026-10-27T02:59:30Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1382.51,
+    "currency": "EUR",
+    "customId": "E2E-BG-0172",
+    "eventId": "WH-000343",
+    "rawRef": "synthetic://paypal/WH-000343",
+    "ts": "2026-10-23T13:13:08Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1382.51,
+    "currency": "EUR",
+    "customId": "E2E-BG-0172",
+    "eventId": "WH-000344",
+    "rawRef": "synthetic://paypal/WH-000344",
+    "ts": "2026-10-23T13:14:08Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3020.57,
+    "currency": "GBP",
+    "customId": "E2E-BG-0173",
+    "eventId": "WH-000345",
+    "rawRef": "synthetic://paypal/WH-000345",
+    "ts": "2026-10-31T12:52:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3020.57,
+    "currency": "GBP",
+    "customId": "E2E-BG-0173",
+    "eventId": "WH-000346",
+    "rawRef": "synthetic://paypal/WH-000346",
+    "ts": "2026-10-31T12:53:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3565.13,
+    "currency": "GBP",
+    "customId": "E2E-BG-0174",
+    "eventId": "WH-000347",
+    "rawRef": "synthetic://paypal/WH-000347",
+    "ts": "2026-10-26T17:43:57Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3565.13,
+    "currency": "GBP",
+    "customId": "E2E-BG-0174",
+    "eventId": "WH-000348",
+    "rawRef": "synthetic://paypal/WH-000348",
+    "ts": "2026-10-26T17:44:57Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3439.32,
+    "currency": "GBP",
+    "customId": "E2E-BG-0175",
+    "eventId": "WH-000349",
+    "rawRef": "synthetic://paypal/WH-000349",
+    "ts": "2026-10-25T14:32:58Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3439.32,
+    "currency": "GBP",
+    "customId": "E2E-BG-0175",
+    "eventId": "WH-000350",
+    "rawRef": "synthetic://paypal/WH-000350",
+    "ts": "2026-10-25T14:33:58Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3477.67,
+    "currency": "EUR",
+    "customId": "E2E-BG-0176",
+    "eventId": "WH-000351",
+    "rawRef": "synthetic://paypal/WH-000351",
+    "ts": "2026-11-06T20:02:54Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3477.67,
+    "currency": "EUR",
+    "customId": "E2E-BG-0176",
+    "eventId": "WH-000352",
+    "rawRef": "synthetic://paypal/WH-000352",
+    "ts": "2026-11-06T20:03:54Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2861.78,
+    "currency": "GBP",
+    "customId": "E2E-BG-0177",
+    "eventId": "WH-000353",
+    "rawRef": "synthetic://paypal/WH-000353",
+    "ts": "2026-11-08T19:01:06Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2861.78,
+    "currency": "GBP",
+    "customId": "E2E-BG-0177",
+    "eventId": "WH-000354",
+    "rawRef": "synthetic://paypal/WH-000354",
+    "ts": "2026-11-08T19:02:06Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4389.84,
+    "currency": "EUR",
+    "customId": "E2E-BG-0178",
+    "eventId": "WH-000355",
+    "rawRef": "synthetic://paypal/WH-000355",
+    "ts": "2026-10-25T09:07:48Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4389.84,
+    "currency": "EUR",
+    "customId": "E2E-BG-0178",
+    "eventId": "WH-000356",
+    "rawRef": "synthetic://paypal/WH-000356",
+    "ts": "2026-10-25T09:08:48Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 284.26,
+    "currency": "USD",
+    "customId": "E2E-BG-0179",
+    "eventId": "WH-000357",
+    "rawRef": "synthetic://paypal/WH-000357",
+    "ts": "2026-10-18T13:19:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 284.26,
+    "currency": "USD",
+    "customId": "E2E-BG-0179",
+    "eventId": "WH-000358",
+    "rawRef": "synthetic://paypal/WH-000358",
+    "ts": "2026-10-18T13:20:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1267.79,
+    "currency": "USD",
+    "customId": "E2E-BG-0180",
+    "eventId": "WH-000359",
+    "rawRef": "synthetic://paypal/WH-000359",
+    "ts": "2026-11-13T16:12:26Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1267.79,
+    "currency": "USD",
+    "customId": "E2E-BG-0180",
+    "eventId": "WH-000360",
+    "rawRef": "synthetic://paypal/WH-000360",
+    "ts": "2026-11-13T16:13:26Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1806.24,
+    "currency": "EUR",
+    "customId": "E2E-BG-0181",
+    "eventId": "WH-000361",
+    "rawRef": "synthetic://paypal/WH-000361",
+    "ts": "2026-10-13T01:38:22Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1806.24,
+    "currency": "EUR",
+    "customId": "E2E-BG-0181",
+    "eventId": "WH-000362",
+    "rawRef": "synthetic://paypal/WH-000362",
+    "ts": "2026-10-13T01:39:22Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3717.22,
+    "currency": "GBP",
+    "customId": "E2E-BG-0182",
+    "eventId": "WH-000363",
+    "rawRef": "synthetic://paypal/WH-000363",
+    "ts": "2026-10-22T09:20:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3717.22,
+    "currency": "GBP",
+    "customId": "E2E-BG-0182",
+    "eventId": "WH-000364",
+    "rawRef": "synthetic://paypal/WH-000364",
+    "ts": "2026-10-22T09:21:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1452.44,
+    "currency": "GBP",
+    "customId": "E2E-BG-0183",
+    "eventId": "WH-000365",
+    "rawRef": "synthetic://paypal/WH-000365",
+    "ts": "2026-11-14T07:02:54Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1452.44,
+    "currency": "GBP",
+    "customId": "E2E-BG-0183",
+    "eventId": "WH-000366",
+    "rawRef": "synthetic://paypal/WH-000366",
+    "ts": "2026-11-14T07:03:54Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1577.02,
+    "currency": "GBP",
+    "customId": "E2E-BG-0184",
+    "eventId": "WH-000367",
+    "rawRef": "synthetic://paypal/WH-000367",
+    "ts": "2026-11-13T18:15:22Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1577.02,
+    "currency": "GBP",
+    "customId": "E2E-BG-0184",
+    "eventId": "WH-000368",
+    "rawRef": "synthetic://paypal/WH-000368",
+    "ts": "2026-11-13T18:16:22Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4305.01,
+    "currency": "EUR",
+    "customId": "E2E-BG-0185",
+    "eventId": "WH-000369",
+    "rawRef": "synthetic://paypal/WH-000369",
+    "ts": "2026-11-18T09:50:36Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4305.01,
+    "currency": "EUR",
+    "customId": "E2E-BG-0185",
+    "eventId": "WH-000370",
+    "rawRef": "synthetic://paypal/WH-000370",
+    "ts": "2026-11-18T09:51:36Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1851.35,
+    "currency": "GBP",
+    "customId": "E2E-BG-0186",
+    "eventId": "WH-000371",
+    "rawRef": "synthetic://paypal/WH-000371",
+    "ts": "2026-11-11T22:32:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1851.35,
+    "currency": "GBP",
+    "customId": "E2E-BG-0186",
+    "eventId": "WH-000372",
+    "rawRef": "synthetic://paypal/WH-000372",
+    "ts": "2026-11-11T22:33:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1485.01,
+    "currency": "USD",
+    "customId": "E2E-BG-0187",
+    "eventId": "WH-000373",
+    "rawRef": "synthetic://paypal/WH-000373",
+    "ts": "2026-10-20T21:26:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1485.01,
+    "currency": "USD",
+    "customId": "E2E-BG-0187",
+    "eventId": "WH-000374",
+    "rawRef": "synthetic://paypal/WH-000374",
+    "ts": "2026-10-20T21:27:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 614.38,
+    "currency": "USD",
+    "customId": "E2E-BG-0188",
+    "eventId": "WH-000375",
+    "rawRef": "synthetic://paypal/WH-000375",
+    "ts": "2026-11-05T10:40:29Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 614.38,
+    "currency": "USD",
+    "customId": "E2E-BG-0188",
+    "eventId": "WH-000376",
+    "rawRef": "synthetic://paypal/WH-000376",
+    "ts": "2026-11-05T10:41:29Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4233.15,
+    "currency": "USD",
+    "customId": "E2E-BG-0189",
+    "eventId": "WH-000377",
+    "rawRef": "synthetic://paypal/WH-000377",
+    "ts": "2026-11-08T20:23:35Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4233.15,
+    "currency": "USD",
+    "customId": "E2E-BG-0189",
+    "eventId": "WH-000378",
+    "rawRef": "synthetic://paypal/WH-000378",
+    "ts": "2026-11-08T20:24:35Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4644.57,
+    "currency": "GBP",
+    "customId": "E2E-BG-0190",
+    "eventId": "WH-000379",
+    "rawRef": "synthetic://paypal/WH-000379",
+    "ts": "2026-10-18T23:04:38Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4644.57,
+    "currency": "GBP",
+    "customId": "E2E-BG-0190",
+    "eventId": "WH-000380",
+    "rawRef": "synthetic://paypal/WH-000380",
+    "ts": "2026-10-18T23:05:38Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1519.75,
+    "currency": "GBP",
+    "customId": "E2E-BG-0191",
+    "eventId": "WH-000381",
+    "rawRef": "synthetic://paypal/WH-000381",
+    "ts": "2026-11-12T15:09:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1519.75,
+    "currency": "GBP",
+    "customId": "E2E-BG-0191",
+    "eventId": "WH-000382",
+    "rawRef": "synthetic://paypal/WH-000382",
+    "ts": "2026-11-12T15:10:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1115.41,
+    "currency": "USD",
+    "customId": "E2E-BG-0192",
+    "eventId": "WH-000383",
+    "rawRef": "synthetic://paypal/WH-000383",
+    "ts": "2026-11-06T00:07:46Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1115.41,
+    "currency": "USD",
+    "customId": "E2E-BG-0192",
+    "eventId": "WH-000384",
+    "rawRef": "synthetic://paypal/WH-000384",
+    "ts": "2026-11-06T00:08:46Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2694.44,
+    "currency": "USD",
+    "customId": "E2E-BG-0193",
+    "eventId": "WH-000385",
+    "rawRef": "synthetic://paypal/WH-000385",
+    "ts": "2026-11-06T20:44:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2694.44,
+    "currency": "USD",
+    "customId": "E2E-BG-0193",
+    "eventId": "WH-000386",
+    "rawRef": "synthetic://paypal/WH-000386",
+    "ts": "2026-11-06T20:45:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1816.77,
+    "currency": "USD",
+    "customId": "E2E-BG-0194",
+    "eventId": "WH-000387",
+    "rawRef": "synthetic://paypal/WH-000387",
+    "ts": "2026-10-27T13:43:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1816.77,
+    "currency": "USD",
+    "customId": "E2E-BG-0194",
+    "eventId": "WH-000388",
+    "rawRef": "synthetic://paypal/WH-000388",
+    "ts": "2026-10-27T13:44:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4906.04,
+    "currency": "USD",
+    "customId": "E2E-BG-0195",
+    "eventId": "WH-000389",
+    "rawRef": "synthetic://paypal/WH-000389",
+    "ts": "2026-11-17T00:17:57Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4906.04,
+    "currency": "USD",
+    "customId": "E2E-BG-0195",
+    "eventId": "WH-000390",
+    "rawRef": "synthetic://paypal/WH-000390",
+    "ts": "2026-11-17T00:18:57Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4594.66,
+    "currency": "USD",
+    "customId": "E2E-BG-0196",
+    "eventId": "WH-000391",
+    "rawRef": "synthetic://paypal/WH-000391",
+    "ts": "2026-11-10T07:00:48Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4594.66,
+    "currency": "USD",
+    "customId": "E2E-BG-0196",
+    "eventId": "WH-000392",
+    "rawRef": "synthetic://paypal/WH-000392",
+    "ts": "2026-11-10T07:01:48Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1941.66,
+    "currency": "GBP",
+    "customId": "E2E-BG-0197",
+    "eventId": "WH-000393",
+    "rawRef": "synthetic://paypal/WH-000393",
+    "ts": "2026-10-17T00:05:25Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1941.66,
+    "currency": "GBP",
+    "customId": "E2E-BG-0197",
+    "eventId": "WH-000394",
+    "rawRef": "synthetic://paypal/WH-000394",
+    "ts": "2026-10-17T00:06:25Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1887.29,
+    "currency": "GBP",
+    "customId": "E2E-BG-0198",
+    "eventId": "WH-000395",
+    "rawRef": "synthetic://paypal/WH-000395",
+    "ts": "2026-11-17T21:41:27Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1887.29,
+    "currency": "GBP",
+    "customId": "E2E-BG-0198",
+    "eventId": "WH-000396",
+    "rawRef": "synthetic://paypal/WH-000396",
+    "ts": "2026-11-17T21:42:27Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2579.2,
+    "currency": "USD",
+    "customId": "E2E-BG-0199",
+    "eventId": "WH-000397",
+    "rawRef": "synthetic://paypal/WH-000397",
+    "ts": "2026-10-27T01:11:29Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2579.2,
+    "currency": "USD",
+    "customId": "E2E-BG-0199",
+    "eventId": "WH-000398",
+    "rawRef": "synthetic://paypal/WH-000398",
+    "ts": "2026-10-27T01:12:29Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3142.13,
+    "currency": "USD",
+    "customId": "E2E-BG-0200",
+    "eventId": "WH-000399",
+    "rawRef": "synthetic://paypal/WH-000399",
+    "ts": "2026-10-11T20:32:26Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3142.13,
+    "currency": "USD",
+    "customId": "E2E-BG-0200",
+    "eventId": "WH-000400",
+    "rawRef": "synthetic://paypal/WH-000400",
+    "ts": "2026-10-11T20:33:26Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4181.61,
+    "currency": "USD",
+    "customId": "E2E-BG-0201",
+    "eventId": "WH-000401",
+    "rawRef": "synthetic://paypal/WH-000401",
+    "ts": "2026-11-01T02:14:23Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4181.61,
+    "currency": "USD",
+    "customId": "E2E-BG-0201",
+    "eventId": "WH-000402",
+    "rawRef": "synthetic://paypal/WH-000402",
+    "ts": "2026-11-01T02:15:23Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3239.87,
+    "currency": "USD",
+    "customId": "E2E-BG-0202",
+    "eventId": "WH-000403",
+    "rawRef": "synthetic://paypal/WH-000403",
+    "ts": "2026-11-01T15:05:19Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3239.87,
+    "currency": "USD",
+    "customId": "E2E-BG-0202",
+    "eventId": "WH-000404",
+    "rawRef": "synthetic://paypal/WH-000404",
+    "ts": "2026-11-01T15:06:19Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 208.67,
+    "currency": "USD",
+    "customId": "E2E-BG-0203",
+    "eventId": "WH-000405",
+    "rawRef": "synthetic://paypal/WH-000405",
+    "ts": "2026-10-27T14:28:35Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 208.67,
+    "currency": "USD",
+    "customId": "E2E-BG-0203",
+    "eventId": "WH-000406",
+    "rawRef": "synthetic://paypal/WH-000406",
+    "ts": "2026-10-27T14:29:35Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4111.66,
+    "currency": "EUR",
+    "customId": "E2E-BG-0204",
+    "eventId": "WH-000407",
+    "rawRef": "synthetic://paypal/WH-000407",
+    "ts": "2026-11-08T09:52:46Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4111.66,
+    "currency": "EUR",
+    "customId": "E2E-BG-0204",
+    "eventId": "WH-000408",
+    "rawRef": "synthetic://paypal/WH-000408",
+    "ts": "2026-11-08T09:53:46Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 104.12,
+    "currency": "GBP",
+    "customId": "E2E-BG-0205",
+    "eventId": "WH-000409",
+    "rawRef": "synthetic://paypal/WH-000409",
+    "ts": "2026-10-26T20:38:15Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 104.12,
+    "currency": "GBP",
+    "customId": "E2E-BG-0205",
+    "eventId": "WH-000410",
+    "rawRef": "synthetic://paypal/WH-000410",
+    "ts": "2026-10-26T20:39:15Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3784.68,
+    "currency": "GBP",
+    "customId": "E2E-BG-0206",
+    "eventId": "WH-000411",
+    "rawRef": "synthetic://paypal/WH-000411",
+    "ts": "2026-10-14T13:40:37Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3784.68,
+    "currency": "GBP",
+    "customId": "E2E-BG-0206",
+    "eventId": "WH-000412",
+    "rawRef": "synthetic://paypal/WH-000412",
+    "ts": "2026-10-14T13:41:37Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1463.39,
+    "currency": "GBP",
+    "customId": "E2E-BG-0207",
+    "eventId": "WH-000413",
+    "rawRef": "synthetic://paypal/WH-000413",
+    "ts": "2026-10-16T15:39:24Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1463.39,
+    "currency": "GBP",
+    "customId": "E2E-BG-0207",
+    "eventId": "WH-000414",
+    "rawRef": "synthetic://paypal/WH-000414",
+    "ts": "2026-10-16T15:40:24Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1987.66,
+    "currency": "GBP",
+    "customId": "E2E-BG-0208",
+    "eventId": "WH-000415",
+    "rawRef": "synthetic://paypal/WH-000415",
+    "ts": "2026-10-30T00:22:44Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1987.66,
+    "currency": "GBP",
+    "customId": "E2E-BG-0208",
+    "eventId": "WH-000416",
+    "rawRef": "synthetic://paypal/WH-000416",
+    "ts": "2026-10-30T00:23:44Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1967.14,
+    "currency": "GBP",
+    "customId": "E2E-BG-0209",
+    "eventId": "WH-000417",
+    "rawRef": "synthetic://paypal/WH-000417",
+    "ts": "2026-11-16T18:01:52Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1967.14,
+    "currency": "GBP",
+    "customId": "E2E-BG-0209",
+    "eventId": "WH-000418",
+    "rawRef": "synthetic://paypal/WH-000418",
+    "ts": "2026-11-16T18:02:52Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3246.74,
+    "currency": "USD",
+    "customId": "E2E-BG-0210",
+    "eventId": "WH-000419",
+    "rawRef": "synthetic://paypal/WH-000419",
+    "ts": "2026-11-15T21:43:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3246.74,
+    "currency": "USD",
+    "customId": "E2E-BG-0210",
+    "eventId": "WH-000420",
+    "rawRef": "synthetic://paypal/WH-000420",
+    "ts": "2026-11-15T21:44:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2872.14,
+    "currency": "EUR",
+    "customId": "E2E-BG-0211",
+    "eventId": "WH-000421",
+    "rawRef": "synthetic://paypal/WH-000421",
+    "ts": "2026-10-11T17:51:36Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2872.14,
+    "currency": "EUR",
+    "customId": "E2E-BG-0211",
+    "eventId": "WH-000422",
+    "rawRef": "synthetic://paypal/WH-000422",
+    "ts": "2026-10-11T17:52:36Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3712.32,
+    "currency": "GBP",
+    "customId": "E2E-BG-0212",
+    "eventId": "WH-000423",
+    "rawRef": "synthetic://paypal/WH-000423",
+    "ts": "2026-11-16T19:49:43Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3712.32,
+    "currency": "GBP",
+    "customId": "E2E-BG-0212",
+    "eventId": "WH-000424",
+    "rawRef": "synthetic://paypal/WH-000424",
+    "ts": "2026-11-16T19:50:43Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 729.43,
+    "currency": "USD",
+    "customId": "E2E-BG-0213",
+    "eventId": "WH-000425",
+    "rawRef": "synthetic://paypal/WH-000425",
+    "ts": "2026-11-05T09:10:01Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 729.43,
+    "currency": "USD",
+    "customId": "E2E-BG-0213",
+    "eventId": "WH-000426",
+    "rawRef": "synthetic://paypal/WH-000426",
+    "ts": "2026-11-05T09:11:01Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3361.47,
+    "currency": "GBP",
+    "customId": "E2E-BG-0214",
+    "eventId": "WH-000427",
+    "rawRef": "synthetic://paypal/WH-000427",
+    "ts": "2026-10-20T07:17:50Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3361.47,
+    "currency": "GBP",
+    "customId": "E2E-BG-0214",
+    "eventId": "WH-000428",
+    "rawRef": "synthetic://paypal/WH-000428",
+    "ts": "2026-10-20T07:18:50Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2757.33,
+    "currency": "EUR",
+    "customId": "E2E-BG-0215",
+    "eventId": "WH-000429",
+    "rawRef": "synthetic://paypal/WH-000429",
+    "ts": "2026-11-11T19:06:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2757.33,
+    "currency": "EUR",
+    "customId": "E2E-BG-0215",
+    "eventId": "WH-000430",
+    "rawRef": "synthetic://paypal/WH-000430",
+    "ts": "2026-11-11T19:07:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2446.21,
+    "currency": "EUR",
+    "customId": "E2E-BG-0216",
+    "eventId": "WH-000431",
+    "rawRef": "synthetic://paypal/WH-000431",
+    "ts": "2026-11-08T16:26:34Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2446.21,
+    "currency": "EUR",
+    "customId": "E2E-BG-0216",
+    "eventId": "WH-000432",
+    "rawRef": "synthetic://paypal/WH-000432",
+    "ts": "2026-11-08T16:27:34Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3105.19,
+    "currency": "USD",
+    "customId": "E2E-BG-0217",
+    "eventId": "WH-000433",
+    "rawRef": "synthetic://paypal/WH-000433",
+    "ts": "2026-10-25T08:12:31Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3105.19,
+    "currency": "USD",
+    "customId": "E2E-BG-0217",
+    "eventId": "WH-000434",
+    "rawRef": "synthetic://paypal/WH-000434",
+    "ts": "2026-10-25T08:13:31Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3473.42,
+    "currency": "USD",
+    "customId": "E2E-BG-0218",
+    "eventId": "WH-000435",
+    "rawRef": "synthetic://paypal/WH-000435",
+    "ts": "2026-10-26T08:08:15Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3473.42,
+    "currency": "USD",
+    "customId": "E2E-BG-0218",
+    "eventId": "WH-000436",
+    "rawRef": "synthetic://paypal/WH-000436",
+    "ts": "2026-10-26T08:09:15Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 44.06,
+    "currency": "USD",
+    "customId": "E2E-BG-0219",
+    "eventId": "WH-000437",
+    "rawRef": "synthetic://paypal/WH-000437",
+    "ts": "2026-10-19T16:28:45Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 44.06,
+    "currency": "USD",
+    "customId": "E2E-BG-0219",
+    "eventId": "WH-000438",
+    "rawRef": "synthetic://paypal/WH-000438",
+    "ts": "2026-10-19T16:29:45Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4203.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0220",
+    "eventId": "WH-000439",
+    "rawRef": "synthetic://paypal/WH-000439",
+    "ts": "2026-10-24T22:21:19Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4203.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0220",
+    "eventId": "WH-000440",
+    "rawRef": "synthetic://paypal/WH-000440",
+    "ts": "2026-10-24T22:22:19Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1806.53,
+    "currency": "EUR",
+    "customId": "E2E-BG-0221",
+    "eventId": "WH-000441",
+    "rawRef": "synthetic://paypal/WH-000441",
+    "ts": "2026-11-02T02:52:46Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1806.53,
+    "currency": "EUR",
+    "customId": "E2E-BG-0221",
+    "eventId": "WH-000442",
+    "rawRef": "synthetic://paypal/WH-000442",
+    "ts": "2026-11-02T02:53:46Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4212.13,
+    "currency": "USD",
+    "customId": "E2E-BG-0222",
+    "eventId": "WH-000443",
+    "rawRef": "synthetic://paypal/WH-000443",
+    "ts": "2026-10-15T11:30:22Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4212.13,
+    "currency": "USD",
+    "customId": "E2E-BG-0222",
+    "eventId": "WH-000444",
+    "rawRef": "synthetic://paypal/WH-000444",
+    "ts": "2026-10-15T11:31:22Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 400.78,
+    "currency": "USD",
+    "customId": "E2E-BG-0223",
+    "eventId": "WH-000445",
+    "rawRef": "synthetic://paypal/WH-000445",
+    "ts": "2026-11-10T22:03:50Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 400.78,
+    "currency": "USD",
+    "customId": "E2E-BG-0223",
+    "eventId": "WH-000446",
+    "rawRef": "synthetic://paypal/WH-000446",
+    "ts": "2026-11-10T22:04:50Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2902.93,
+    "currency": "GBP",
+    "customId": "E2E-BG-0224",
+    "eventId": "WH-000447",
+    "rawRef": "synthetic://paypal/WH-000447",
+    "ts": "2026-11-08T17:57:05Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2902.93,
+    "currency": "GBP",
+    "customId": "E2E-BG-0224",
+    "eventId": "WH-000448",
+    "rawRef": "synthetic://paypal/WH-000448",
+    "ts": "2026-11-08T17:58:05Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2371.08,
+    "currency": "USD",
+    "customId": "E2E-BG-0225",
+    "eventId": "WH-000449",
+    "rawRef": "synthetic://paypal/WH-000449",
+    "ts": "2026-11-06T16:46:09Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2371.08,
+    "currency": "USD",
+    "customId": "E2E-BG-0225",
+    "eventId": "WH-000450",
+    "rawRef": "synthetic://paypal/WH-000450",
+    "ts": "2026-11-06T16:47:09Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4288.68,
+    "currency": "USD",
+    "customId": "E2E-BG-0226",
+    "eventId": "WH-000451",
+    "rawRef": "synthetic://paypal/WH-000451",
+    "ts": "2026-11-16T02:16:16Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4288.68,
+    "currency": "USD",
+    "customId": "E2E-BG-0226",
+    "eventId": "WH-000452",
+    "rawRef": "synthetic://paypal/WH-000452",
+    "ts": "2026-11-16T02:17:16Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 72.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0227",
+    "eventId": "WH-000453",
+    "rawRef": "synthetic://paypal/WH-000453",
+    "ts": "2026-11-04T21:04:02Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 72.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0227",
+    "eventId": "WH-000454",
+    "rawRef": "synthetic://paypal/WH-000454",
+    "ts": "2026-11-04T21:05:02Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3790.89,
+    "currency": "USD",
+    "customId": "E2E-BG-0228",
+    "eventId": "WH-000455",
+    "rawRef": "synthetic://paypal/WH-000455",
+    "ts": "2026-10-19T13:13:18Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3790.89,
+    "currency": "USD",
+    "customId": "E2E-BG-0228",
+    "eventId": "WH-000456",
+    "rawRef": "synthetic://paypal/WH-000456",
+    "ts": "2026-10-19T13:14:18Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3684.88,
+    "currency": "EUR",
+    "customId": "E2E-BG-0229",
+    "eventId": "WH-000457",
+    "rawRef": "synthetic://paypal/WH-000457",
+    "ts": "2026-10-18T14:20:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3684.88,
+    "currency": "EUR",
+    "customId": "E2E-BG-0229",
+    "eventId": "WH-000458",
+    "rawRef": "synthetic://paypal/WH-000458",
+    "ts": "2026-10-18T14:21:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 333.05,
+    "currency": "EUR",
+    "customId": "E2E-BG-0230",
+    "eventId": "WH-000459",
+    "rawRef": "synthetic://paypal/WH-000459",
+    "ts": "2026-10-22T18:00:29Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 333.05,
+    "currency": "EUR",
+    "customId": "E2E-BG-0230",
+    "eventId": "WH-000460",
+    "rawRef": "synthetic://paypal/WH-000460",
+    "ts": "2026-10-22T18:01:29Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1952.7,
+    "currency": "EUR",
+    "customId": "E2E-BG-0231",
+    "eventId": "WH-000461",
+    "rawRef": "synthetic://paypal/WH-000461",
+    "ts": "2026-10-29T00:53:18Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1952.7,
+    "currency": "EUR",
+    "customId": "E2E-BG-0231",
+    "eventId": "WH-000462",
+    "rawRef": "synthetic://paypal/WH-000462",
+    "ts": "2026-10-29T00:54:18Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3524.61,
+    "currency": "GBP",
+    "customId": "E2E-BG-0232",
+    "eventId": "WH-000463",
+    "rawRef": "synthetic://paypal/WH-000463",
+    "ts": "2026-10-16T12:15:57Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3524.61,
+    "currency": "GBP",
+    "customId": "E2E-BG-0232",
+    "eventId": "WH-000464",
+    "rawRef": "synthetic://paypal/WH-000464",
+    "ts": "2026-10-16T12:16:57Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2730.86,
+    "currency": "USD",
+    "customId": "E2E-BG-0233",
+    "eventId": "WH-000465",
+    "rawRef": "synthetic://paypal/WH-000465",
+    "ts": "2026-11-08T14:09:16Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2730.86,
+    "currency": "USD",
+    "customId": "E2E-BG-0233",
+    "eventId": "WH-000466",
+    "rawRef": "synthetic://paypal/WH-000466",
+    "ts": "2026-11-08T14:10:16Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2592.98,
+    "currency": "EUR",
+    "customId": "E2E-BG-0234",
+    "eventId": "WH-000467",
+    "rawRef": "synthetic://paypal/WH-000467",
+    "ts": "2026-10-15T06:41:14Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2592.98,
+    "currency": "EUR",
+    "customId": "E2E-BG-0234",
+    "eventId": "WH-000468",
+    "rawRef": "synthetic://paypal/WH-000468",
+    "ts": "2026-10-15T06:42:14Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2444.57,
+    "currency": "EUR",
+    "customId": "E2E-BG-0235",
+    "eventId": "WH-000469",
+    "rawRef": "synthetic://paypal/WH-000469",
+    "ts": "2026-10-28T05:59:30Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2444.57,
+    "currency": "EUR",
+    "customId": "E2E-BG-0235",
+    "eventId": "WH-000470",
+    "rawRef": "synthetic://paypal/WH-000470",
+    "ts": "2026-10-28T06:00:30Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 844.72,
+    "currency": "USD",
+    "customId": "E2E-BG-0236",
+    "eventId": "WH-000471",
+    "rawRef": "synthetic://paypal/WH-000471",
+    "ts": "2026-11-01T20:31:08Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 844.72,
+    "currency": "USD",
+    "customId": "E2E-BG-0236",
+    "eventId": "WH-000472",
+    "rawRef": "synthetic://paypal/WH-000472",
+    "ts": "2026-11-01T20:32:08Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1823.87,
+    "currency": "GBP",
+    "customId": "E2E-BG-0237",
+    "eventId": "WH-000473",
+    "rawRef": "synthetic://paypal/WH-000473",
+    "ts": "2026-10-19T03:20:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1823.87,
+    "currency": "GBP",
+    "customId": "E2E-BG-0237",
+    "eventId": "WH-000474",
+    "rawRef": "synthetic://paypal/WH-000474",
+    "ts": "2026-10-19T03:21:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3606.87,
+    "currency": "EUR",
+    "customId": "E2E-BG-0238",
+    "eventId": "WH-000475",
+    "rawRef": "synthetic://paypal/WH-000475",
+    "ts": "2026-10-27T12:44:23Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3606.87,
+    "currency": "EUR",
+    "customId": "E2E-BG-0238",
+    "eventId": "WH-000476",
+    "rawRef": "synthetic://paypal/WH-000476",
+    "ts": "2026-10-27T12:45:23Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4170.16,
+    "currency": "USD",
+    "customId": "E2E-BG-0239",
+    "eventId": "WH-000477",
+    "rawRef": "synthetic://paypal/WH-000477",
+    "ts": "2026-11-11T22:06:41Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4170.16,
+    "currency": "USD",
+    "customId": "E2E-BG-0239",
+    "eventId": "WH-000478",
+    "rawRef": "synthetic://paypal/WH-000478",
+    "ts": "2026-11-11T22:07:41Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3155.11,
+    "currency": "USD",
+    "customId": "E2E-BG-0240",
+    "eventId": "WH-000479",
+    "rawRef": "synthetic://paypal/WH-000479",
+    "ts": "2026-10-18T00:57:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3155.11,
+    "currency": "USD",
+    "customId": "E2E-BG-0240",
+    "eventId": "WH-000480",
+    "rawRef": "synthetic://paypal/WH-000480",
+    "ts": "2026-10-18T00:58:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2592.87,
+    "currency": "EUR",
+    "customId": "E2E-BG-0241",
+    "eventId": "WH-000481",
+    "rawRef": "synthetic://paypal/WH-000481",
+    "ts": "2026-10-20T05:45:32Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2592.87,
+    "currency": "EUR",
+    "customId": "E2E-BG-0241",
+    "eventId": "WH-000482",
+    "rawRef": "synthetic://paypal/WH-000482",
+    "ts": "2026-10-20T05:46:32Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3645.31,
+    "currency": "EUR",
+    "customId": "E2E-BG-0242",
+    "eventId": "WH-000483",
+    "rawRef": "synthetic://paypal/WH-000483",
+    "ts": "2026-11-15T10:20:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3645.31,
+    "currency": "EUR",
+    "customId": "E2E-BG-0242",
+    "eventId": "WH-000484",
+    "rawRef": "synthetic://paypal/WH-000484",
+    "ts": "2026-11-15T10:21:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 869.42,
+    "currency": "EUR",
+    "customId": "E2E-BG-0243",
+    "eventId": "WH-000485",
+    "rawRef": "synthetic://paypal/WH-000485",
+    "ts": "2026-11-03T21:11:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 869.42,
+    "currency": "EUR",
+    "customId": "E2E-BG-0243",
+    "eventId": "WH-000486",
+    "rawRef": "synthetic://paypal/WH-000486",
+    "ts": "2026-11-03T21:12:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3123.59,
+    "currency": "GBP",
+    "customId": "E2E-BG-0244",
+    "eventId": "WH-000487",
+    "rawRef": "synthetic://paypal/WH-000487",
+    "ts": "2026-10-20T07:54:37Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3123.59,
+    "currency": "GBP",
+    "customId": "E2E-BG-0244",
+    "eventId": "WH-000488",
+    "rawRef": "synthetic://paypal/WH-000488",
+    "ts": "2026-10-20T07:55:37Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2961.17,
+    "currency": "USD",
+    "customId": "E2E-BG-0245",
+    "eventId": "WH-000489",
+    "rawRef": "synthetic://paypal/WH-000489",
+    "ts": "2026-11-09T11:00:42Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2961.17,
+    "currency": "USD",
+    "customId": "E2E-BG-0245",
+    "eventId": "WH-000490",
+    "rawRef": "synthetic://paypal/WH-000490",
+    "ts": "2026-11-09T11:01:42Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4300.77,
+    "currency": "GBP",
+    "customId": "E2E-BG-0246",
+    "eventId": "WH-000491",
+    "rawRef": "synthetic://paypal/WH-000491",
+    "ts": "2026-11-05T21:00:10Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4300.77,
+    "currency": "GBP",
+    "customId": "E2E-BG-0246",
+    "eventId": "WH-000492",
+    "rawRef": "synthetic://paypal/WH-000492",
+    "ts": "2026-11-05T21:01:10Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2389.83,
+    "currency": "GBP",
+    "customId": "E2E-BG-0247",
+    "eventId": "WH-000493",
+    "rawRef": "synthetic://paypal/WH-000493",
+    "ts": "2026-10-20T02:42:42Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2389.83,
+    "currency": "GBP",
+    "customId": "E2E-BG-0247",
+    "eventId": "WH-000494",
+    "rawRef": "synthetic://paypal/WH-000494",
+    "ts": "2026-10-20T02:43:42Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 605.23,
+    "currency": "EUR",
+    "customId": "E2E-BG-0248",
+    "eventId": "WH-000495",
+    "rawRef": "synthetic://paypal/WH-000495",
+    "ts": "2026-11-17T00:35:23Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 605.23,
+    "currency": "EUR",
+    "customId": "E2E-BG-0248",
+    "eventId": "WH-000496",
+    "rawRef": "synthetic://paypal/WH-000496",
+    "ts": "2026-11-17T00:36:23Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4486.91,
+    "currency": "GBP",
+    "customId": "E2E-BG-0249",
+    "eventId": "WH-000497",
+    "rawRef": "synthetic://paypal/WH-000497",
+    "ts": "2026-10-11T13:23:54Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4486.91,
+    "currency": "GBP",
+    "customId": "E2E-BG-0249",
+    "eventId": "WH-000498",
+    "rawRef": "synthetic://paypal/WH-000498",
+    "ts": "2026-10-11T13:24:54Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3494.26,
+    "currency": "EUR",
+    "customId": "E2E-BG-0250",
+    "eventId": "WH-000499",
+    "rawRef": "synthetic://paypal/WH-000499",
+    "ts": "2026-10-13T14:36:33Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3494.26,
+    "currency": "EUR",
+    "customId": "E2E-BG-0250",
+    "eventId": "WH-000500",
+    "rawRef": "synthetic://paypal/WH-000500",
+    "ts": "2026-10-13T14:37:33Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1765.58,
+    "currency": "GBP",
+    "customId": "E2E-BG-0251",
+    "eventId": "WH-000501",
+    "rawRef": "synthetic://paypal/WH-000501",
+    "ts": "2026-10-30T00:10:21Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1765.58,
+    "currency": "GBP",
+    "customId": "E2E-BG-0251",
+    "eventId": "WH-000502",
+    "rawRef": "synthetic://paypal/WH-000502",
+    "ts": "2026-10-30T00:11:21Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 686.74,
+    "currency": "EUR",
+    "customId": "E2E-BG-0252",
+    "eventId": "WH-000503",
+    "rawRef": "synthetic://paypal/WH-000503",
+    "ts": "2026-11-01T03:43:51Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 686.74,
+    "currency": "EUR",
+    "customId": "E2E-BG-0252",
+    "eventId": "WH-000504",
+    "rawRef": "synthetic://paypal/WH-000504",
+    "ts": "2026-11-01T03:44:51Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4386.3,
+    "currency": "EUR",
+    "customId": "E2E-BG-0253",
+    "eventId": "WH-000505",
+    "rawRef": "synthetic://paypal/WH-000505",
+    "ts": "2026-11-09T13:03:39Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4386.3,
+    "currency": "EUR",
+    "customId": "E2E-BG-0253",
+    "eventId": "WH-000506",
+    "rawRef": "synthetic://paypal/WH-000506",
+    "ts": "2026-11-09T13:04:39Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2898.38,
+    "currency": "USD",
+    "customId": "E2E-BG-0254",
+    "eventId": "WH-000507",
+    "rawRef": "synthetic://paypal/WH-000507",
+    "ts": "2026-10-11T20:17:18Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2898.38,
+    "currency": "USD",
+    "customId": "E2E-BG-0254",
+    "eventId": "WH-000508",
+    "rawRef": "synthetic://paypal/WH-000508",
+    "ts": "2026-10-11T20:18:18Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2056.05,
+    "currency": "USD",
+    "customId": "E2E-BG-0255",
+    "eventId": "WH-000509",
+    "rawRef": "synthetic://paypal/WH-000509",
+    "ts": "2026-10-26T20:03:07Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2056.05,
+    "currency": "USD",
+    "customId": "E2E-BG-0255",
+    "eventId": "WH-000510",
+    "rawRef": "synthetic://paypal/WH-000510",
+    "ts": "2026-10-26T20:04:07Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2129.34,
+    "currency": "EUR",
+    "customId": "E2E-BG-0256",
+    "eventId": "WH-000511",
+    "rawRef": "synthetic://paypal/WH-000511",
+    "ts": "2026-11-06T12:36:26Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2129.34,
+    "currency": "EUR",
+    "customId": "E2E-BG-0256",
+    "eventId": "WH-000512",
+    "rawRef": "synthetic://paypal/WH-000512",
+    "ts": "2026-11-06T12:37:26Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2077.88,
+    "currency": "GBP",
+    "customId": "E2E-BG-0257",
+    "eventId": "WH-000513",
+    "rawRef": "synthetic://paypal/WH-000513",
+    "ts": "2026-10-21T09:19:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2077.88,
+    "currency": "GBP",
+    "customId": "E2E-BG-0257",
+    "eventId": "WH-000514",
+    "rawRef": "synthetic://paypal/WH-000514",
+    "ts": "2026-10-21T09:20:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4942.77,
+    "currency": "GBP",
+    "customId": "E2E-BG-0258",
+    "eventId": "WH-000515",
+    "rawRef": "synthetic://paypal/WH-000515",
+    "ts": "2026-10-23T19:40:20Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4942.77,
+    "currency": "GBP",
+    "customId": "E2E-BG-0258",
+    "eventId": "WH-000516",
+    "rawRef": "synthetic://paypal/WH-000516",
+    "ts": "2026-10-23T19:41:20Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 613.05,
+    "currency": "USD",
+    "customId": "E2E-BG-0259",
+    "eventId": "WH-000517",
+    "rawRef": "synthetic://paypal/WH-000517",
+    "ts": "2026-11-12T12:07:12Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 613.05,
+    "currency": "USD",
+    "customId": "E2E-BG-0259",
+    "eventId": "WH-000518",
+    "rawRef": "synthetic://paypal/WH-000518",
+    "ts": "2026-11-12T12:08:12Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2551.55,
+    "currency": "EUR",
+    "customId": "E2E-BG-0260",
+    "eventId": "WH-000519",
+    "rawRef": "synthetic://paypal/WH-000519",
+    "ts": "2026-10-21T21:51:42Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2551.55,
+    "currency": "EUR",
+    "customId": "E2E-BG-0260",
+    "eventId": "WH-000520",
+    "rawRef": "synthetic://paypal/WH-000520",
+    "ts": "2026-10-21T21:52:42Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 820.48,
+    "currency": "GBP",
+    "customId": "E2E-BG-0261",
+    "eventId": "WH-000521",
+    "rawRef": "synthetic://paypal/WH-000521",
+    "ts": "2026-10-14T00:38:45Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 820.48,
+    "currency": "GBP",
+    "customId": "E2E-BG-0261",
+    "eventId": "WH-000522",
+    "rawRef": "synthetic://paypal/WH-000522",
+    "ts": "2026-10-14T00:39:45Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2188.18,
+    "currency": "USD",
+    "customId": "E2E-BG-0262",
+    "eventId": "WH-000523",
+    "rawRef": "synthetic://paypal/WH-000523",
+    "ts": "2026-11-09T15:20:11Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2188.18,
+    "currency": "USD",
+    "customId": "E2E-BG-0262",
+    "eventId": "WH-000524",
+    "rawRef": "synthetic://paypal/WH-000524",
+    "ts": "2026-11-09T15:21:11Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1933.94,
+    "currency": "EUR",
+    "customId": "E2E-BG-0263",
+    "eventId": "WH-000525",
+    "rawRef": "synthetic://paypal/WH-000525",
+    "ts": "2026-11-15T16:05:51Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1933.94,
+    "currency": "EUR",
+    "customId": "E2E-BG-0263",
+    "eventId": "WH-000526",
+    "rawRef": "synthetic://paypal/WH-000526",
+    "ts": "2026-11-15T16:06:51Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4729.66,
+    "currency": "USD",
+    "customId": "E2E-BG-0264",
+    "eventId": "WH-000527",
+    "rawRef": "synthetic://paypal/WH-000527",
+    "ts": "2026-10-14T06:56:57Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4729.66,
+    "currency": "USD",
+    "customId": "E2E-BG-0264",
+    "eventId": "WH-000528",
+    "rawRef": "synthetic://paypal/WH-000528",
+    "ts": "2026-10-14T06:57:57Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4655.18,
+    "currency": "GBP",
+    "customId": "E2E-BG-0265",
+    "eventId": "WH-000529",
+    "rawRef": "synthetic://paypal/WH-000529",
+    "ts": "2026-11-12T09:19:32Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4655.18,
+    "currency": "GBP",
+    "customId": "E2E-BG-0265",
+    "eventId": "WH-000530",
+    "rawRef": "synthetic://paypal/WH-000530",
+    "ts": "2026-11-12T09:20:32Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3498.28,
+    "currency": "GBP",
+    "customId": "E2E-BG-0266",
+    "eventId": "WH-000531",
+    "rawRef": "synthetic://paypal/WH-000531",
+    "ts": "2026-11-05T12:57:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3498.28,
+    "currency": "GBP",
+    "customId": "E2E-BG-0266",
+    "eventId": "WH-000532",
+    "rawRef": "synthetic://paypal/WH-000532",
+    "ts": "2026-11-05T12:58:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4878.72,
+    "currency": "USD",
+    "customId": "E2E-BG-0267",
+    "eventId": "WH-000533",
+    "rawRef": "synthetic://paypal/WH-000533",
+    "ts": "2026-10-11T12:20:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4878.72,
+    "currency": "USD",
+    "customId": "E2E-BG-0267",
+    "eventId": "WH-000534",
+    "rawRef": "synthetic://paypal/WH-000534",
+    "ts": "2026-10-11T12:21:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2039.15,
+    "currency": "USD",
+    "customId": "E2E-BG-0268",
+    "eventId": "WH-000535",
+    "rawRef": "synthetic://paypal/WH-000535",
+    "ts": "2026-10-30T16:22:30Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2039.15,
+    "currency": "USD",
+    "customId": "E2E-BG-0268",
+    "eventId": "WH-000536",
+    "rawRef": "synthetic://paypal/WH-000536",
+    "ts": "2026-10-30T16:23:30Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1436.78,
+    "currency": "GBP",
+    "customId": "E2E-BG-0269",
+    "eventId": "WH-000537",
+    "rawRef": "synthetic://paypal/WH-000537",
+    "ts": "2026-11-07T04:19:18Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1436.78,
+    "currency": "GBP",
+    "customId": "E2E-BG-0269",
+    "eventId": "WH-000538",
+    "rawRef": "synthetic://paypal/WH-000538",
+    "ts": "2026-11-07T04:20:18Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3039.69,
+    "currency": "USD",
+    "customId": "E2E-BG-0270",
+    "eventId": "WH-000539",
+    "rawRef": "synthetic://paypal/WH-000539",
+    "ts": "2026-10-22T11:39:12Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3039.69,
+    "currency": "USD",
+    "customId": "E2E-BG-0270",
+    "eventId": "WH-000540",
+    "rawRef": "synthetic://paypal/WH-000540",
+    "ts": "2026-10-22T11:40:12Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2047.53,
+    "currency": "USD",
+    "customId": "E2E-BG-0271",
+    "eventId": "WH-000541",
+    "rawRef": "synthetic://paypal/WH-000541",
+    "ts": "2026-10-19T23:55:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2047.53,
+    "currency": "USD",
+    "customId": "E2E-BG-0271",
+    "eventId": "WH-000542",
+    "rawRef": "synthetic://paypal/WH-000542",
+    "ts": "2026-10-19T23:56:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4784.41,
+    "currency": "GBP",
+    "customId": "E2E-BG-0272",
+    "eventId": "WH-000543",
+    "rawRef": "synthetic://paypal/WH-000543",
+    "ts": "2026-11-05T10:01:20Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4784.41,
+    "currency": "GBP",
+    "customId": "E2E-BG-0272",
+    "eventId": "WH-000544",
+    "rawRef": "synthetic://paypal/WH-000544",
+    "ts": "2026-11-05T10:02:20Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2824.58,
+    "currency": "USD",
+    "customId": "E2E-BG-0273",
+    "eventId": "WH-000545",
+    "rawRef": "synthetic://paypal/WH-000545",
+    "ts": "2026-10-29T19:19:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2824.58,
+    "currency": "USD",
+    "customId": "E2E-BG-0273",
+    "eventId": "WH-000546",
+    "rawRef": "synthetic://paypal/WH-000546",
+    "ts": "2026-10-29T19:20:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4484.69,
+    "currency": "USD",
+    "customId": "E2E-BG-0274",
+    "eventId": "WH-000547",
+    "rawRef": "synthetic://paypal/WH-000547",
+    "ts": "2026-11-02T20:46:41Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4484.69,
+    "currency": "USD",
+    "customId": "E2E-BG-0274",
+    "eventId": "WH-000548",
+    "rawRef": "synthetic://paypal/WH-000548",
+    "ts": "2026-11-02T20:47:41Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3391.03,
+    "currency": "USD",
+    "customId": "E2E-BG-0275",
+    "eventId": "WH-000549",
+    "rawRef": "synthetic://paypal/WH-000549",
+    "ts": "2026-10-22T04:45:50Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3391.03,
+    "currency": "USD",
+    "customId": "E2E-BG-0275",
+    "eventId": "WH-000550",
+    "rawRef": "synthetic://paypal/WH-000550",
+    "ts": "2026-10-22T04:46:50Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 68.42,
+    "currency": "EUR",
+    "customId": "E2E-BG-0276",
+    "eventId": "WH-000551",
+    "rawRef": "synthetic://paypal/WH-000551",
+    "ts": "2026-11-06T12:04:46Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 68.42,
+    "currency": "EUR",
+    "customId": "E2E-BG-0276",
+    "eventId": "WH-000552",
+    "rawRef": "synthetic://paypal/WH-000552",
+    "ts": "2026-11-06T12:05:46Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 398.62,
+    "currency": "USD",
+    "customId": "E2E-BG-0277",
+    "eventId": "WH-000553",
+    "rawRef": "synthetic://paypal/WH-000553",
+    "ts": "2026-10-28T02:27:02Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 398.62,
+    "currency": "USD",
+    "customId": "E2E-BG-0277",
+    "eventId": "WH-000554",
+    "rawRef": "synthetic://paypal/WH-000554",
+    "ts": "2026-10-28T02:28:02Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4736.65,
+    "currency": "GBP",
+    "customId": "E2E-BG-0278",
+    "eventId": "WH-000555",
+    "rawRef": "synthetic://paypal/WH-000555",
+    "ts": "2026-10-20T08:57:33Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4736.65,
+    "currency": "GBP",
+    "customId": "E2E-BG-0278",
+    "eventId": "WH-000556",
+    "rawRef": "synthetic://paypal/WH-000556",
+    "ts": "2026-10-20T08:58:33Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3682.44,
+    "currency": "EUR",
+    "customId": "E2E-BG-0279",
+    "eventId": "WH-000557",
+    "rawRef": "synthetic://paypal/WH-000557",
+    "ts": "2026-10-22T21:37:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3682.44,
+    "currency": "EUR",
+    "customId": "E2E-BG-0279",
+    "eventId": "WH-000558",
+    "rawRef": "synthetic://paypal/WH-000558",
+    "ts": "2026-10-22T21:38:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1793.02,
+    "currency": "USD",
+    "customId": "E2E-BG-0280",
+    "eventId": "WH-000559",
+    "rawRef": "synthetic://paypal/WH-000559",
+    "ts": "2026-11-10T12:43:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1793.02,
+    "currency": "USD",
+    "customId": "E2E-BG-0280",
+    "eventId": "WH-000560",
+    "rawRef": "synthetic://paypal/WH-000560",
+    "ts": "2026-11-10T12:44:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 52.99,
+    "currency": "GBP",
+    "customId": "E2E-BG-0281",
+    "eventId": "WH-000561",
+    "rawRef": "synthetic://paypal/WH-000561",
+    "ts": "2026-11-10T07:09:36Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 52.99,
+    "currency": "GBP",
+    "customId": "E2E-BG-0281",
+    "eventId": "WH-000562",
+    "rawRef": "synthetic://paypal/WH-000562",
+    "ts": "2026-11-10T07:10:36Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2471.86,
+    "currency": "GBP",
+    "customId": "E2E-BG-0282",
+    "eventId": "WH-000563",
+    "rawRef": "synthetic://paypal/WH-000563",
+    "ts": "2026-10-26T19:29:14Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2471.86,
+    "currency": "GBP",
+    "customId": "E2E-BG-0282",
+    "eventId": "WH-000564",
+    "rawRef": "synthetic://paypal/WH-000564",
+    "ts": "2026-10-26T19:30:14Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2001.44,
+    "currency": "GBP",
+    "customId": "E2E-BG-0283",
+    "eventId": "WH-000565",
+    "rawRef": "synthetic://paypal/WH-000565",
+    "ts": "2026-10-25T02:32:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2001.44,
+    "currency": "GBP",
+    "customId": "E2E-BG-0283",
+    "eventId": "WH-000566",
+    "rawRef": "synthetic://paypal/WH-000566",
+    "ts": "2026-10-25T02:33:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 182.16,
+    "currency": "EUR",
+    "customId": "E2E-BG-0284",
+    "eventId": "WH-000567",
+    "rawRef": "synthetic://paypal/WH-000567",
+    "ts": "2026-11-06T18:02:25Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 182.16,
+    "currency": "EUR",
+    "customId": "E2E-BG-0284",
+    "eventId": "WH-000568",
+    "rawRef": "synthetic://paypal/WH-000568",
+    "ts": "2026-11-06T18:03:25Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3497.26,
+    "currency": "EUR",
+    "customId": "E2E-BG-0285",
+    "eventId": "WH-000569",
+    "rawRef": "synthetic://paypal/WH-000569",
+    "ts": "2026-10-17T08:14:20Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3497.26,
+    "currency": "EUR",
+    "customId": "E2E-BG-0285",
+    "eventId": "WH-000570",
+    "rawRef": "synthetic://paypal/WH-000570",
+    "ts": "2026-10-17T08:15:20Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2913.42,
+    "currency": "EUR",
+    "customId": "E2E-BG-0286",
+    "eventId": "WH-000571",
+    "rawRef": "synthetic://paypal/WH-000571",
+    "ts": "2026-10-29T22:03:56Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2913.42,
+    "currency": "EUR",
+    "customId": "E2E-BG-0286",
+    "eventId": "WH-000572",
+    "rawRef": "synthetic://paypal/WH-000572",
+    "ts": "2026-10-29T22:04:56Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1200.95,
+    "currency": "EUR",
+    "customId": "E2E-BG-0287",
+    "eventId": "WH-000573",
+    "rawRef": "synthetic://paypal/WH-000573",
+    "ts": "2026-10-24T06:14:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1200.95,
+    "currency": "EUR",
+    "customId": "E2E-BG-0287",
+    "eventId": "WH-000574",
+    "rawRef": "synthetic://paypal/WH-000574",
+    "ts": "2026-10-24T06:15:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1068.45,
+    "currency": "GBP",
+    "customId": "E2E-BG-0288",
+    "eventId": "WH-000575",
+    "rawRef": "synthetic://paypal/WH-000575",
+    "ts": "2026-11-01T01:55:45Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1068.45,
+    "currency": "GBP",
+    "customId": "E2E-BG-0288",
+    "eventId": "WH-000576",
+    "rawRef": "synthetic://paypal/WH-000576",
+    "ts": "2026-11-01T01:56:45Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 915.85,
+    "currency": "USD",
+    "customId": "E2E-BG-0289",
+    "eventId": "WH-000577",
+    "rawRef": "synthetic://paypal/WH-000577",
+    "ts": "2026-11-02T09:08:14Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 915.85,
+    "currency": "USD",
+    "customId": "E2E-BG-0289",
+    "eventId": "WH-000578",
+    "rawRef": "synthetic://paypal/WH-000578",
+    "ts": "2026-11-02T09:09:14Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1364.35,
+    "currency": "USD",
+    "customId": "E2E-BG-0290",
+    "eventId": "WH-000579",
+    "rawRef": "synthetic://paypal/WH-000579",
+    "ts": "2026-11-15T11:48:39Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1364.35,
+    "currency": "USD",
+    "customId": "E2E-BG-0290",
+    "eventId": "WH-000580",
+    "rawRef": "synthetic://paypal/WH-000580",
+    "ts": "2026-11-15T11:49:39Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 764.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0291",
+    "eventId": "WH-000581",
+    "rawRef": "synthetic://paypal/WH-000581",
+    "ts": "2026-11-16T08:27:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 764.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0291",
+    "eventId": "WH-000582",
+    "rawRef": "synthetic://paypal/WH-000582",
+    "ts": "2026-11-16T08:28:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2679.23,
+    "currency": "EUR",
+    "customId": "E2E-BG-0292",
+    "eventId": "WH-000583",
+    "rawRef": "synthetic://paypal/WH-000583",
+    "ts": "2026-11-05T14:21:24Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2679.23,
+    "currency": "EUR",
+    "customId": "E2E-BG-0292",
+    "eventId": "WH-000584",
+    "rawRef": "synthetic://paypal/WH-000584",
+    "ts": "2026-11-05T14:22:24Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 257.59,
+    "currency": "USD",
+    "customId": "E2E-BG-0293",
+    "eventId": "WH-000585",
+    "rawRef": "synthetic://paypal/WH-000585",
+    "ts": "2026-11-08T01:34:30Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 257.59,
+    "currency": "USD",
+    "customId": "E2E-BG-0293",
+    "eventId": "WH-000586",
+    "rawRef": "synthetic://paypal/WH-000586",
+    "ts": "2026-11-08T01:35:30Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4198.08,
+    "currency": "USD",
+    "customId": "E2E-BG-0294",
+    "eventId": "WH-000587",
+    "rawRef": "synthetic://paypal/WH-000587",
+    "ts": "2026-11-03T15:12:31Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4198.08,
+    "currency": "USD",
+    "customId": "E2E-BG-0294",
+    "eventId": "WH-000588",
+    "rawRef": "synthetic://paypal/WH-000588",
+    "ts": "2026-11-03T15:13:31Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4660.59,
+    "currency": "EUR",
+    "customId": "E2E-BG-0295",
+    "eventId": "WH-000589",
+    "rawRef": "synthetic://paypal/WH-000589",
+    "ts": "2026-11-07T13:31:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4660.59,
+    "currency": "EUR",
+    "customId": "E2E-BG-0295",
+    "eventId": "WH-000590",
+    "rawRef": "synthetic://paypal/WH-000590",
+    "ts": "2026-11-07T13:32:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4816.32,
+    "currency": "USD",
+    "customId": "E2E-BG-0296",
+    "eventId": "WH-000591",
+    "rawRef": "synthetic://paypal/WH-000591",
+    "ts": "2026-11-13T11:46:29Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4816.32,
+    "currency": "USD",
+    "customId": "E2E-BG-0296",
+    "eventId": "WH-000592",
+    "rawRef": "synthetic://paypal/WH-000592",
+    "ts": "2026-11-13T11:47:29Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1437.35,
+    "currency": "EUR",
+    "customId": "E2E-BG-0297",
+    "eventId": "WH-000593",
+    "rawRef": "synthetic://paypal/WH-000593",
+    "ts": "2026-11-18T09:07:33Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1437.35,
+    "currency": "EUR",
+    "customId": "E2E-BG-0297",
+    "eventId": "WH-000594",
+    "rawRef": "synthetic://paypal/WH-000594",
+    "ts": "2026-11-18T09:08:33Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1917.73,
+    "currency": "EUR",
+    "customId": "E2E-BG-0298",
+    "eventId": "WH-000595",
+    "rawRef": "synthetic://paypal/WH-000595",
+    "ts": "2026-10-15T07:21:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1917.73,
+    "currency": "EUR",
+    "customId": "E2E-BG-0298",
+    "eventId": "WH-000596",
+    "rawRef": "synthetic://paypal/WH-000596",
+    "ts": "2026-10-15T07:22:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4042.43,
+    "currency": "EUR",
+    "customId": "E2E-BG-0299",
+    "eventId": "WH-000597",
+    "rawRef": "synthetic://paypal/WH-000597",
+    "ts": "2026-11-11T14:19:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4042.43,
+    "currency": "EUR",
+    "customId": "E2E-BG-0299",
+    "eventId": "WH-000598",
+    "rawRef": "synthetic://paypal/WH-000598",
+    "ts": "2026-11-11T14:20:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 413.98,
+    "currency": "EUR",
+    "customId": "E2E-BG-0300",
+    "eventId": "WH-000599",
+    "rawRef": "synthetic://paypal/WH-000599",
+    "ts": "2026-10-14T23:07:18Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 413.98,
+    "currency": "EUR",
+    "customId": "E2E-BG-0300",
+    "eventId": "WH-000600",
+    "rawRef": "synthetic://paypal/WH-000600",
+    "ts": "2026-10-14T23:08:18Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3034.82,
+    "currency": "EUR",
+    "customId": "E2E-BG-0301",
+    "eventId": "WH-000601",
+    "rawRef": "synthetic://paypal/WH-000601",
+    "ts": "2026-10-24T11:37:40Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3034.82,
+    "currency": "EUR",
+    "customId": "E2E-BG-0301",
+    "eventId": "WH-000602",
+    "rawRef": "synthetic://paypal/WH-000602",
+    "ts": "2026-10-24T11:38:40Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2942.86,
+    "currency": "EUR",
+    "customId": "E2E-BG-0302",
+    "eventId": "WH-000603",
+    "rawRef": "synthetic://paypal/WH-000603",
+    "ts": "2026-11-16T19:21:41Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2942.86,
+    "currency": "EUR",
+    "customId": "E2E-BG-0302",
+    "eventId": "WH-000604",
+    "rawRef": "synthetic://paypal/WH-000604",
+    "ts": "2026-11-16T19:22:41Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1188.44,
+    "currency": "EUR",
+    "customId": "E2E-BG-0303",
+    "eventId": "WH-000605",
+    "rawRef": "synthetic://paypal/WH-000605",
+    "ts": "2026-11-15T19:54:58Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1188.44,
+    "currency": "EUR",
+    "customId": "E2E-BG-0303",
+    "eventId": "WH-000606",
+    "rawRef": "synthetic://paypal/WH-000606",
+    "ts": "2026-11-15T19:55:58Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1997.29,
+    "currency": "USD",
+    "customId": "E2E-BG-0304",
+    "eventId": "WH-000607",
+    "rawRef": "synthetic://paypal/WH-000607",
+    "ts": "2026-10-19T14:27:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1997.29,
+    "currency": "USD",
+    "customId": "E2E-BG-0304",
+    "eventId": "WH-000608",
+    "rawRef": "synthetic://paypal/WH-000608",
+    "ts": "2026-10-19T14:28:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3859.25,
+    "currency": "GBP",
+    "customId": "E2E-BG-0305",
+    "eventId": "WH-000609",
+    "rawRef": "synthetic://paypal/WH-000609",
+    "ts": "2026-10-12T18:43:02Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3859.25,
+    "currency": "GBP",
+    "customId": "E2E-BG-0305",
+    "eventId": "WH-000610",
+    "rawRef": "synthetic://paypal/WH-000610",
+    "ts": "2026-10-12T18:44:02Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 439.87,
+    "currency": "EUR",
+    "customId": "E2E-BG-0306",
+    "eventId": "WH-000611",
+    "rawRef": "synthetic://paypal/WH-000611",
+    "ts": "2026-10-19T00:54:27Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 439.87,
+    "currency": "EUR",
+    "customId": "E2E-BG-0306",
+    "eventId": "WH-000612",
+    "rawRef": "synthetic://paypal/WH-000612",
+    "ts": "2026-10-19T00:55:27Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 649.53,
+    "currency": "GBP",
+    "customId": "E2E-BG-0307",
+    "eventId": "WH-000613",
+    "rawRef": "synthetic://paypal/WH-000613",
+    "ts": "2026-11-10T21:54:10Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 649.53,
+    "currency": "GBP",
+    "customId": "E2E-BG-0307",
+    "eventId": "WH-000614",
+    "rawRef": "synthetic://paypal/WH-000614",
+    "ts": "2026-11-10T21:55:10Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4323.92,
+    "currency": "EUR",
+    "customId": "E2E-BG-0308",
+    "eventId": "WH-000615",
+    "rawRef": "synthetic://paypal/WH-000615",
+    "ts": "2026-10-27T06:53:13Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4323.92,
+    "currency": "EUR",
+    "customId": "E2E-BG-0308",
+    "eventId": "WH-000616",
+    "rawRef": "synthetic://paypal/WH-000616",
+    "ts": "2026-10-27T06:54:13Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 692.87,
+    "currency": "GBP",
+    "customId": "E2E-BG-0309",
+    "eventId": "WH-000617",
+    "rawRef": "synthetic://paypal/WH-000617",
+    "ts": "2026-11-02T02:16:54Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 692.87,
+    "currency": "GBP",
+    "customId": "E2E-BG-0309",
+    "eventId": "WH-000618",
+    "rawRef": "synthetic://paypal/WH-000618",
+    "ts": "2026-11-02T02:17:54Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3186.54,
+    "currency": "GBP",
+    "customId": "E2E-BG-0310",
+    "eventId": "WH-000619",
+    "rawRef": "synthetic://paypal/WH-000619",
+    "ts": "2026-11-16T20:32:42Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3186.54,
+    "currency": "GBP",
+    "customId": "E2E-BG-0310",
+    "eventId": "WH-000620",
+    "rawRef": "synthetic://paypal/WH-000620",
+    "ts": "2026-11-16T20:33:42Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2418.63,
+    "currency": "USD",
+    "customId": "E2E-BG-0311",
+    "eventId": "WH-000621",
+    "rawRef": "synthetic://paypal/WH-000621",
+    "ts": "2026-10-28T08:28:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2418.63,
+    "currency": "USD",
+    "customId": "E2E-BG-0311",
+    "eventId": "WH-000622",
+    "rawRef": "synthetic://paypal/WH-000622",
+    "ts": "2026-10-28T08:29:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 795.47,
+    "currency": "USD",
+    "customId": "E2E-BG-0312",
+    "eventId": "WH-000623",
+    "rawRef": "synthetic://paypal/WH-000623",
+    "ts": "2026-10-24T02:41:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 795.47,
+    "currency": "USD",
+    "customId": "E2E-BG-0312",
+    "eventId": "WH-000624",
+    "rawRef": "synthetic://paypal/WH-000624",
+    "ts": "2026-10-24T02:42:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1448.08,
+    "currency": "GBP",
+    "customId": "E2E-BG-0313",
+    "eventId": "WH-000625",
+    "rawRef": "synthetic://paypal/WH-000625",
+    "ts": "2026-10-28T04:39:17Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1448.08,
+    "currency": "GBP",
+    "customId": "E2E-BG-0313",
+    "eventId": "WH-000626",
+    "rawRef": "synthetic://paypal/WH-000626",
+    "ts": "2026-10-28T04:40:17Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 65.48,
+    "currency": "EUR",
+    "customId": "E2E-BG-0314",
+    "eventId": "WH-000627",
+    "rawRef": "synthetic://paypal/WH-000627",
+    "ts": "2026-10-26T01:04:17Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 65.48,
+    "currency": "EUR",
+    "customId": "E2E-BG-0314",
+    "eventId": "WH-000628",
+    "rawRef": "synthetic://paypal/WH-000628",
+    "ts": "2026-10-26T01:05:17Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1880.75,
+    "currency": "EUR",
+    "customId": "E2E-BG-0315",
+    "eventId": "WH-000629",
+    "rawRef": "synthetic://paypal/WH-000629",
+    "ts": "2026-11-07T02:42:48Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1880.75,
+    "currency": "EUR",
+    "customId": "E2E-BG-0315",
+    "eventId": "WH-000630",
+    "rawRef": "synthetic://paypal/WH-000630",
+    "ts": "2026-11-07T02:43:48Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3690.85,
+    "currency": "EUR",
+    "customId": "E2E-BG-0316",
+    "eventId": "WH-000631",
+    "rawRef": "synthetic://paypal/WH-000631",
+    "ts": "2026-11-15T04:57:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3690.85,
+    "currency": "EUR",
+    "customId": "E2E-BG-0316",
+    "eventId": "WH-000632",
+    "rawRef": "synthetic://paypal/WH-000632",
+    "ts": "2026-11-15T04:58:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1213.02,
+    "currency": "GBP",
+    "customId": "E2E-BG-0317",
+    "eventId": "WH-000633",
+    "rawRef": "synthetic://paypal/WH-000633",
+    "ts": "2026-11-10T20:33:14Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1213.02,
+    "currency": "GBP",
+    "customId": "E2E-BG-0317",
+    "eventId": "WH-000634",
+    "rawRef": "synthetic://paypal/WH-000634",
+    "ts": "2026-11-10T20:34:14Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2669.08,
+    "currency": "EUR",
+    "customId": "E2E-BG-0318",
+    "eventId": "WH-000635",
+    "rawRef": "synthetic://paypal/WH-000635",
+    "ts": "2026-11-16T13:34:21Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2669.08,
+    "currency": "EUR",
+    "customId": "E2E-BG-0318",
+    "eventId": "WH-000636",
+    "rawRef": "synthetic://paypal/WH-000636",
+    "ts": "2026-11-16T13:35:21Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 569.57,
+    "currency": "EUR",
+    "customId": "E2E-BG-0319",
+    "eventId": "WH-000637",
+    "rawRef": "synthetic://paypal/WH-000637",
+    "ts": "2026-10-25T13:24:10Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 569.57,
+    "currency": "EUR",
+    "customId": "E2E-BG-0319",
+    "eventId": "WH-000638",
+    "rawRef": "synthetic://paypal/WH-000638",
+    "ts": "2026-10-25T13:25:10Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1616.81,
+    "currency": "USD",
+    "customId": "E2E-BG-0320",
+    "eventId": "WH-000639",
+    "rawRef": "synthetic://paypal/WH-000639",
+    "ts": "2026-10-20T14:47:26Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1616.81,
+    "currency": "USD",
+    "customId": "E2E-BG-0320",
+    "eventId": "WH-000640",
+    "rawRef": "synthetic://paypal/WH-000640",
+    "ts": "2026-10-20T14:48:26Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1360.59,
+    "currency": "GBP",
+    "customId": "E2E-BG-0321",
+    "eventId": "WH-000641",
+    "rawRef": "synthetic://paypal/WH-000641",
+    "ts": "2026-10-25T04:41:14Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1360.59,
+    "currency": "GBP",
+    "customId": "E2E-BG-0321",
+    "eventId": "WH-000642",
+    "rawRef": "synthetic://paypal/WH-000642",
+    "ts": "2026-10-25T04:42:14Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2478.03,
+    "currency": "EUR",
+    "customId": "E2E-BG-0322",
+    "eventId": "WH-000643",
+    "rawRef": "synthetic://paypal/WH-000643",
+    "ts": "2026-10-12T05:09:20Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2478.03,
+    "currency": "EUR",
+    "customId": "E2E-BG-0322",
+    "eventId": "WH-000644",
+    "rawRef": "synthetic://paypal/WH-000644",
+    "ts": "2026-10-12T05:10:20Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3490.74,
+    "currency": "USD",
+    "customId": "E2E-BG-0323",
+    "eventId": "WH-000645",
+    "rawRef": "synthetic://paypal/WH-000645",
+    "ts": "2026-11-03T00:13:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3490.74,
+    "currency": "USD",
+    "customId": "E2E-BG-0323",
+    "eventId": "WH-000646",
+    "rawRef": "synthetic://paypal/WH-000646",
+    "ts": "2026-11-03T00:14:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3882.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0324",
+    "eventId": "WH-000647",
+    "rawRef": "synthetic://paypal/WH-000647",
+    "ts": "2026-10-24T10:29:57Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3882.75,
+    "currency": "USD",
+    "customId": "E2E-BG-0324",
+    "eventId": "WH-000648",
+    "rawRef": "synthetic://paypal/WH-000648",
+    "ts": "2026-10-24T10:30:57Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4144.7,
+    "currency": "USD",
+    "customId": "E2E-BG-0325",
+    "eventId": "WH-000649",
+    "rawRef": "synthetic://paypal/WH-000649",
+    "ts": "2026-10-30T00:34:11Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4144.7,
+    "currency": "USD",
+    "customId": "E2E-BG-0325",
+    "eventId": "WH-000650",
+    "rawRef": "synthetic://paypal/WH-000650",
+    "ts": "2026-10-30T00:35:11Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1250.87,
+    "currency": "USD",
+    "customId": "E2E-BG-0326",
+    "eventId": "WH-000651",
+    "rawRef": "synthetic://paypal/WH-000651",
+    "ts": "2026-11-02T00:05:12Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1250.87,
+    "currency": "USD",
+    "customId": "E2E-BG-0326",
+    "eventId": "WH-000652",
+    "rawRef": "synthetic://paypal/WH-000652",
+    "ts": "2026-11-02T00:06:12Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4910.94,
+    "currency": "EUR",
+    "customId": "E2E-BG-0327",
+    "eventId": "WH-000653",
+    "rawRef": "synthetic://paypal/WH-000653",
+    "ts": "2026-11-12T19:57:19Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4910.94,
+    "currency": "EUR",
+    "customId": "E2E-BG-0327",
+    "eventId": "WH-000654",
+    "rawRef": "synthetic://paypal/WH-000654",
+    "ts": "2026-11-12T19:58:19Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3646.62,
+    "currency": "GBP",
+    "customId": "E2E-BG-0328",
+    "eventId": "WH-000655",
+    "rawRef": "synthetic://paypal/WH-000655",
+    "ts": "2026-11-11T01:01:46Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3646.62,
+    "currency": "GBP",
+    "customId": "E2E-BG-0328",
+    "eventId": "WH-000656",
+    "rawRef": "synthetic://paypal/WH-000656",
+    "ts": "2026-11-11T01:02:46Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1508.09,
+    "currency": "EUR",
+    "customId": "E2E-BG-0329",
+    "eventId": "WH-000657",
+    "rawRef": "synthetic://paypal/WH-000657",
+    "ts": "2026-11-11T11:55:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1508.09,
+    "currency": "EUR",
+    "customId": "E2E-BG-0329",
+    "eventId": "WH-000658",
+    "rawRef": "synthetic://paypal/WH-000658",
+    "ts": "2026-11-11T11:56:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3171.89,
+    "currency": "EUR",
+    "customId": "E2E-BG-0330",
+    "eventId": "WH-000659",
+    "rawRef": "synthetic://paypal/WH-000659",
+    "ts": "2026-10-22T22:55:12Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3171.89,
+    "currency": "EUR",
+    "customId": "E2E-BG-0330",
+    "eventId": "WH-000660",
+    "rawRef": "synthetic://paypal/WH-000660",
+    "ts": "2026-10-22T22:56:12Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3949.94,
+    "currency": "USD",
+    "customId": "E2E-BG-0331",
+    "eventId": "WH-000661",
+    "rawRef": "synthetic://paypal/WH-000661",
+    "ts": "2026-10-30T17:09:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3949.94,
+    "currency": "USD",
+    "customId": "E2E-BG-0331",
+    "eventId": "WH-000662",
+    "rawRef": "synthetic://paypal/WH-000662",
+    "ts": "2026-10-30T17:10:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2989.14,
+    "currency": "EUR",
+    "customId": "E2E-BG-0332",
+    "eventId": "WH-000663",
+    "rawRef": "synthetic://paypal/WH-000663",
+    "ts": "2026-11-13T22:03:06Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2989.14,
+    "currency": "EUR",
+    "customId": "E2E-BG-0332",
+    "eventId": "WH-000664",
+    "rawRef": "synthetic://paypal/WH-000664",
+    "ts": "2026-11-13T22:04:06Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3100.85,
+    "currency": "GBP",
+    "customId": "E2E-BG-0333",
+    "eventId": "WH-000665",
+    "rawRef": "synthetic://paypal/WH-000665",
+    "ts": "2026-11-13T19:11:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3100.85,
+    "currency": "GBP",
+    "customId": "E2E-BG-0333",
+    "eventId": "WH-000666",
+    "rawRef": "synthetic://paypal/WH-000666",
+    "ts": "2026-11-13T19:12:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3961.5,
+    "currency": "USD",
+    "customId": "E2E-BG-0334",
+    "eventId": "WH-000667",
+    "rawRef": "synthetic://paypal/WH-000667",
+    "ts": "2026-11-06T12:53:48Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3961.5,
+    "currency": "USD",
+    "customId": "E2E-BG-0334",
+    "eventId": "WH-000668",
+    "rawRef": "synthetic://paypal/WH-000668",
+    "ts": "2026-11-06T12:54:48Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3788.35,
+    "currency": "EUR",
+    "customId": "E2E-BG-0335",
+    "eventId": "WH-000669",
+    "rawRef": "synthetic://paypal/WH-000669",
+    "ts": "2026-11-11T19:04:01Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3788.35,
+    "currency": "EUR",
+    "customId": "E2E-BG-0335",
+    "eventId": "WH-000670",
+    "rawRef": "synthetic://paypal/WH-000670",
+    "ts": "2026-11-11T19:05:01Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 690.97,
+    "currency": "USD",
+    "customId": "E2E-BG-0336",
+    "eventId": "WH-000671",
+    "rawRef": "synthetic://paypal/WH-000671",
+    "ts": "2026-11-15T15:59:10Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 690.97,
+    "currency": "USD",
+    "customId": "E2E-BG-0336",
+    "eventId": "WH-000672",
+    "rawRef": "synthetic://paypal/WH-000672",
+    "ts": "2026-11-15T16:00:10Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2460.66,
+    "currency": "GBP",
+    "customId": "E2E-BG-0337",
+    "eventId": "WH-000673",
+    "rawRef": "synthetic://paypal/WH-000673",
+    "ts": "2026-11-14T08:06:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2460.66,
+    "currency": "GBP",
+    "customId": "E2E-BG-0337",
+    "eventId": "WH-000674",
+    "rawRef": "synthetic://paypal/WH-000674",
+    "ts": "2026-11-14T08:07:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4340.96,
+    "currency": "GBP",
+    "customId": "E2E-BG-0338",
+    "eventId": "WH-000675",
+    "rawRef": "synthetic://paypal/WH-000675",
+    "ts": "2026-10-24T20:46:34Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4340.96,
+    "currency": "GBP",
+    "customId": "E2E-BG-0338",
+    "eventId": "WH-000676",
+    "rawRef": "synthetic://paypal/WH-000676",
+    "ts": "2026-10-24T20:47:34Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2257.93,
+    "currency": "EUR",
+    "customId": "E2E-BG-0339",
+    "eventId": "WH-000677",
+    "rawRef": "synthetic://paypal/WH-000677",
+    "ts": "2026-10-19T00:37:03Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2257.93,
+    "currency": "EUR",
+    "customId": "E2E-BG-0339",
+    "eventId": "WH-000678",
+    "rawRef": "synthetic://paypal/WH-000678",
+    "ts": "2026-10-19T00:38:03Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1907.64,
+    "currency": "USD",
+    "customId": "E2E-BG-0340",
+    "eventId": "WH-000679",
+    "rawRef": "synthetic://paypal/WH-000679",
+    "ts": "2026-11-05T01:29:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1907.64,
+    "currency": "USD",
+    "customId": "E2E-BG-0340",
+    "eventId": "WH-000680",
+    "rawRef": "synthetic://paypal/WH-000680",
+    "ts": "2026-11-05T01:30:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1209.16,
+    "currency": "GBP",
+    "customId": "E2E-BG-0341",
+    "eventId": "WH-000681",
+    "rawRef": "synthetic://paypal/WH-000681",
+    "ts": "2026-11-10T14:34:56Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1209.16,
+    "currency": "GBP",
+    "customId": "E2E-BG-0341",
+    "eventId": "WH-000682",
+    "rawRef": "synthetic://paypal/WH-000682",
+    "ts": "2026-11-10T14:35:56Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2629.87,
+    "currency": "EUR",
+    "customId": "E2E-BG-0342",
+    "eventId": "WH-000683",
+    "rawRef": "synthetic://paypal/WH-000683",
+    "ts": "2026-10-20T17:12:50Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2629.87,
+    "currency": "EUR",
+    "customId": "E2E-BG-0342",
+    "eventId": "WH-000684",
+    "rawRef": "synthetic://paypal/WH-000684",
+    "ts": "2026-10-20T17:13:50Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3211.7,
+    "currency": "USD",
+    "customId": "E2E-BG-0343",
+    "eventId": "WH-000685",
+    "rawRef": "synthetic://paypal/WH-000685",
+    "ts": "2026-10-31T09:27:24Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3211.7,
+    "currency": "USD",
+    "customId": "E2E-BG-0343",
+    "eventId": "WH-000686",
+    "rawRef": "synthetic://paypal/WH-000686",
+    "ts": "2026-10-31T09:28:24Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 909.62,
+    "currency": "USD",
+    "customId": "E2E-BG-0344",
+    "eventId": "WH-000687",
+    "rawRef": "synthetic://paypal/WH-000687",
+    "ts": "2026-10-17T19:11:52Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 909.62,
+    "currency": "USD",
+    "customId": "E2E-BG-0344",
+    "eventId": "WH-000688",
+    "rawRef": "synthetic://paypal/WH-000688",
+    "ts": "2026-10-17T19:12:52Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3215.92,
+    "currency": "EUR",
+    "customId": "E2E-BG-0345",
+    "eventId": "WH-000689",
+    "rawRef": "synthetic://paypal/WH-000689",
+    "ts": "2026-11-08T05:16:38Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3215.92,
+    "currency": "EUR",
+    "customId": "E2E-BG-0345",
+    "eventId": "WH-000690",
+    "rawRef": "synthetic://paypal/WH-000690",
+    "ts": "2026-11-08T05:17:38Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 264.45,
+    "currency": "USD",
+    "customId": "E2E-BG-0346",
+    "eventId": "WH-000691",
+    "rawRef": "synthetic://paypal/WH-000691",
+    "ts": "2026-10-23T22:11:24Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 264.45,
+    "currency": "USD",
+    "customId": "E2E-BG-0346",
+    "eventId": "WH-000692",
+    "rawRef": "synthetic://paypal/WH-000692",
+    "ts": "2026-10-23T22:12:24Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4643.45,
+    "currency": "USD",
+    "customId": "E2E-BG-0347",
+    "eventId": "WH-000693",
+    "rawRef": "synthetic://paypal/WH-000693",
+    "ts": "2026-11-04T08:31:44Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4643.45,
+    "currency": "USD",
+    "customId": "E2E-BG-0347",
+    "eventId": "WH-000694",
+    "rawRef": "synthetic://paypal/WH-000694",
+    "ts": "2026-11-04T08:32:44Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4692.45,
+    "currency": "EUR",
+    "customId": "E2E-BG-0348",
+    "eventId": "WH-000695",
+    "rawRef": "synthetic://paypal/WH-000695",
+    "ts": "2026-11-16T14:12:50Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4692.45,
+    "currency": "EUR",
+    "customId": "E2E-BG-0348",
+    "eventId": "WH-000696",
+    "rawRef": "synthetic://paypal/WH-000696",
+    "ts": "2026-11-16T14:13:50Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1343.76,
+    "currency": "USD",
+    "customId": "E2E-BG-0349",
+    "eventId": "WH-000697",
+    "rawRef": "synthetic://paypal/WH-000697",
+    "ts": "2026-11-10T10:46:45Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1343.76,
+    "currency": "USD",
+    "customId": "E2E-BG-0349",
+    "eventId": "WH-000698",
+    "rawRef": "synthetic://paypal/WH-000698",
+    "ts": "2026-11-10T10:47:45Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 503.65,
+    "currency": "GBP",
+    "customId": "E2E-BG-0350",
+    "eventId": "WH-000699",
+    "rawRef": "synthetic://paypal/WH-000699",
+    "ts": "2026-11-05T17:14:39Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 503.65,
+    "currency": "GBP",
+    "customId": "E2E-BG-0350",
+    "eventId": "WH-000700",
+    "rawRef": "synthetic://paypal/WH-000700",
+    "ts": "2026-11-05T17:15:39Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1258.84,
+    "currency": "GBP",
+    "customId": "E2E-BG-0351",
+    "eventId": "WH-000701",
+    "rawRef": "synthetic://paypal/WH-000701",
+    "ts": "2026-11-12T09:18:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1258.84,
+    "currency": "GBP",
+    "customId": "E2E-BG-0351",
+    "eventId": "WH-000702",
+    "rawRef": "synthetic://paypal/WH-000702",
+    "ts": "2026-11-12T09:19:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 545.46,
+    "currency": "GBP",
+    "customId": "E2E-BG-0352",
+    "eventId": "WH-000703",
+    "rawRef": "synthetic://paypal/WH-000703",
+    "ts": "2026-11-16T17:16:45Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 545.46,
+    "currency": "GBP",
+    "customId": "E2E-BG-0352",
+    "eventId": "WH-000704",
+    "rawRef": "synthetic://paypal/WH-000704",
+    "ts": "2026-11-16T17:17:45Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4416.46,
+    "currency": "USD",
+    "customId": "E2E-BG-0353",
+    "eventId": "WH-000705",
+    "rawRef": "synthetic://paypal/WH-000705",
+    "ts": "2026-11-01T05:34:42Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4416.46,
+    "currency": "USD",
+    "customId": "E2E-BG-0353",
+    "eventId": "WH-000706",
+    "rawRef": "synthetic://paypal/WH-000706",
+    "ts": "2026-11-01T05:35:42Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 807.72,
+    "currency": "GBP",
+    "customId": "E2E-BG-0354",
+    "eventId": "WH-000707",
+    "rawRef": "synthetic://paypal/WH-000707",
+    "ts": "2026-11-12T10:04:48Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 807.72,
+    "currency": "GBP",
+    "customId": "E2E-BG-0354",
+    "eventId": "WH-000708",
+    "rawRef": "synthetic://paypal/WH-000708",
+    "ts": "2026-11-12T10:05:48Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4227.37,
+    "currency": "EUR",
+    "customId": "E2E-BG-0355",
+    "eventId": "WH-000709",
+    "rawRef": "synthetic://paypal/WH-000709",
+    "ts": "2026-10-27T06:14:58Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4227.37,
+    "currency": "EUR",
+    "customId": "E2E-BG-0355",
+    "eventId": "WH-000710",
+    "rawRef": "synthetic://paypal/WH-000710",
+    "ts": "2026-10-27T06:15:58Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1218.8,
+    "currency": "GBP",
+    "customId": "E2E-BG-0356",
+    "eventId": "WH-000711",
+    "rawRef": "synthetic://paypal/WH-000711",
+    "ts": "2026-11-10T00:51:10Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1218.8,
+    "currency": "GBP",
+    "customId": "E2E-BG-0356",
+    "eventId": "WH-000712",
+    "rawRef": "synthetic://paypal/WH-000712",
+    "ts": "2026-11-10T00:52:10Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4809.03,
+    "currency": "EUR",
+    "customId": "E2E-BG-0357",
+    "eventId": "WH-000713",
+    "rawRef": "synthetic://paypal/WH-000713",
+    "ts": "2026-10-28T23:26:25Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4809.03,
+    "currency": "EUR",
+    "customId": "E2E-BG-0357",
+    "eventId": "WH-000714",
+    "rawRef": "synthetic://paypal/WH-000714",
+    "ts": "2026-10-28T23:27:25Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 101.19,
+    "currency": "USD",
+    "customId": "E2E-BG-0358",
+    "eventId": "WH-000715",
+    "rawRef": "synthetic://paypal/WH-000715",
+    "ts": "2026-11-09T10:06:50Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 101.19,
+    "currency": "USD",
+    "customId": "E2E-BG-0358",
+    "eventId": "WH-000716",
+    "rawRef": "synthetic://paypal/WH-000716",
+    "ts": "2026-11-09T10:07:50Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4281.49,
+    "currency": "USD",
+    "customId": "E2E-BG-0359",
+    "eventId": "WH-000717",
+    "rawRef": "synthetic://paypal/WH-000717",
+    "ts": "2026-10-21T22:17:12Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4281.49,
+    "currency": "USD",
+    "customId": "E2E-BG-0359",
+    "eventId": "WH-000718",
+    "rawRef": "synthetic://paypal/WH-000718",
+    "ts": "2026-10-21T22:18:12Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2566.13,
+    "currency": "GBP",
+    "customId": "E2E-BG-0360",
+    "eventId": "WH-000719",
+    "rawRef": "synthetic://paypal/WH-000719",
+    "ts": "2026-11-07T09:03:51Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2566.13,
+    "currency": "GBP",
+    "customId": "E2E-BG-0360",
+    "eventId": "WH-000720",
+    "rawRef": "synthetic://paypal/WH-000720",
+    "ts": "2026-11-07T09:04:51Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 797.41,
+    "currency": "EUR",
+    "customId": "E2E-BG-0361",
+    "eventId": "WH-000721",
+    "rawRef": "synthetic://paypal/WH-000721",
+    "ts": "2026-10-28T18:22:08Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 797.41,
+    "currency": "EUR",
+    "customId": "E2E-BG-0361",
+    "eventId": "WH-000722",
+    "rawRef": "synthetic://paypal/WH-000722",
+    "ts": "2026-10-28T18:23:08Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 477.69,
+    "currency": "EUR",
+    "customId": "E2E-BG-0362",
+    "eventId": "WH-000723",
+    "rawRef": "synthetic://paypal/WH-000723",
+    "ts": "2026-10-26T01:52:39Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 477.69,
+    "currency": "EUR",
+    "customId": "E2E-BG-0362",
+    "eventId": "WH-000724",
+    "rawRef": "synthetic://paypal/WH-000724",
+    "ts": "2026-10-26T01:53:39Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3968.66,
+    "currency": "USD",
+    "customId": "E2E-BG-0363",
+    "eventId": "WH-000725",
+    "rawRef": "synthetic://paypal/WH-000725",
+    "ts": "2026-10-27T06:17:37Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3968.66,
+    "currency": "USD",
+    "customId": "E2E-BG-0363",
+    "eventId": "WH-000726",
+    "rawRef": "synthetic://paypal/WH-000726",
+    "ts": "2026-10-27T06:18:37Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2984.25,
+    "currency": "EUR",
+    "customId": "E2E-BG-0364",
+    "eventId": "WH-000727",
+    "rawRef": "synthetic://paypal/WH-000727",
+    "ts": "2026-10-16T03:06:25Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2984.25,
+    "currency": "EUR",
+    "customId": "E2E-BG-0364",
+    "eventId": "WH-000728",
+    "rawRef": "synthetic://paypal/WH-000728",
+    "ts": "2026-10-16T03:07:25Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 298.5,
+    "currency": "EUR",
+    "customId": "E2E-BG-0365",
+    "eventId": "WH-000729",
+    "rawRef": "synthetic://paypal/WH-000729",
+    "ts": "2026-11-18T08:54:28Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 298.5,
+    "currency": "EUR",
+    "customId": "E2E-BG-0365",
+    "eventId": "WH-000730",
+    "rawRef": "synthetic://paypal/WH-000730",
+    "ts": "2026-11-18T08:55:28Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4351.54,
+    "currency": "USD",
+    "customId": "E2E-BG-0366",
+    "eventId": "WH-000731",
+    "rawRef": "synthetic://paypal/WH-000731",
+    "ts": "2026-10-17T08:26:23Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4351.54,
+    "currency": "USD",
+    "customId": "E2E-BG-0366",
+    "eventId": "WH-000732",
+    "rawRef": "synthetic://paypal/WH-000732",
+    "ts": "2026-10-17T08:27:23Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3168.32,
+    "currency": "USD",
+    "customId": "E2E-BG-0367",
+    "eventId": "WH-000733",
+    "rawRef": "synthetic://paypal/WH-000733",
+    "ts": "2026-11-18T05:45:30Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3168.32,
+    "currency": "USD",
+    "customId": "E2E-BG-0367",
+    "eventId": "WH-000734",
+    "rawRef": "synthetic://paypal/WH-000734",
+    "ts": "2026-11-18T05:46:30Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1647.62,
+    "currency": "GBP",
+    "customId": "E2E-BG-0368",
+    "eventId": "WH-000735",
+    "rawRef": "synthetic://paypal/WH-000735",
+    "ts": "2026-10-18T18:16:24Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1647.62,
+    "currency": "GBP",
+    "customId": "E2E-BG-0368",
+    "eventId": "WH-000736",
+    "rawRef": "synthetic://paypal/WH-000736",
+    "ts": "2026-10-18T18:17:24Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3769.14,
+    "currency": "GBP",
+    "customId": "E2E-BG-0369",
+    "eventId": "WH-000737",
+    "rawRef": "synthetic://paypal/WH-000737",
+    "ts": "2026-11-02T03:10:49Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3769.14,
+    "currency": "GBP",
+    "customId": "E2E-BG-0369",
+    "eventId": "WH-000738",
+    "rawRef": "synthetic://paypal/WH-000738",
+    "ts": "2026-11-02T03:11:49Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 757.1,
+    "currency": "EUR",
+    "customId": "E2E-BG-0370",
+    "eventId": "WH-000739",
+    "rawRef": "synthetic://paypal/WH-000739",
+    "ts": "2026-10-30T15:25:08Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 757.1,
+    "currency": "EUR",
+    "customId": "E2E-BG-0370",
+    "eventId": "WH-000740",
+    "rawRef": "synthetic://paypal/WH-000740",
+    "ts": "2026-10-30T15:26:08Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1327.54,
+    "currency": "EUR",
+    "customId": "E2E-BG-0371",
+    "eventId": "WH-000741",
+    "rawRef": "synthetic://paypal/WH-000741",
+    "ts": "2026-10-30T21:05:29Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1327.54,
+    "currency": "EUR",
+    "customId": "E2E-BG-0371",
+    "eventId": "WH-000742",
+    "rawRef": "synthetic://paypal/WH-000742",
+    "ts": "2026-10-30T21:06:29Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2414.99,
+    "currency": "USD",
+    "customId": "E2E-BG-0372",
+    "eventId": "WH-000743",
+    "rawRef": "synthetic://paypal/WH-000743",
+    "ts": "2026-10-18T01:08:08Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2414.99,
+    "currency": "USD",
+    "customId": "E2E-BG-0372",
+    "eventId": "WH-000744",
+    "rawRef": "synthetic://paypal/WH-000744",
+    "ts": "2026-10-18T01:09:08Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4985.45,
+    "currency": "GBP",
+    "customId": "E2E-BG-0373",
+    "eventId": "WH-000745",
+    "rawRef": "synthetic://paypal/WH-000745",
+    "ts": "2026-11-10T09:41:17Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4985.45,
+    "currency": "GBP",
+    "customId": "E2E-BG-0373",
+    "eventId": "WH-000746",
+    "rawRef": "synthetic://paypal/WH-000746",
+    "ts": "2026-11-10T09:42:17Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3430.0,
+    "currency": "GBP",
+    "customId": "E2E-BG-0374",
+    "eventId": "WH-000747",
+    "rawRef": "synthetic://paypal/WH-000747",
+    "ts": "2026-10-27T04:48:06Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3430.0,
+    "currency": "GBP",
+    "customId": "E2E-BG-0374",
+    "eventId": "WH-000748",
+    "rawRef": "synthetic://paypal/WH-000748",
+    "ts": "2026-10-27T04:49:06Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 968.64,
+    "currency": "EUR",
+    "customId": "E2E-BG-0375",
+    "eventId": "WH-000749",
+    "rawRef": "synthetic://paypal/WH-000749",
+    "ts": "2026-10-28T09:48:29Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 968.64,
+    "currency": "EUR",
+    "customId": "E2E-BG-0375",
+    "eventId": "WH-000750",
+    "rawRef": "synthetic://paypal/WH-000750",
+    "ts": "2026-10-28T09:49:29Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3088.78,
+    "currency": "EUR",
+    "customId": "E2E-BG-0376",
+    "eventId": "WH-000751",
+    "rawRef": "synthetic://paypal/WH-000751",
+    "ts": "2026-10-28T11:26:56Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3088.78,
+    "currency": "EUR",
+    "customId": "E2E-BG-0376",
+    "eventId": "WH-000752",
+    "rawRef": "synthetic://paypal/WH-000752",
+    "ts": "2026-10-28T11:27:56Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3433.09,
+    "currency": "USD",
+    "customId": "E2E-BG-0377",
+    "eventId": "WH-000753",
+    "rawRef": "synthetic://paypal/WH-000753",
+    "ts": "2026-10-21T04:39:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3433.09,
+    "currency": "USD",
+    "customId": "E2E-BG-0377",
+    "eventId": "WH-000754",
+    "rawRef": "synthetic://paypal/WH-000754",
+    "ts": "2026-10-21T04:40:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1230.38,
+    "currency": "GBP",
+    "customId": "E2E-BG-0378",
+    "eventId": "WH-000755",
+    "rawRef": "synthetic://paypal/WH-000755",
+    "ts": "2026-10-14T03:32:29Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1230.38,
+    "currency": "GBP",
+    "customId": "E2E-BG-0378",
+    "eventId": "WH-000756",
+    "rawRef": "synthetic://paypal/WH-000756",
+    "ts": "2026-10-14T03:33:29Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1729.49,
+    "currency": "USD",
+    "customId": "E2E-BG-0379",
+    "eventId": "WH-000757",
+    "rawRef": "synthetic://paypal/WH-000757",
+    "ts": "2026-10-12T04:00:01Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1729.49,
+    "currency": "USD",
+    "customId": "E2E-BG-0379",
+    "eventId": "WH-000758",
+    "rawRef": "synthetic://paypal/WH-000758",
+    "ts": "2026-10-12T04:01:01Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2699.27,
+    "currency": "USD",
+    "customId": "E2E-BG-0380",
+    "eventId": "WH-000759",
+    "rawRef": "synthetic://paypal/WH-000759",
+    "ts": "2026-11-16T10:10:39Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2699.27,
+    "currency": "USD",
+    "customId": "E2E-BG-0380",
+    "eventId": "WH-000760",
+    "rawRef": "synthetic://paypal/WH-000760",
+    "ts": "2026-11-16T10:11:39Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3655.02,
+    "currency": "USD",
+    "customId": "E2E-BG-0381",
+    "eventId": "WH-000761",
+    "rawRef": "synthetic://paypal/WH-000761",
+    "ts": "2026-11-10T17:53:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3655.02,
+    "currency": "USD",
+    "customId": "E2E-BG-0381",
+    "eventId": "WH-000762",
+    "rawRef": "synthetic://paypal/WH-000762",
+    "ts": "2026-11-10T17:54:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2643.46,
+    "currency": "EUR",
+    "customId": "E2E-BG-0382",
+    "eventId": "WH-000763",
+    "rawRef": "synthetic://paypal/WH-000763",
+    "ts": "2026-11-12T17:03:59Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2643.46,
+    "currency": "EUR",
+    "customId": "E2E-BG-0382",
+    "eventId": "WH-000764",
+    "rawRef": "synthetic://paypal/WH-000764",
+    "ts": "2026-11-12T17:04:59Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1370.98,
+    "currency": "EUR",
+    "customId": "E2E-BG-0383",
+    "eventId": "WH-000765",
+    "rawRef": "synthetic://paypal/WH-000765",
+    "ts": "2026-11-10T11:58:52Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1370.98,
+    "currency": "EUR",
+    "customId": "E2E-BG-0383",
+    "eventId": "WH-000766",
+    "rawRef": "synthetic://paypal/WH-000766",
+    "ts": "2026-11-10T11:59:52Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3321.65,
+    "currency": "GBP",
+    "customId": "E2E-BG-0384",
+    "eventId": "WH-000767",
+    "rawRef": "synthetic://paypal/WH-000767",
+    "ts": "2026-10-24T16:05:58Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3321.65,
+    "currency": "GBP",
+    "customId": "E2E-BG-0384",
+    "eventId": "WH-000768",
+    "rawRef": "synthetic://paypal/WH-000768",
+    "ts": "2026-10-24T16:06:58Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1944.89,
+    "currency": "EUR",
+    "customId": "E2E-BG-0385",
+    "eventId": "WH-000769",
+    "rawRef": "synthetic://paypal/WH-000769",
+    "ts": "2026-11-12T00:37:07Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1944.89,
+    "currency": "EUR",
+    "customId": "E2E-BG-0385",
+    "eventId": "WH-000770",
+    "rawRef": "synthetic://paypal/WH-000770",
+    "ts": "2026-11-12T00:38:07Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2667.17,
+    "currency": "USD",
+    "customId": "E2E-BG-0386",
+    "eventId": "WH-000771",
+    "rawRef": "synthetic://paypal/WH-000771",
+    "ts": "2026-11-09T11:40:45Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2667.17,
+    "currency": "USD",
+    "customId": "E2E-BG-0386",
+    "eventId": "WH-000772",
+    "rawRef": "synthetic://paypal/WH-000772",
+    "ts": "2026-11-09T11:41:45Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 217.97,
+    "currency": "GBP",
+    "customId": "E2E-BG-0387",
+    "eventId": "WH-000773",
+    "rawRef": "synthetic://paypal/WH-000773",
+    "ts": "2026-10-12T13:02:09Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 217.97,
+    "currency": "GBP",
+    "customId": "E2E-BG-0387",
+    "eventId": "WH-000774",
+    "rawRef": "synthetic://paypal/WH-000774",
+    "ts": "2026-10-12T13:03:09Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1746.96,
+    "currency": "EUR",
+    "customId": "E2E-BG-0388",
+    "eventId": "WH-000775",
+    "rawRef": "synthetic://paypal/WH-000775",
+    "ts": "2026-10-12T09:24:18Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1746.96,
+    "currency": "EUR",
+    "customId": "E2E-BG-0388",
+    "eventId": "WH-000776",
+    "rawRef": "synthetic://paypal/WH-000776",
+    "ts": "2026-10-12T09:25:18Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3136.45,
+    "currency": "EUR",
+    "customId": "E2E-BG-0389",
+    "eventId": "WH-000777",
+    "rawRef": "synthetic://paypal/WH-000777",
+    "ts": "2026-10-14T12:14:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3136.45,
+    "currency": "EUR",
+    "customId": "E2E-BG-0389",
+    "eventId": "WH-000778",
+    "rawRef": "synthetic://paypal/WH-000778",
+    "ts": "2026-10-14T12:15:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1143.4,
+    "currency": "EUR",
+    "customId": "E2E-BG-0390",
+    "eventId": "WH-000779",
+    "rawRef": "synthetic://paypal/WH-000779",
+    "ts": "2026-10-25T02:26:58Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1143.4,
+    "currency": "EUR",
+    "customId": "E2E-BG-0390",
+    "eventId": "WH-000780",
+    "rawRef": "synthetic://paypal/WH-000780",
+    "ts": "2026-10-25T02:27:58Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2613.17,
+    "currency": "GBP",
+    "customId": "E2E-BG-0391",
+    "eventId": "WH-000781",
+    "rawRef": "synthetic://paypal/WH-000781",
+    "ts": "2026-10-30T01:18:12Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2613.17,
+    "currency": "GBP",
+    "customId": "E2E-BG-0391",
+    "eventId": "WH-000782",
+    "rawRef": "synthetic://paypal/WH-000782",
+    "ts": "2026-10-30T01:19:12Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2873.03,
+    "currency": "EUR",
+    "customId": "E2E-BG-0392",
+    "eventId": "WH-000783",
+    "rawRef": "synthetic://paypal/WH-000783",
+    "ts": "2026-10-23T04:02:26Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2873.03,
+    "currency": "EUR",
+    "customId": "E2E-BG-0392",
+    "eventId": "WH-000784",
+    "rawRef": "synthetic://paypal/WH-000784",
+    "ts": "2026-10-23T04:03:26Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 676.23,
+    "currency": "GBP",
+    "customId": "E2E-BG-0393",
+    "eventId": "WH-000785",
+    "rawRef": "synthetic://paypal/WH-000785",
+    "ts": "2026-11-06T19:44:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 676.23,
+    "currency": "GBP",
+    "customId": "E2E-BG-0393",
+    "eventId": "WH-000786",
+    "rawRef": "synthetic://paypal/WH-000786",
+    "ts": "2026-11-06T19:45:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1558.81,
+    "currency": "GBP",
+    "customId": "E2E-BG-0394",
+    "eventId": "WH-000787",
+    "rawRef": "synthetic://paypal/WH-000787",
+    "ts": "2026-10-18T04:54:33Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1558.81,
+    "currency": "GBP",
+    "customId": "E2E-BG-0394",
+    "eventId": "WH-000788",
+    "rawRef": "synthetic://paypal/WH-000788",
+    "ts": "2026-10-18T04:55:33Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3288.03,
+    "currency": "GBP",
+    "customId": "E2E-BG-0395",
+    "eventId": "WH-000789",
+    "rawRef": "synthetic://paypal/WH-000789",
+    "ts": "2026-10-18T13:06:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3288.03,
+    "currency": "GBP",
+    "customId": "E2E-BG-0395",
+    "eventId": "WH-000790",
+    "rawRef": "synthetic://paypal/WH-000790",
+    "ts": "2026-10-18T13:07:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 609.57,
+    "currency": "EUR",
+    "customId": "E2E-BG-0396",
+    "eventId": "WH-000791",
+    "rawRef": "synthetic://paypal/WH-000791",
+    "ts": "2026-11-15T10:12:32Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 609.57,
+    "currency": "EUR",
+    "customId": "E2E-BG-0396",
+    "eventId": "WH-000792",
+    "rawRef": "synthetic://paypal/WH-000792",
+    "ts": "2026-11-15T10:13:32Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4403.06,
+    "currency": "EUR",
+    "customId": "E2E-BG-0397",
+    "eventId": "WH-000793",
+    "rawRef": "synthetic://paypal/WH-000793",
+    "ts": "2026-10-26T23:17:52Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4403.06,
+    "currency": "EUR",
+    "customId": "E2E-BG-0397",
+    "eventId": "WH-000794",
+    "rawRef": "synthetic://paypal/WH-000794",
+    "ts": "2026-10-26T23:18:52Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4667.59,
+    "currency": "EUR",
+    "customId": "E2E-BG-0398",
+    "eventId": "WH-000795",
+    "rawRef": "synthetic://paypal/WH-000795",
+    "ts": "2026-11-11T09:58:51Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4667.59,
+    "currency": "EUR",
+    "customId": "E2E-BG-0398",
+    "eventId": "WH-000796",
+    "rawRef": "synthetic://paypal/WH-000796",
+    "ts": "2026-11-11T09:59:51Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3816.99,
+    "currency": "GBP",
+    "customId": "E2E-BG-0399",
+    "eventId": "WH-000797",
+    "rawRef": "synthetic://paypal/WH-000797",
+    "ts": "2026-10-12T18:31:23Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3816.99,
+    "currency": "GBP",
+    "customId": "E2E-BG-0399",
+    "eventId": "WH-000798",
+    "rawRef": "synthetic://paypal/WH-000798",
+    "ts": "2026-10-12T18:32:23Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1176.27,
+    "currency": "GBP",
+    "customId": "E2E-BG-0400",
+    "eventId": "WH-000799",
+    "rawRef": "synthetic://paypal/WH-000799",
+    "ts": "2026-11-09T10:48:38Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1176.27,
+    "currency": "GBP",
+    "customId": "E2E-BG-0400",
+    "eventId": "WH-000800",
+    "rawRef": "synthetic://paypal/WH-000800",
+    "ts": "2026-11-09T10:49:38Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2521.58,
+    "currency": "GBP",
+    "customId": "E2E-HIST-FA-1",
+    "eventId": "WH-000801",
+    "rawRef": "synthetic://paypal/WH-000801",
+    "ts": "2026-11-03T15:16:54Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2521.58,
+    "currency": "GBP",
+    "customId": "E2E-HIST-FA-1",
+    "eventId": "WH-000802",
+    "rawRef": "synthetic://paypal/WH-000802",
+    "ts": "2026-11-03T15:17:54Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 2467.4,
+    "currency": "USD",
+    "customId": "E2E-HIST-FA-2",
+    "eventId": "WH-000803",
+    "rawRef": "synthetic://paypal/WH-000803",
+    "ts": "2026-10-20T10:20:53Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 2467.4,
+    "currency": "USD",
+    "customId": "E2E-HIST-FA-2",
+    "eventId": "WH-000804",
+    "rawRef": "synthetic://paypal/WH-000804",
+    "ts": "2026-10-20T10:21:53Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4628.67,
+    "currency": "EUR",
+    "customId": "E2E-HIST-FA-3",
+    "eventId": "WH-000805",
+    "rawRef": "synthetic://paypal/WH-000805",
+    "ts": "2026-10-31T08:02:27Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4628.67,
+    "currency": "EUR",
+    "customId": "E2E-HIST-FA-3",
+    "eventId": "WH-000806",
+    "rawRef": "synthetic://paypal/WH-000806",
+    "ts": "2026-10-31T08:03:27Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 349.36,
+    "currency": "EUR",
+    "customId": "E2E-HIST-HA-1",
+    "eventId": "WH-000807",
+    "rawRef": "synthetic://paypal/WH-000807",
+    "ts": "2026-10-21T08:19:05Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 349.36,
+    "currency": "EUR",
+    "customId": "E2E-HIST-HA-1",
+    "eventId": "WH-000808",
+    "rawRef": "synthetic://paypal/WH-000808",
+    "ts": "2026-10-21T08:20:05Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4440.18,
+    "currency": "EUR",
+    "customId": "E2E-HIST-HA-2",
+    "eventId": "WH-000809",
+    "rawRef": "synthetic://paypal/WH-000809",
+    "ts": "2026-10-27T06:31:51Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4440.18,
+    "currency": "EUR",
+    "customId": "E2E-HIST-HA-2",
+    "eventId": "WH-000810",
+    "rawRef": "synthetic://paypal/WH-000810",
+    "ts": "2026-10-27T06:32:51Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1578.23,
+    "currency": "GBP",
+    "customId": "E2E-HIST-HA-3",
+    "eventId": "WH-000811",
+    "rawRef": "synthetic://paypal/WH-000811",
+    "ts": "2026-10-29T23:10:04Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1578.23,
+    "currency": "GBP",
+    "customId": "E2E-HIST-HA-3",
+    "eventId": "WH-000812",
+    "rawRef": "synthetic://paypal/WH-000812",
+    "ts": "2026-10-29T23:11:04Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3214.14,
+    "currency": "GBP",
+    "customId": "E2E-HIST-HP-1",
+    "eventId": "WH-000813",
+    "rawRef": "synthetic://paypal/WH-000813",
+    "ts": "2026-11-06T12:40:15Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3214.14,
+    "currency": "GBP",
+    "customId": "E2E-HIST-HP-1",
+    "eventId": "WH-000814",
+    "rawRef": "synthetic://paypal/WH-000814",
+    "ts": "2026-11-06T12:41:15Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4138.51,
+    "currency": "USD",
+    "customId": "E2E-HIST-HP-2",
+    "eventId": "WH-000815",
+    "rawRef": "synthetic://paypal/WH-000815",
+    "ts": "2026-11-02T10:09:47Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4138.51,
+    "currency": "USD",
+    "customId": "E2E-HIST-HP-2",
+    "eventId": "WH-000816",
+    "rawRef": "synthetic://paypal/WH-000816",
+    "ts": "2026-11-02T10:10:47Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4919.48,
+    "currency": "USD",
+    "customId": "E2E-HIST-HP-3",
+    "eventId": "WH-000817",
+    "rawRef": "synthetic://paypal/WH-000817",
+    "ts": "2026-11-06T14:39:46Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4919.48,
+    "currency": "USD",
+    "customId": "E2E-HIST-HP-3",
+    "eventId": "WH-000818",
+    "rawRef": "synthetic://paypal/WH-000818",
+    "ts": "2026-11-06T14:40:46Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 900.0,
+    "currency": "GBP",
+    "customId": "E2E-FA",
+    "eventId": "WH-000819",
+    "rawRef": "synthetic://paypal/WH-000819",
+    "ts": "2026-11-19T12:00:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 900.0,
+    "currency": "GBP",
+    "customId": "E2E-FA",
+    "eventId": "WH-000820",
+    "rawRef": "synthetic://paypal/WH-000820",
+    "ts": "2026-11-19T12:01:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 4800.0,
+    "currency": "EUR",
+    "customId": "E2E-HA",
+    "eventId": "WH-000821",
+    "rawRef": "synthetic://paypal/WH-000821",
+    "ts": "2026-11-19T12:10:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 4800.0,
+    "currency": "EUR",
+    "customId": "E2E-HA",
+    "eventId": "WH-000822",
+    "rawRef": "synthetic://paypal/WH-000822",
+    "ts": "2026-11-19T12:11:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 3100.0,
+    "currency": "EUR",
+    "customId": "E2E-HP",
+    "eventId": "WH-000823",
+    "rawRef": "synthetic://paypal/WH-000823",
+    "ts": "2026-11-19T12:20:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 3100.0,
+    "currency": "EUR",
+    "customId": "E2E-HP",
+    "eventId": "WH-000824",
+    "rawRef": "synthetic://paypal/WH-000824",
+    "ts": "2026-11-19T12:21:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 235,
+    "currency": "GBP",
+    "customId": "E2E-MR-1",
+    "eventId": "WH-000825",
+    "rawRef": "synthetic://paypal/WH-000825",
+    "ts": "2026-11-20T04:17:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 235,
+    "currency": "GBP",
+    "customId": "E2E-MR-1",
+    "eventId": "WH-000826",
+    "rawRef": "synthetic://paypal/WH-000826",
+    "ts": "2026-11-20T04:18:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 270,
+    "currency": "USD",
+    "customId": "E2E-MR-2",
+    "eventId": "WH-000827",
+    "rawRef": "synthetic://paypal/WH-000827",
+    "ts": "2026-11-20T04:34:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 270,
+    "currency": "USD",
+    "customId": "E2E-MR-2",
+    "eventId": "WH-000828",
+    "rawRef": "synthetic://paypal/WH-000828",
+    "ts": "2026-11-20T04:35:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 305,
+    "currency": "USD",
+    "customId": "E2E-MR-3",
+    "eventId": "WH-000829",
+    "rawRef": "synthetic://paypal/WH-000829",
+    "ts": "2026-11-20T04:51:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 305,
+    "currency": "USD",
+    "customId": "E2E-MR-3",
+    "eventId": "WH-000830",
+    "rawRef": "synthetic://paypal/WH-000830",
+    "ts": "2026-11-20T04:52:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 340,
+    "currency": "GBP",
+    "customId": "E2E-MR-4",
+    "eventId": "WH-000831",
+    "rawRef": "synthetic://paypal/WH-000831",
+    "ts": "2026-11-20T05:08:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 340,
+    "currency": "GBP",
+    "customId": "E2E-MR-4",
+    "eventId": "WH-000832",
+    "rawRef": "synthetic://paypal/WH-000832",
+    "ts": "2026-11-20T05:09:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 375,
+    "currency": "USD",
+    "customId": "E2E-MR-5",
+    "eventId": "WH-000833",
+    "rawRef": "synthetic://paypal/WH-000833",
+    "ts": "2026-11-20T05:25:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 375,
+    "currency": "USD",
+    "customId": "E2E-MR-5",
+    "eventId": "WH-000834",
+    "rawRef": "synthetic://paypal/WH-000834",
+    "ts": "2026-11-20T05:26:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 410,
+    "currency": "USD",
+    "customId": "E2E-MR-6",
+    "eventId": "WH-000835",
+    "rawRef": "synthetic://paypal/WH-000835",
+    "ts": "2026-11-20T05:42:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 410,
+    "currency": "USD",
+    "customId": "E2E-MR-6",
+    "eventId": "WH-000836",
+    "rawRef": "synthetic://paypal/WH-000836",
+    "ts": "2026-11-20T05:43:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 640.0,
+    "currency": "GBP",
+    "customId": "E2E-STUCK",
+    "eventId": "WH-000837",
+    "rawRef": "synthetic://paypal/WH-000837",
+    "ts": "2026-11-20T09:00:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 640.0,
+    "currency": "GBP",
+    "customId": "E2E-STUCK",
+    "eventId": "WH-000838",
+    "rawRef": "synthetic://paypal/WH-000838",
+    "ts": "2026-11-20T09:01:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 720.0,
+    "currency": "USD",
+    "customId": "E2E-MISSING",
+    "eventId": "WH-000839",
+    "rawRef": "synthetic://paypal/WH-000839",
+    "ts": "2026-11-20T07:00:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 720.0,
+    "currency": "USD",
+    "customId": "E2E-MISSING",
+    "eventId": "WH-000840",
+    "rawRef": "synthetic://paypal/WH-000840",
+    "ts": "2026-11-20T07:01:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 410.0,
+    "currency": "GBP",
+    "customId": "E2E-DUP",
+    "eventId": "WH-000841",
+    "rawRef": "synthetic://paypal/WH-000841",
+    "ts": "2026-11-20T06:00:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 410.0,
+    "currency": "GBP",
+    "customId": "E2E-DUP",
+    "eventId": "WH-000842",
+    "rawRef": "synthetic://paypal/WH-000842",
+    "ts": "2026-11-20T06:01:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 1500.0,
+    "currency": "USD",
+    "customId": "E2E-MISMATCH",
+    "eventId": "WH-000843",
+    "rawRef": "synthetic://paypal/WH-000843",
+    "ts": "2026-11-20T05:00:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 1500.0,
+    "currency": "USD",
+    "customId": "E2E-MISMATCH",
+    "eventId": "WH-000844",
+    "rawRef": "synthetic://paypal/WH-000844",
+    "ts": "2026-11-20T05:01:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 530.0,
+    "currency": "GBP",
+    "customId": "E2E-OOO",
+    "eventId": "WH-000845",
+    "rawRef": "synthetic://paypal/WH-000845",
+    "ts": "2026-11-20T03:00:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 530.0,
+    "currency": "GBP",
+    "customId": "E2E-OOO",
+    "eventId": "WH-000846",
+    "rawRef": "synthetic://paypal/WH-000846",
+    "ts": "2026-11-20T03:01:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 250.0,
+    "currency": "EUR",
+    "customId": "E2E-CLEAN-1",
+    "eventId": "WH-000847",
+    "rawRef": "synthetic://paypal/WH-000847",
+    "ts": "2026-11-20T01:00:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 250.0,
+    "currency": "EUR",
+    "customId": "E2E-CLEAN-1",
+    "eventId": "WH-000848",
+    "rawRef": "synthetic://paypal/WH-000848",
+    "ts": "2026-11-20T01:01:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 500.0,
+    "currency": "GBP",
+    "customId": "E2E-CLEAN-2",
+    "eventId": "WH-000849",
+    "rawRef": "synthetic://paypal/WH-000849",
+    "ts": "2026-11-20T00:00:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 500.0,
+    "currency": "GBP",
+    "customId": "E2E-CLEAN-2",
+    "eventId": "WH-000850",
+    "rawRef": "synthetic://paypal/WH-000850",
+    "ts": "2026-11-20T00:01:00Z",
+    "type": "CAPTURE_COMPLETED"
+  },
+  {
+    "amount": 750.0,
+    "currency": "EUR",
+    "customId": "E2E-CLEAN-3",
+    "eventId": "WH-000851",
+    "rawRef": "synthetic://paypal/WH-000851",
+    "ts": "2026-11-19T23:00:00Z",
+    "type": "ORDER_CREATED"
+  },
+  {
+    "amount": 750.0,
+    "currency": "EUR",
+    "customId": "E2E-CLEAN-3",
+    "eventId": "WH-000852",
+    "rawRef": "synthetic://paypal/WH-000852",
+    "ts": "2026-11-19T23:01:00Z",
+    "type": "CAPTURE_COMPLETED"
+  }
+]

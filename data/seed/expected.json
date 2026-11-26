@@ -1,0 +1,142 @@
+{
+  "cases": [
+    {
+      "caseId": "FALSE_ALARM",
+      "category": "screening",
+      "description": "Common name matches a watchlist entry, but birth year, country, address and history all differ.",
+      "expectedFindings": [],
+      "expectedHops": 0,
+      "expectedNameVerdict": "DIFFERENT_PERSON",
+      "expectedOutcome": "AUTO_CLEARED",
+      "partyId": "P-FA-001",
+      "paymentKey": "FA",
+      "paymentUetr": "4a8abb17-309a-483a-8c9e-a060f66c7331"
+    },
+    {
+      "caseId": "HIDDEN_ADDRESS",
+      "category": "screening",
+      "description": "Clean name. The payer owns a company registered at an address shared with a sanctioned company.",
+      "expectedFindings": [],
+      "expectedHops": 3,
+      "expectedOutcome": "HELD",
+      "expectedPathRelationships": [
+        "OWNS",
+        "REGISTERED_AT",
+        "REGISTERED_AT"
+      ],
+      "partyId": "P-HA-001",
+      "paymentKey": "HA",
+      "paymentUetr": "c60fb252-4df7-42ae-a267-e12b65e5f13f"
+    },
+    {
+      "caseId": "HIDDEN_PHONE",
+      "category": "screening",
+      "description": "Clean name. The payer shares a phone with a director of a sanctioned company.",
+      "expectedFindings": [],
+      "expectedHops": 3,
+      "expectedOutcome": "HELD",
+      "expectedPathRelationships": [
+        "SHARES_PHONE",
+        "SHARES_PHONE",
+        "DIRECTOR_OF"
+      ],
+      "partyId": "P-HP-001",
+      "paymentKey": "HP",
+      "paymentUetr": "4b5f174b-6c26-4b56-aa9e-dda7761ad914"
+    },
+    {
+      "caseId": "MULE_RING",
+      "category": "signal",
+      "description": "Six different senders pay one receiver within 24 hours.",
+      "expectedDistinctSenders": 6,
+      "expectedFindings": [],
+      "expectedOutcome": "AUTO_CLEARED",
+      "expectedSignal": "MULE_RING",
+      "note": "The mule signal only adds to the score. Tune the threshold on this case.",
+      "partyId": "P-MR-000",
+      "paymentKey": "MR-1",
+      "paymentUetr": "84581f73-b0a0-41cd-8df6-c527eb45bc38"
+    },
+    {
+      "caseId": "STUCK",
+      "category": "lineage",
+      "description": "Instruction (pacs.008) sent, no status reply, nothing booked.",
+      "expectedFindings": [
+        "STUCK"
+      ],
+      "expectedOutcome": "AUTO_CLEARED",
+      "paymentKey": "STUCK",
+      "paymentUetr": "74661e6f-e1ee-41f1-b3b1-d0dce552d0a8"
+    },
+    {
+      "caseId": "MISSING_LEG",
+      "category": "lineage",
+      "description": "Debit booked, credit missing.",
+      "expectedFindings": [
+        "MISSING_LEG"
+      ],
+      "expectedOutcome": "AUTO_CLEARED",
+      "paymentKey": "MISSING",
+      "paymentUetr": "a6091ad0-b114-44aa-92f6-9081400564b8"
+    },
+    {
+      "caseId": "DUPLICATE",
+      "category": "lineage",
+      "description": "The same credit ledger entry is delivered twice (ingestCount 2).",
+      "expectedFindings": [
+        "DUPLICATE"
+      ],
+      "expectedOutcome": "AUTO_CLEARED",
+      "paymentKey": "DUP",
+      "paymentUetr": "bbb71494-b7e7-47d4-a9fb-832ccbe68571"
+    },
+    {
+      "caseId": "AMOUNT_MISMATCH",
+      "category": "lineage",
+      "description": "Sent minus received is 25.00 more than the declared fee.",
+      "expectedFindings": [
+        "AMOUNT_MISMATCH"
+      ],
+      "expectedOutcome": "AUTO_CLEARED",
+      "paymentKey": "MISMATCH",
+      "paymentUetr": "730bc657-b4cb-4613-9d39-e9c217584f23"
+    },
+    {
+      "caseId": "OUT_OF_ORDER",
+      "category": "lineage",
+      "description": "The status message (pacs.002) arrives before the instruction.",
+      "expectedFindings": [],
+      "expectedLinked": true,
+      "expectedOutcome": "AUTO_CLEARED",
+      "paymentKey": "OOO",
+      "paymentUetr": "b5103e9c-8618-440d-95d6-a6585ce9dbbc"
+    },
+    {
+      "caseId": "CLEAN",
+      "category": "lineage",
+      "description": "Normal payments with a complete chain and no risk links.",
+      "expectedFindings": [],
+      "expectedOutcome": "AUTO_CLEARED",
+      "otherPaymentUetrs": [
+        "8ce377d7-60f1-4528-a8ef-2f46f323123e",
+        "e98965f2-2bbf-4e35-84ac-b57d0b3d6dc9"
+      ],
+      "paymentKey": "CLEAN-1",
+      "paymentUetr": "82fc9294-f9a6-4522-8a83-5709ba146757"
+    }
+  ],
+  "demoPayments": {
+    "falseAlarm": "4a8abb17-309a-483a-8c9e-a060f66c7331",
+    "hiddenAddress": "c60fb252-4df7-42ae-a267-e12b65e5f13f",
+    "stuck": "74661e6f-e1ee-41f1-b3b1-d0dce552d0a8"
+  },
+  "meta": {
+    "muleMinSenders": 5,
+    "muleWindowHours": 24,
+    "referenceNow": "2026-11-20T12:00:00Z",
+    "seed": 42,
+    "stuckAfterMinutes": 30,
+    "synthetic": true,
+    "watchlist": "SYNTHETIC-WATCHLIST-1"
+  }
+}

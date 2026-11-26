@@ -11,3 +11,6 @@ dist/
 
 # Task 2 probe store
 data/probe.rl*
+
+# Relate store lock/journal files
+data/*.rl-*

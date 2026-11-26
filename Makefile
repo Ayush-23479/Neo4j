@@ -1,18 +1,19 @@
-.RECIPEPREFIX = >
+PY ?= backend/.venv/bin/python
 
 .PHONY: up down test lint seed
 
 up:
-> docker compose --build up
+	docker compose up --build
 
 down:
-> docker compose down
+	docker compose down
 
 test:
-> cd backend && pytest
+	cd backend && pytest
 
 lint:
-> cd backend && ruff check . && cd ../frontend && npm run lint
+	cd backend && ruff check . && cd ../frontend && npm run lint
 
 seed:
-> cd backend && python -m app.graph.schema
+	$(PY) generator/generate.py
+	$(PY) generator/loader.py
