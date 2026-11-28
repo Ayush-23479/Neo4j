@@ -1,3 +1,4 @@
+import asyncio
 import json
 import os
 import sys
@@ -101,7 +102,42 @@ def counts(conn) -> dict[str, int]:
     return out
 
 
+async def _post_load(path: Path) -> dict[str, int]:
+    """Task 9 + 10 after the seed: link every record to its Payment, refresh the roll-ups."""
+    from app.detect.matcher import orphan_count, relink_orphans
+    from app.graph.client import GraphClient
+    from app.screening.profile import build_rollups
+
+    client = GraphClient(str(path), default_timeout_s=60)
+    try:
+        linked = await relink_orphans(client)
+        links = await build_rollups(client)
+        return {"records linked": linked, "unmatched records": await orphan_count(client),
+                "SENT_FUNDS_TO links": links}
+    finally:
+        await client.close()
+
+
+def post_load(path: Path) -> dict[str, int]:
+    return asyncio.run(_post_load(path))
+
+
+def open_store(path: Path):
+    try:
+        return relate.connect(str(path))
+    except Exception as exc:
+        if "locked" in str(exc).lower():
+            raise SystemExit("The graph file is in use. Stop the backend first "
+                             "(docker compose down), then run this again.") from exc
+        raise
+
+
 def main() -> None:
+    if "--rollup" in sys.argv:  # make rollup: refresh matching + roll-ups, keep the data
+        path = store_path()
+        for label, count in post_load(path).items():
+            print(f"  {label}: {count}")
+        return
     keep = "--keep" in sys.argv
     if not SEED_DIR.exists():
         raise SystemExit("No data/seed folder. Run: python generator/generate.py")
@@ -124,6 +160,8 @@ def main() -> None:
         conn.close()
     print(f"Loaded {path} in {time.perf_counter() - start:.1f}s")
     for label, count in result.items():
+        print(f"  {label}: {count}")
+    for label, count in post_load(path).items():
         print(f"  {label}: {count}")
 
 
