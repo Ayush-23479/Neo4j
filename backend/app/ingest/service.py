@@ -1,12 +1,14 @@
 import hashlib
 import json
+import logging
 from collections.abc import Awaitable, Callable
 from datetime import UTC, datetime
 
 from pydantic import BaseModel
 
+from app.detect.matcher import relink_orphans
 from app.errors import ApiError
-from app.graph.client import GraphClient
+from app.graph.client import GraphClient, GraphError
 from app.ingest.models import (
     BankMessageIn,
     IngestResult,
@@ -15,6 +17,8 @@ from app.ingest.models import (
     PayPalEventIn,
     iso_utc,
 )
+
+logger = logging.getLogger("app.ingest")
 
 
 def _float(value) -> float | None:
@@ -51,6 +55,10 @@ async def _once(
             first = json.loads(found[0]["resultJson"])
             return IngestResult(id=first["id"], created=False, duplicate=True)
         result = await work()
+        try:  # Task 9: a late record or Payment links itself (we hold write_lock here)
+            await relink_orphans(graph)
+        except GraphError:
+            logger.warning("relink after ingest failed; the record stays unmatched for now")
         await graph.run_write(
             "merge_idempotency",
             {
